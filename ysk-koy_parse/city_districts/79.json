@@ -1,0 +1,54 @@
+[
+    {
+        "id": "915_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 915,
+        "ilce_ADI": "ELBEYLİ",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 79,
+        "il_ADI": "KİLİS",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "370_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 370,
+        "ilce_ADI": "KİLİS MERKEZ",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 79,
+        "il_ADI": "KİLİS",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "916_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 916,
+        "ilce_ADI": "MUSABEYLİ",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 79,
+        "il_ADI": "KİLİS",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "917_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 917,
+        "ilce_ADI": "POLATELİ",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 79,
+        "il_ADI": "KİLİS",
+        "secim_DETAY_ID": 0
+    }
+]

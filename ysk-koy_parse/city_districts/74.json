@@ -1,0 +1,54 @@
+[
+    {
+        "id": "654_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 654,
+        "ilce_ADI": "AMASRA",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 74,
+        "il_ADI": "BARTIN",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "71_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 71,
+        "ilce_ADI": "BARTIN MERKEZ",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 74,
+        "il_ADI": "BARTIN",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "389_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 389,
+        "ilce_ADI": "KURUCAŞİLE",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 74,
+        "il_ADI": "BARTIN",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "594_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 594,
+        "ilce_ADI": "ULUS",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 74,
+        "il_ADI": "BARTIN",
+        "secim_DETAY_ID": 0
+    }
+]

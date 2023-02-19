@@ -1,0 +1,93 @@
+[
+    {
+        "id": "78_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 78,
+        "ilce_ADI": "BAYKAN",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 56,
+        "il_ADI": "SİİRT",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "215_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 215,
+        "ilce_ADI": "ERUH",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 56,
+        "il_ADI": "SİİRT",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "388_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 388,
+        "ilce_ADI": "KURTALAN",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 56,
+        "il_ADI": "SİİRT",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "468_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 468,
+        "ilce_ADI": "PERVARİ",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 56,
+        "il_ADI": "SİİRT",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "513_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 513,
+        "ilce_ADI": "SİİRT MERKEZ",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 56,
+        "il_ADI": "SİİRT",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "555_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 555,
+        "ilce_ADI": "ŞİRVAN",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 56,
+        "il_ADI": "SİİRT",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "771_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 771,
+        "ilce_ADI": "TİLLO",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 56,
+        "il_ADI": "SİİRT",
+        "secim_DETAY_ID": 0
+    }
+]

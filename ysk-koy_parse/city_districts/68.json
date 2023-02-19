@@ -1,0 +1,93 @@
+[
+    {
+        "id": "753_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 753,
+        "ilce_ADI": "AĞAÇÖREN",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 68,
+        "il_ADI": "AKSARAY",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "20_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 20,
+        "ilce_ADI": "AKSARAY MERKEZ",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 68,
+        "il_ADI": "AKSARAY",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "814_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 814,
+        "ilce_ADI": "ESKİL",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 68,
+        "il_ADI": "AKSARAY",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "825_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 825,
+        "ilce_ADI": "GÜLAĞAÇ",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 68,
+        "il_ADI": "AKSARAY",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "754_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 754,
+        "ilce_ADI": "GÜZELYURT",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 68,
+        "il_ADI": "AKSARAY",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "450_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 450,
+        "ilce_ADI": "ORTAKÖY",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 68,
+        "il_ADI": "AKSARAY",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "759_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 759,
+        "ilce_ADI": "SARIYAHŞİ",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 68,
+        "il_ADI": "AKSARAY",
+        "secim_DETAY_ID": 0
+    }
+]

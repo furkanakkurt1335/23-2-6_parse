@@ -1,0 +1,80 @@
+[
+    {
+        "id": "769_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 769,
+        "ilce_ADI": "ALTUNHİSAR",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 51,
+        "il_ADI": "NİĞDE",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "100_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 100,
+        "ilce_ADI": "BOR",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 51,
+        "il_ADI": "NİĞDE",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "123_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 123,
+        "ilce_ADI": "ÇAMARDI",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 51,
+        "il_ADI": "NİĞDE",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "797_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 797,
+        "ilce_ADI": "ÇİFTLİK",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 51,
+        "il_ADI": "NİĞDE",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "437_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 437,
+        "ilce_ADI": "NİĞDE MERKEZ",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 51,
+        "il_ADI": "NİĞDE",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "593_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 593,
+        "ilce_ADI": "ULUKIŞLA",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 51,
+        "il_ADI": "NİĞDE",
+        "secim_DETAY_ID": 0
+    }
+]

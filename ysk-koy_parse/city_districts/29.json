@@ -1,0 +1,80 @@
+[
+    {
+        "id": "266_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 266,
+        "ilce_ADI": "GÜMÜŞHANE MERKEZ",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 29,
+        "il_ADI": "GÜMÜŞHANE",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "352_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 352,
+        "ilce_ADI": "KELKİT",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 29,
+        "il_ADI": "GÜMÜŞHANE",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "715_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 715,
+        "ilce_ADI": "KÖSE",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 29,
+        "il_ADI": "GÜMÜŞHANE",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "864_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 864,
+        "ilce_ADI": "KÜRTÜN",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 29,
+        "il_ADI": "GÜMÜŞHANE",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "553_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 553,
+        "ilce_ADI": "ŞİRAN",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 29,
+        "il_ADI": "GÜMÜŞHANE",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "577_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 577,
+        "ilce_ADI": "TORUL",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 29,
+        "il_ADI": "GÜMÜŞHANE",
+        "secim_DETAY_ID": 0
+    }
+]

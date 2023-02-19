@@ -1,0 +1,93 @@
+[
+    {
+        "id": "34_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 34,
+        "ilce_ADI": "AMASYA MERKEZ",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 5,
+        "il_ADI": "AMASYA",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "260_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 260,
+        "ilce_ADI": "GÖYNÜCEK",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 5,
+        "il_ADI": "AMASYA",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "265_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 265,
+        "ilce_ADI": "GÜMÜŞHACIKÖY",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 5,
+        "il_ADI": "AMASYA",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "831_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 831,
+        "ilce_ADI": "HAMAMÖZÜ",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 5,
+        "il_ADI": "AMASYA",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "417_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 417,
+        "ilce_ADI": "MERZİFON",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 5,
+        "il_ADI": "AMASYA",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "534_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 534,
+        "ilce_ADI": "SULUOVA",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 5,
+        "il_ADI": "AMASYA",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "561_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 561,
+        "ilce_ADI": "TAŞOVA",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 5,
+        "il_ADI": "AMASYA",
+        "secim_DETAY_ID": 0
+    }
+]

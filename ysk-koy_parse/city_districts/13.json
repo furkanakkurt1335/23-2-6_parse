@@ -1,0 +1,93 @@
+[
+    {
+        "id": "6_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 6,
+        "ilce_ADI": "ADİLCEVAZ",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 13,
+        "il_ADI": "BİTLİS",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "12_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 12,
+        "ilce_ADI": "AHLAT",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 13,
+        "il_ADI": "BİTLİS",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "95_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 95,
+        "ilce_ADI": "BİTLİS MERKEZ",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 13,
+        "il_ADI": "BİTLİS",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "691_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 691,
+        "ilce_ADI": "GÜROYMAK",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 13,
+        "il_ADI": "BİTLİS",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "291_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 291,
+        "ilce_ADI": "HİZAN",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 13,
+        "il_ADI": "BİTLİS",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "430_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 430,
+        "ilce_ADI": "MUTKİ",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 13,
+        "il_ADI": "BİTLİS",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "562_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 562,
+        "ilce_ADI": "TATVAN",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 13,
+        "il_ADI": "BİTLİS",
+        "secim_DETAY_ID": 0
+    }
+]

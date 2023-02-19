@@ -1,0 +1,744 @@
+[
+    {
+        "muhtarlik": "YAVUZ SELİM MAHALLESİ MUHTARLIĞI",
+        "muhtar": "Mehmet Dağhan",
+        "adres": "Yavuz Selim Mah. Hastane Cad. 57 Dk:1 Adıyaman Merkez, Adıyaman",
+        "birinci_tel": "0416 214 10 00",
+        "ikinci_tel": "0505 489 66 85"
+    },
+    {
+        "muhtarlik": "TURGUT REİS MAHALLESİ MUHTARLIĞI",
+        "muhtar": "Abdulkadir Geylani Taş",
+        "adres": "Turgut Reis Mah. Fevzi Çakmak Cad. 49 D:1 Adıyaman Merkez, Adıyaman",
+        "birinci_tel": "0416 213 65 66",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "YAZIBAŞI KÖYÜ MUHTARLIĞI",
+        "muhtar": "Hüseyin Akay",
+        "adres": "Yazıbaşı Köyü Adıyaman Merkez, Adıyaman",
+        "birinci_tel": "0416 263 70 31",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "AŞAĞIAZAPLI KÖYÜ MUHTARLIĞI",
+        "muhtar": "Hüseyin Belen",
+        "adres": "Aşağıazaplı Köyü Gölbaşı Adıyaman, Adıyaman",
+        "birinci_tel": "0416 794 40 61",
+        "ikinci_tel": "0536 338 80 19"
+    },
+    {
+        "muhtarlik": "MUSALLA MAHALLESİ MUHTARLIĞI",
+        "muhtar": "Mustafa Atilla Göksu",
+        "adres": "Musalla Mah. Atatürk Cad. Adıyaman Merkez, Adıyaman",
+        "birinci_tel": "0416 216 93 94",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "KAYALIK MAHALLESİ MUHTARLIĞI",
+        "muhtar": "Mehmet Abidin Ekinci",
+        "adres": "Kayalık Mah. Aşık Veysel Cad. 20 Adıyaman Merkez, Adıyaman",
+        "birinci_tel": "0538 967 21 00",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "KAPCAMİ MAHALLESİ MUHTARLIĞI",
+        "muhtar": "Emir Güneş",
+        "adres": "Kapcami Mah. 1023. Sok. Adıyaman Merkez, Adıyaman",
+        "birinci_tel": "0416 216 21 78",
+        "ikinci_tel": "0536 525 52 64"
+    },
+    {
+        "muhtarlik": "BÖRGENEK KÖYÜ MUHTARLIĞI",
+        "muhtar": "Hasan Ünalan",
+        "adres": "Börkenek Köyü Gölbaşı Yolu 98 Adıyaman Merkez, Adıyaman",
+        "birinci_tel": "0416 265 31 33",
+        "ikinci_tel": "0535 845 89 50"
+    },
+    {
+        "muhtarlik": "BARBAROS HAYRETTİN MAHALLESİ MUHTARLIĞI",
+        "muhtar": "Muhammet Gümüş",
+        "adres": "Barbaros Hayrettin Mah. 1612 Sok. Adıyaman Merkez, Adıyaman",
+        "birinci_tel": "0416 213 73 68",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "YUNUS EMRE MAHALLESİ MUHTARLIĞI",
+        "muhtar": "Abdurrahman Alkan",
+        "adres": "Yunus Emre Mah. Çelikhan, Adıyaman",
+        "birinci_tel": "0535 435 59 75",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "SAVRAN MAHALLESİ MUHTARLIĞI",
+        "muhtar": "Devlet Şenol",
+        "adres": "Savran Köyü Gölbaşı Adıyaman, Adıyaman",
+        "birinci_tel": "0536 273 47 29",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "KONUKLU KÖYÜ MUHTARLIĞI",
+        "muhtar": "Hasan Yılmaz",
+        "adres": "Konuklu Köyü Besni, Adıyaman",
+        "birinci_tel": "0535 826 82 49",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "KORUKÖY MUHTARLIĞI",
+        "muhtar": "Mahmut Kaplan",
+        "adres": "Koruköy Köyü Adıyaman Merkez, Adıyaman",
+        "birinci_tel": "0530 347 98 96",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "BÖRKENEK KÖYÜ MUHTARLIĞI",
+        "muhtar": "Hüseyin Alp",
+        "adres": "Börkenek Köyü Adıyaman Merkez, Adıyaman",
+        "birinci_tel": "0531 564 57 57",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "ALİŞAR KÖYÜ MUHTARLIĞI",
+        "muhtar": "Sait Aslan",
+        "adres": "Alişar Köyü Besni, Adıyaman",
+        "birinci_tel": "0532 307 98 32",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "MÜLK KÖYÜ MUHTARLIĞI",
+        "muhtar": "Ahmet Oğuz",
+        "adres": "Mülk Köyü Kahta, Adıyaman",
+        "birinci_tel": "0535 618 52 72",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "ULUDAM KÖYÜ MUHTARLIĞI",
+        "muhtar": "Abidin Kaya",
+        "adres": "Uludam Köyü Adıyaman Merkez, Adıyaman",
+        "birinci_tel": "0544 731 50 45",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "KARACAÖREN KÖYÜ MUHTARLIĞI",
+        "muhtar": "Ahmet Bozan",
+        "adres": "Karacaören Köyü Kahta, Adıyaman",
+        "birinci_tel": "0536 829 62 09",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "YAYLACIK KÖYÜ MUHTARLIĞI",
+        "muhtar": "Bilal Kaydu",
+        "adres": "Akçakaya Köyü Gölbaşı Adıyaman, Adıyaman",
+        "birinci_tel": "0537 219 58 13",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "Abdurrahman Akgün",
+        "muhtar": "",
+        "adres": "Alitaşı Mah. 1233. Sok. Adıyaman Merkez, Adıyaman",
+        "birinci_tel": "0416 213 43 42",
+        "ikinci_tel": "0543 711 42 23"
+    },
+    {
+        "muhtarlik": "KAYAÖNÜ KÖYÜ MUHTARLIĞI",
+        "muhtar": "Rifat Akgül",
+        "adres": "Kayaönü Köyü Adıyaman Merkez, Adıyaman",
+        "birinci_tel": "0536 852 18 06",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "ALTINŞEHİR MAHALLESİ MUHTARLIĞI",
+        "muhtar": "",
+        "adres": "Altınşehir Mah. Bağpınar Yolu Cad. 3001. Sok. (Cami Karşısı) Adıyaman Merkez, Adıyaman",
+        "birinci_tel": "0416 223 10 60",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "ÇATALTEPE KÖYÜ MUHTARLIĞI",
+        "muhtar": "Gönenç Dündar",
+        "adres": "Çataltepe Köyü Kahta, Adıyaman",
+        "birinci_tel": "0505 917 01 71",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "YAYLIMLI KÖYÜ MUHTARLIĞI",
+        "muhtar": "Mustafa Yücel",
+        "adres": "Yaylımlı Köyü Tut, Adıyaman",
+        "birinci_tel": "0506 535 65 68",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "DİLEKTEPE KÖYÜ MUHTARLIĞI",
+        "muhtar": "Ekrem Özbek",
+        "adres": "Dilektepe Köyü Sincik, Adıyaman",
+        "birinci_tel": "0536 477 68 23",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "BATTALHÜYÜK KÖYÜ MUHTARLIĞI",
+        "muhtar": "Yusuf Doğan",
+        "adres": "Battalhüyük Köyü 1. Cad. 1. Sok. Adıyaman Merkez, Adıyaman",
+        "birinci_tel": "0507 334 58 81",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "KONUKLU KÖYÜ MUHTARLIĞI",
+        "muhtar": "Hasan Yılmaz",
+        "adres": "Konuklu Köyü Besni, Adıyaman",
+        "birinci_tel": "0535 826 82 49",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "SAVRAN MAHALLESİ MUHTARLIĞI",
+        "muhtar": "Devlet Şenol",
+        "adres": "Savran Köyü Gölbaşı Adıyaman, Adıyaman",
+        "birinci_tel": "0536 273 47 29",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "YAYLACIK KÖYÜ MUHTARLIĞI",
+        "muhtar": "Bilal Kaydu",
+        "adres": "Akçakaya Köyü Gölbaşı Adıyaman, Adıyaman",
+        "birinci_tel": "0537 219 58 13",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "KAVAKLI KÖYÜ MUHTARLIĞI",
+        "muhtar": "Yusuf Bozkurt",
+        "adres": "Kavaklı Köyü Kahta, Adıyaman",
+        "birinci_tel": "0530 402 18 86",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "KUYULU KÖYÜ MUHTARLIĞI",
+        "muhtar": "",
+        "adres": "Kuyulu Köyü Adıyaman Merkez, Adıyaman",
+        "birinci_tel": "0532 233 87 12",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "ORTANCA KÖYÜ MUHTARLIĞI",
+        "muhtar": "",
+        "adres": "Ortanca Köyü Kahta, Adıyaman",
+        "birinci_tel": "0536 459 00 95",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "ESENTEPE MAHALLESİ MUHTARLIĞI",
+        "muhtar": "Şevket Bayrak",
+        "adres": "Esentepe Mah. Adıyaman Merkez, Adıyaman",
+        "birinci_tel": "0537 892 57 19",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "HARMANARDI KÖYÜ MUHTARLIĞI",
+        "muhtar": "Ahmet Argun",
+        "adres": "Harmanardı Köyü Besni, Adıyaman",
+        "birinci_tel": "0530 348 12 09",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "AKÇABEL KÖYÜ MUHTARLIĞI",
+        "muhtar": "Ali Kaşikara",
+        "adres": "Akçabel Köyü Gölbaşı Adıyaman, Adıyaman",
+        "birinci_tel": "0536 318 15 69",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "HACIHALİL KÖYÜ MUHTARLIĞI",
+        "muhtar": "Memet Önder",
+        "adres": "Hacıhalil Köyü Besni, Adıyaman",
+        "birinci_tel": "0537 835 66 66",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "ÖRENLİ MAHALLESİ MUHTARLIĞI",
+        "muhtar": "Ahmet Kara",
+        "adres": "Örenli Mah. 3309 Sok. 18 Adıyaman Merkez, Adıyaman",
+        "birinci_tel": "0533 424 32 77",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "ÇELİKKÖY KÖYÜ MUHTARLIĞI",
+        "muhtar": "Süleyman Çelik",
+        "adres": "Çelikköy Köyü Gölbaşı Adıyaman, Adıyaman",
+        "birinci_tel": "0532 553 03 26",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "KARACAÖREN KÖYÜ MUHTARLIĞI",
+        "muhtar": "Ahmet Bozan",
+        "adres": "Karacaören Köyü Kahta, Adıyaman",
+        "birinci_tel": "0536 829 62 09",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "YARMAKAYA KÖYÜ MUHTARLIĞI",
+        "muhtar": "Mahmut Güneş",
+        "adres": "Yarmakaya Köyü Adıyaman Merkez, Adıyaman",
+        "birinci_tel": "0530 872 65 70",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "DURAK KÖYÜ MUHTARLIĞI",
+        "muhtar": "Halil Sarıçayır",
+        "adres": "Durak Köyü Kahta, Adıyaman",
+        "birinci_tel": "0416 745 81 84",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "MİMARSİNAN MAHALLESİ MUHTARLIĞI",
+        "muhtar": "Hüseyin Örge",
+        "adres": "Mimar Sinan Mah. Gölbaşı Adıyaman, Adıyaman",
+        "birinci_tel": "0537 393 75 33",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "SARIHARMAN KÖYÜ MUHTARLIĞI",
+        "muhtar": "Bedir Kılınç",
+        "adres": "Sarıharman Köyü Adıyaman Merkez, Adıyaman",
+        "birinci_tel": "0533 569 11 85",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "GÜMÜŞKAYA KÖYÜ MUHTARLIĞI",
+        "muhtar": "Halil Coşkun",
+        "adres": "Gümüşkaya Köyü Adıyaman Merkez, Adıyaman",
+        "birinci_tel": "0538 616 76 98",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "YUKARI SARHAN MAHALLESİ MUHTARLIĞI",
+        "muhtar": "Haci Bozbayır",
+        "adres": "Yukarı Sarhan Mah. Besni, Adıyaman",
+        "birinci_tel": "0536 846 52 02",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "GÜZELSU KÖYÜ MUHTARLIĞI",
+        "muhtar": "Berali Çolak",
+        "adres": "Güzelsu Köyü 1. Cad. 166 Gerger, Adıyaman",
+        "birinci_tel": "0532 769 36 49",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "ÇATALAĞAÇ KÖYÜ MUHTARLIĞI",
+        "muhtar": "Tuncay Çakmak",
+        "adres": "Çatalağaç Köyü Gölbaşı Adıyaman, Adıyaman",
+        "birinci_tel": "0535 378 48 10",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "SARIKAYA KÖYÜ MUHTARLIĞI",
+        "muhtar": "Mahmut Öner",
+        "adres": "Sarıkayaköyü Mah. Kahta, Adıyaman",
+        "birinci_tel": "0537 443 73 92",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "MENZİL KÖYÜ MUHTARLIĞI",
+        "muhtar": "",
+        "adres": "Durak Köyü Menzil Köyü, Kahta, Adıyaman",
+        "birinci_tel": "0505 536 34 09",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "YUNUS EMRE MAHALLESİ MUHTARLIĞI",
+        "muhtar": "Abdurrahman Alkan",
+        "adres": "Yunus Emre Mah. Çelikhan, Adıyaman",
+        "birinci_tel": "0535 435 59 75",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "ALİŞAR KÖYÜ MUHTARLIĞI",
+        "muhtar": "Sait Aslan",
+        "adres": "Alişar Köyü Besni, Adıyaman",
+        "birinci_tel": "0532 307 98 32",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "Abdurrahman Akgün",
+        "muhtar": "",
+        "adres": "Alitaşı Mah. 1233. Sok. Adıyaman Merkez, Adıyaman",
+        "birinci_tel": "0416 213 43 42",
+        "ikinci_tel": "0543 711 42 23"
+    },
+    {
+        "muhtarlik": "ÇORAK KÖYÜ MUHTARLIĞI",
+        "muhtar": "Vakkas Erlale",
+        "adres": "Çorak Köyü Besni, Adıyaman",
+        "birinci_tel": "0535 247 31 28",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "HIROĞLU MAHALLESİ MUHTARLIĞI",
+        "muhtar": "Savaş Özgöçer",
+        "adres": "Hıroğlu Mah. Adıyaman Cad. 55 Yeşilyurt, Malatya",
+        "birinci_tel": "0539 247 88 50",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "KARAPINAR MAHALLESİ MUHTARLIĞI",
+        "muhtar": "Adnan Bozkurt",
+        "adres": "Karapınar Mah. Adıyaman Merkez, Adıyaman",
+        "birinci_tel": "0537 351 44 77",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "YARIMBAĞ KÖYÜ MUHTARLIĞI",
+        "muhtar": "Memet Tepe",
+        "adres": "Yarımbağ Köyü Samsat, Adıyaman",
+        "birinci_tel": "0535 470 17 89",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "BOZHÜYÜK KÖYÜ MUHTARLIĞI",
+        "muhtar": "Mahmut Karataş",
+        "adres": "Boyhüyük Köyü Adıyaman Merkez, Adıyaman",
+        "birinci_tel": "0535 307 63 18",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "GÜNGÖRMÜŞ KÖYÜ MUHTARLIĞI",
+        "muhtar": "Mehmet Nergizka",
+        "adres": "Güngörmüş Köyü Gerger, Adıyaman",
+        "birinci_tel": "0535 203 28 84",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "KARABURUN KÖYÜ MUHTARLIĞI",
+        "muhtar": "Bayram Şenocak",
+        "adres": "Karaburun Köyü Gölbaşı Adıyaman, Adıyaman",
+        "birinci_tel": "0535 949 43 11",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "ÇUKURTAŞ KÖYÜ MUHTARLIĞI",
+        "muhtar": "Hacı Ömer Türk",
+        "adres": "Çukurtaş Köyü Kahta, Adıyaman",
+        "birinci_tel": "0535 203 02 32",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "KEMERKAYA KÖYÜ MUHTARLIĞI",
+        "muhtar": "Ebubekir Topbaş",
+        "adres": "Kemerkaya Köyü Adıyaman Merkez, Adıyaman",
+        "birinci_tel": "0533 170 60 33",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "AKYILDIZ KÖYÜ MUHTARLIĞI",
+        "muhtar": "",
+        "adres": "Akyıldız Köyü Kahta, Adıyaman",
+        "birinci_tel": "0533 611 76 46",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "YAZLIK KÖYÜ MUHTARLIĞI",
+        "muhtar": "Yusuf Öztunç",
+        "adres": "Yazlık Köyü Dk:10 Adıyaman Merkez, Adıyaman",
+        "birinci_tel": "0533 660 74 50",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "ÇATALTEPE KÖYÜ MUHTARLIĞI",
+        "muhtar": "Hüseyin Bilgili",
+        "adres": "Çataltepe Köyü Gölbaşı Adıyaman, Adıyaman",
+        "birinci_tel": "0536 668 41 60",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "OLUKLU KÖYÜ MUHTARLIĞI",
+        "muhtar": "Memet Barak",
+        "adres": "Oluklu Köyü Kahta, Adıyaman",
+        "birinci_tel": "0533 681 78 21",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "PINARYAYLA KÖYÜ MUHTARLIĞI",
+        "muhtar": "Halit Turgut",
+        "adres": "Pınaryayla Köyü Adıyaman Merkez, Adıyaman",
+        "birinci_tel": "0545 457 03 55",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "YEŞİLYURT MAHALLESİ MUHTARLIĞI",
+        "muhtar": "Ömer Kaplan",
+        "adres": "Yeşilyurt Mah. Adıyaman Merkez, Adıyaman",
+        "birinci_tel": "0541 610 12 28",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "GÖLTARLA KÖYÜ MUHTARLIĞI",
+        "muhtar": "Ali Taşkın",
+        "adres": "Göltarla Köyü 1. Cad. 1. Sok. Samsat, Adıyaman",
+        "birinci_tel": "0533 764 76 32",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "YAVUZ SELİM MAHALLESİ MUHTARLIĞI",
+        "muhtar": "Mehmet Nebilir",
+        "adres": "Yavuz Selim Mah. Gölbaşı Adıyaman, Adıyaman",
+        "birinci_tel": "0535 365 68 88",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "YENİGÜVEN KÖYÜ MUHTARLIĞI",
+        "muhtar": "Haci Karakoç",
+        "adres": "Yenigüven Köyü Adıyaman Merkez, Adıyaman",
+        "birinci_tel": "0535 299 88 21",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "AYDINPINAR KÖYÜ MUHTARLIĞI",
+        "muhtar": "Mehmet Güzel",
+        "adres": "Aydınpınar Köyü Kahta, Adıyaman",
+        "birinci_tel": "0533 816 03 39",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "YENİ SANAYİ MAHALLESİ MUHTARLIĞI",
+        "muhtar": "Zeynal Güler",
+        "adres": "Yeni Sanayi Mah. Adıyaman Merkez, Adıyaman",
+        "birinci_tel": "0536 499 88 84",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "KOÇALİ KÖYÜ MUHTARLIĞI",
+        "muhtar": "Hacı İzci",
+        "adres": "Koçali Köyü Adıyaman Merkez, Adıyaman",
+        "birinci_tel": "0416 248 21 42",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "GÖZPINAR KÖYÜ MUHTARLIĞI",
+        "muhtar": "",
+        "adres": "Gözpınar Köyü Gerger, Adıyaman",
+        "birinci_tel": "0537 692 95 59",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "KOZAN KÖYÜ MUHTARLIĞI",
+        "muhtar": "Mehmet Çelik",
+        "adres": "Kozan Köyü Adıyaman Merkez, Adıyaman",
+        "birinci_tel": "0531 885 50 49",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "KÜÇÜKÖREN KÖYÜ MUHTARLIĞI",
+        "muhtar": "Hasan Güler",
+        "adres": "Küçükören Köyü Söğütlü, Gölbaşı Adıyaman, Adıyaman",
+        "birinci_tel": "0530 222 31 66",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "SARAYCIK KÖYÜ MUHTARLIĞI",
+        "muhtar": "Aziz Yeşilkaya",
+        "adres": "Saraycık Köyü Gerger, Adıyaman",
+        "birinci_tel": "0537 246 34 45",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "OYRATLI KÖYÜ MUHTARLIĞI",
+        "muhtar": "Hanifi Değirmenci",
+        "adres": "Oyratlı Köyü Besni, Adıyaman",
+        "birinci_tel": "0533 565 52 25",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "YENİPINAR MAHALLESİ MUHTARLIĞI",
+        "muhtar": "Mehmet Ali Kurtulmuş",
+        "adres": "Yenipınar Mah. 307. Sok. K:2 Adıyaman Merkez, Adıyaman",
+        "birinci_tel": "0536 523 47 33",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "KOCAHİSAR KÖYÜ MUHTARLIĞI",
+        "muhtar": "İzzet Avcı",
+        "adres": "Kocahisar Köyü Kahta, Adıyaman",
+        "birinci_tel": "0531 565 15 30",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "KARAGÜVEÇ KÖYÜ MUHTARLIĞI",
+        "muhtar": "Fatih Demir",
+        "adres": "Karagüveç Köyü Besni, Adıyaman",
+        "birinci_tel": "0537 668 74 09",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "SAKIZ KÖYÜ MUHTARLIĞI",
+        "muhtar": "",
+        "adres": "Sakız Köyü Sincik, Adıyaman",
+        "birinci_tel": "0530 344 55 23",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "KÖKLÜCE KÖYÜ MUHTARLIĞI",
+        "muhtar": "Mahmut Karakoyun",
+        "adres": "Köklüce Köyü Gerger, Adıyaman",
+        "birinci_tel": "0533 742 74 41",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "AĞAÇKONAK KÖYÜ MUHTARLIĞI",
+        "muhtar": "Bayram Güler",
+        "adres": "Ağaçkonak Köyü Adıyaman Merkez, Adıyaman",
+        "birinci_tel": "0416 264 20 42",
+        "ikinci_tel": "0532 605 83 21"
+    },
+    {
+        "muhtarlik": "MÜLK KÖYÜ MUHTARLIĞI",
+        "muhtar": "Ahmet Oğuz",
+        "adres": "Mülk Köyü Kahta, Adıyaman",
+        "birinci_tel": "0535 618 52 72",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "GÖZEBAŞI KÖYÜ MUHTARLIĞI",
+        "muhtar": "Şevket Alagöz",
+        "adres": "Gözebaşı Köyü Adıyaman Merkez, Adıyaman",
+        "birinci_tel": "0536 373 98 37",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "TEĞMENLİ KÖYÜ MUHTARLIĞI",
+        "muhtar": "Mehmet Kaya",
+        "adres": "Teğmenli Köyü Kahta, Adıyaman",
+        "birinci_tel": "0536 669 92 98",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "MENDERES MAHALLESİ MUHTARLIĞI",
+        "muhtar": "Mustafa Genç",
+        "adres": "Menderes Mah. Kahta, Adıyaman",
+        "birinci_tel": "0535 342 71 53",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "VARLIK MAHALLESİ MUHTARLIĞI",
+        "muhtar": "Zekeriya Polat",
+        "adres": "Varlık Mah. Polat Cad. Adıyaman Merkez, Adıyaman",
+        "birinci_tel": "0416 213 65 40",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "RECEPKÖY KÖYÜ MUHTARLIĞI",
+        "muhtar": "Basri Kaygusuz",
+        "adres": "Recepköy Köyü Çelikhan, Adıyaman",
+        "birinci_tel": "0536 943 41 84",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "BURUNÇAYIR KÖYÜ MUHTARLIĞI",
+        "muhtar": "Memet Karaarslan",
+        "adres": "Burunçayır Köyü Besni, Adıyaman",
+        "birinci_tel": "0532 175 69 30",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "ULUPINAR KÖYÜ MUHTARLIĞI",
+        "muhtar": "İsmail Başli",
+        "adres": "Ulupınar Köyü Kahta, Adıyaman",
+        "birinci_tel": "0532 200 55 12",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "BELENLİ KÖYÜ MUHTARLIĞI",
+        "muhtar": "Ramazan Padır",
+        "adres": "Belenli Köyü Kahta, Adıyaman",
+        "birinci_tel": "0533 560 80 52",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "BOĞAZKAYA KÖYÜ MUHTARLIĞI",
+        "muhtar": "Vakas Çitil",
+        "adres": "Boğazkaya Köyü Kahta, Adıyaman",
+        "birinci_tel": "0537 430 48 14",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "CUMHURİYET MAHALLESİ MUHTARLIĞI",
+        "muhtar": "Abdulrahim Aydın",
+        "adres": "Cumhuriyet Mah. Hacı Fehmi Efendi Cad. 32 Adıyaman Merkez, Adıyaman",
+        "birinci_tel": "0535 794 36 98",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "UZUNKUYU KÖYÜ MUHTARLIĞI",
+        "muhtar": "Sadık Arslan",
+        "adres": "Uzunkuyu Köyü Besni, Adıyaman",
+        "birinci_tel": "0538 835 67 41",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "KARADUT KÖYÜ MUHTARLIĞI",
+        "muhtar": "Mustafa Orhan",
+        "adres": "Karadut Köyü Kahta, Adıyaman",
+        "birinci_tel": "0536 589 69 81",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "KUŞTEPE KÖYÜ MUHTARLIĞI",
+        "muhtar": "Şeyh Abdurrahman Kuştepe",
+        "adres": "Kuştepe Köyü Samsat, Adıyaman",
+        "birinci_tel": "0532 132 80 06",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "CUMHURİYET KÖYÜ MUHTARLIĞI",
+        "muhtar": "İsmail Akatay",
+        "adres": "Cumhuriyet Köyü Kahta, Adıyaman",
+        "birinci_tel": "0539 812 87 38",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "BÖRKENEK KÖYÜ MUHTARLIĞI",
+        "muhtar": "Hüseyin Alp",
+        "adres": "Börkenek Köyü Adıyaman Merkez, Adıyaman",
+        "birinci_tel": "0531 564 57 57",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "ESKİTAŞ KÖYÜ MUHTARLIĞI",
+        "muhtar": "Mevlüt Alagöz",
+        "adres": "Eskitaş Köyü Kahta, Adıyaman",
+        "birinci_tel": "0530 849 84 22",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "ADALI KÖYÜ MUHTARLIĞI",
+        "muhtar": "Hasan Erdoğan",
+        "adres": "Adalı Köyü Kahta, Adıyaman",
+        "birinci_tel": "0543 554 65 00",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "AKÇAKAYA KÖYÜ MUHTARLIĞI",
+        "muhtar": "",
+        "adres": "Akçakaya Köyü Gölbaşı Adıyaman, Adıyaman",
+        "birinci_tel": "0507 688 21 27",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "DAMLACIK KÖYÜ MUHTARLIĞI",
+        "muhtar": "Mehmet Demiral",
+        "adres": "Damlacık Köyü Kahta, Adıyaman",
+        "birinci_tel": "0544 741 22 09",
+        "ikinci_tel": "0530 775 50 81"
+    },
+    {
+        "muhtarlik": "KÖSECELİ KÖYÜ MUHTARLIĞI",
+        "muhtar": "Ayfer Yıldız",
+        "adres": "Köseceli-Cumhuriyet Mah. Besni, Adıyaman",
+        "birinci_tel": "0538 457 25 37",
+        "ikinci_tel": ""
+    },
+    {
+        "muhtarlik": "YUKARI NASIRLI KÖYÜ MUHTARLIĞI",
+        "muhtar": "Ali Küçük",
+        "adres": "Yukarı Nasırlı Köyü Gölbaşı Adıyaman, Adıyaman",
+        "birinci_tel": "0536 662 49 04",
+        "ikinci_tel": "0531 872 81 95"
+    }
+]

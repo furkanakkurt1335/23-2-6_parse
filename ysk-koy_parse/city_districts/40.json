@@ -1,0 +1,93 @@
+[
+    {
+        "id": "762_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 762,
+        "ilce_ADI": "AKÇAKENT",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 40,
+        "il_ADI": "KIRŞEHİR",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "647_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 647,
+        "ilce_ADI": "AKPINAR",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 40,
+        "il_ADI": "KIRŞEHİR",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "783_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 783,
+        "ilce_ADI": "BOZTEPE",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 40,
+        "il_ADI": "KIRŞEHİR",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "152_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 152,
+        "ilce_ADI": "ÇİÇEKDAĞI",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 40,
+        "il_ADI": "KIRŞEHİR",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "324_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 324,
+        "ilce_ADI": "KAMAN",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 40,
+        "il_ADI": "KIRŞEHİR",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "366_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 366,
+        "ilce_ADI": "KIRŞEHİR MERKEZ",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 40,
+        "il_ADI": "KIRŞEHİR",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "422_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 422,
+        "ilce_ADI": "MUCUR",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 40,
+        "il_ADI": "KIRŞEHİR",
+        "secim_DETAY_ID": 0
+    }
+]

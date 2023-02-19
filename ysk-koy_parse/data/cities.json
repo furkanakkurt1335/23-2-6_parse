@@ -1,0 +1,731 @@
+[
+    {
+        "id": "1_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 1,
+        "il_ADI": "ADANA",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "2_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 2,
+        "il_ADI": "ADIYAMAN",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "3_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 3,
+        "il_ADI": "AFYONKARAHİSAR",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "4_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 4,
+        "il_ADI": "AĞRI",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "68_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 68,
+        "il_ADI": "AKSARAY",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "5_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 5,
+        "il_ADI": "AMASYA",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "6_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 6,
+        "il_ADI": "ANKARA",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "7_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 7,
+        "il_ADI": "ANTALYA",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "75_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 75,
+        "il_ADI": "ARDAHAN",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "8_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 8,
+        "il_ADI": "ARTVİN",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "9_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 9,
+        "il_ADI": "AYDIN",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "10_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 10,
+        "il_ADI": "BALIKESİR",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "74_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 74,
+        "il_ADI": "BARTIN",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "72_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 72,
+        "il_ADI": "BATMAN",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "69_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 69,
+        "il_ADI": "BAYBURT",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "11_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 11,
+        "il_ADI": "BİLECİK",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "12_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 12,
+        "il_ADI": "BİNGÖL",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "13_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 13,
+        "il_ADI": "BİTLİS",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "14_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 14,
+        "il_ADI": "BOLU",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "15_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 15,
+        "il_ADI": "BURDUR",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "16_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 16,
+        "il_ADI": "BURSA",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "17_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 17,
+        "il_ADI": "ÇANAKKALE",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "18_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 18,
+        "il_ADI": "ÇANKIRI",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "19_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 19,
+        "il_ADI": "ÇORUM",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "20_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 20,
+        "il_ADI": "DENİZLİ",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "21_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 21,
+        "il_ADI": "DİYARBAKIR",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "81_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 81,
+        "il_ADI": "DÜZCE",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "22_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 22,
+        "il_ADI": "EDİRNE",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "23_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 23,
+        "il_ADI": "ELAZIĞ",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "24_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 24,
+        "il_ADI": "ERZİNCAN",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "25_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 25,
+        "il_ADI": "ERZURUM",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "26_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 26,
+        "il_ADI": "ESKİŞEHİR",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "27_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 27,
+        "il_ADI": "GAZİANTEP",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "28_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 28,
+        "il_ADI": "GİRESUN",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "29_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 29,
+        "il_ADI": "GÜMÜŞHANE",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "30_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 30,
+        "il_ADI": "HAKKARİ",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "31_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 31,
+        "il_ADI": "HATAY",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "76_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 76,
+        "il_ADI": "IĞDIR",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "32_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 32,
+        "il_ADI": "ISPARTA",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "34_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 34,
+        "il_ADI": "İSTANBUL",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "35_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 35,
+        "il_ADI": "İZMİR",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "46_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 46,
+        "il_ADI": "KAHRAMANMARAŞ",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "78_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 78,
+        "il_ADI": "KARABÜK",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "70_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 70,
+        "il_ADI": "KARAMAN",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "36_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 36,
+        "il_ADI": "KARS",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "37_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 37,
+        "il_ADI": "KASTAMONU",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "38_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 38,
+        "il_ADI": "KAYSERİ",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "71_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 71,
+        "il_ADI": "KIRIKKALE",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "39_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 39,
+        "il_ADI": "KIRKLARELİ",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "40_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 40,
+        "il_ADI": "KIRŞEHİR",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "79_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 79,
+        "il_ADI": "KİLİS",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "41_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 41,
+        "il_ADI": "KOCAELİ",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "42_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 42,
+        "il_ADI": "KONYA",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "43_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 43,
+        "il_ADI": "KÜTAHYA",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "44_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 44,
+        "il_ADI": "MALATYA",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "45_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 45,
+        "il_ADI": "MANİSA",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "47_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 47,
+        "il_ADI": "MARDİN",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "33_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 33,
+        "il_ADI": "MERSİN",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "48_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 48,
+        "il_ADI": "MUĞLA",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "49_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 49,
+        "il_ADI": "MUŞ",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "50_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 50,
+        "il_ADI": "NEVŞEHİR",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "51_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 51,
+        "il_ADI": "NİĞDE",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "52_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 52,
+        "il_ADI": "ORDU",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "80_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 80,
+        "il_ADI": "OSMANİYE",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "53_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 53,
+        "il_ADI": "RİZE",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "54_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 54,
+        "il_ADI": "SAKARYA",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "55_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 55,
+        "il_ADI": "SAMSUN",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "56_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 56,
+        "il_ADI": "SİİRT",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "57_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 57,
+        "il_ADI": "SİNOP",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "58_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 58,
+        "il_ADI": "SİVAS",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "63_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 63,
+        "il_ADI": "ŞANLIURFA",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "73_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 73,
+        "il_ADI": "ŞIRNAK",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "59_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 59,
+        "il_ADI": "TEKİRDAĞ",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "60_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 60,
+        "il_ADI": "TOKAT",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "61_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 61,
+        "il_ADI": "TRABZON",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "62_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 62,
+        "il_ADI": "TUNCELİ",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "64_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 64,
+        "il_ADI": "UŞAK",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "65_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 65,
+        "il_ADI": "VAN",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "77_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 77,
+        "il_ADI": "YALOVA",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "66_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 66,
+        "il_ADI": "YOZGAT",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "67_141202",
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 67,
+        "il_ADI": "ZONGULDAK",
+        "secim_DETAY_ID": 0
+    }
+]

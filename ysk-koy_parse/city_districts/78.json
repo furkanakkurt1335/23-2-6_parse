@@ -1,0 +1,80 @@
+[
+    {
+        "id": "194_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 194,
+        "ilce_ADI": "EFLANİ",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 78,
+        "il_ADI": "KARABÜK",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "219_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 219,
+        "ilce_ADI": "ESKİPAZAR",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 78,
+        "il_ADI": "KARABÜK",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "328_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 328,
+        "ilce_ADI": "KARABÜK MERKEZ",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 78,
+        "il_ADI": "KARABÜK",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "454_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 454,
+        "ilce_ADI": "OVACIK",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 78,
+        "il_ADI": "KARABÜK",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "480_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 480,
+        "ilce_ADI": "SAFRANBOLU",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 78,
+        "il_ADI": "KARABÜK",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "749_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 749,
+        "ilce_ADI": "YENİCE",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 78,
+        "il_ADI": "KARABÜK",
+        "secim_DETAY_ID": 0
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "muhtarlik_ID": 87073,
+        "min_SANDIK_NO": "1001",
+        "max_SANDIK_NO": "1002",
+        "muhtarlik_ADI": "ALAYBEY MAH.",
+        "cezaevi_ID": 0,
+        "id": "104_0_442",
+        "birim_ID": 442,
+        "ilce_ID": 104,
+        "ilce_ADI": null,
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 0,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 17,
+        "il_ADI": null,
+        "secim_DETAY_ID": 0
+    },
+    {
+        "muhtarlik_ID": 87074,
+        "min_SANDIK_NO": "1003",
+        "max_SANDIK_NO": "1005",
+        "muhtarlik_ADI": "CUMHURİYET MAH.",
+        "cezaevi_ID": 0,
+        "id": "104_0_442",
+        "birim_ID": 442,
+        "ilce_ID": 104,
+        "ilce_ADI": null,
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 0,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 17,
+        "il_ADI": null,
+        "secim_DETAY_ID": 0
+    }
+]

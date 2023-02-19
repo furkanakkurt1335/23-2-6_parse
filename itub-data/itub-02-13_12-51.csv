@@ -1,0 +1,791 @@
+İl	İlçe	Köy	Merkeze uzaklık (km)	Birincil Öncelik	İkincil	Üçüncül	Telefon	Çocuk	Kadın	Yetişkin	Yaşlı	Hane	Yıkılan	Bilgi Alınan Vakit	Ek
+Hatay	Kırıkhan	Saylak	51.67	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Diğer		50						13/02/23 06:13	Çadır aciliyeti var
+Hatay	Kırıkhan	Özsoğuksu	32.10	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)			100		500	100		60	13/02/23 06:10	Araç için yakıt sıkıntısı var 
+Hatay	Kırıkhan	Özkızılkaya	38.44	Barınma (Çadır, konteyner gibi)	Diğer								0	13/02/23 06:07	Araçlar için yakıt sıkıntısı var. Aciliyette ilaca ihtiyaç var
+Hatay	Kırıkhan	Narlıhöbür	57.66	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)								4	13/02/23 06:00	Yaklaşık 200 kişi nüfus fakat 700'e yaklaşmış. Hasar çok olmadığı söylendi. Koordinasyon konusunda kopukluklar ve çok fazla kıyafet yardımı gelmiş. Kuru gıda ihtiyacı şu an yok ama ileride ihtiyaç duyulacak.
+Hatay	Kırıkhan	Muratpaşa	40.82	Barınma (Çadır, konteyner gibi)									0	13/02/23 05:51	Şehirden köye gelen çok var. Nüfus 300 iken dışarıdan 1500 kişi gelmiş. Römorkların içinde kalanlar var, çadır gerekli. Hasarlı birkaç bina var. 
+Hatay	Kırıkhan	Kurtlusoğuksu	34.05	Barınma (Çadır, konteyner gibi)								600	25	13/02/23 05:47	İnsanlar evlerine giremiyor ve bireysel çadır isteniyor. 600 küsur hane ve yaklaşık 2000 nüfus var, detaylı bilinmiyor. Binaların %70'i hasarlı. Telef olan birkaç küçükbaş hayvan var
+Hatay	Kırıkhan	Mahmutlu	38.04	Barınma (Çadır, konteyner gibi)			05323119267	60		600	15		5	13/02/23 05:44	
+Hatay	Kırıkhan	Kodallı	43.82	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)								30	13/02/23 05:40	3000 nüfusa sahip olduğunu söylendi fakat detaylı bilinmiyor. Gıdaların zamana yayılarak ihtiyaca göre dağıtılması ve gıda paketlerinin koli halinde olması, su kesintisinin giderilmesi gerekliliği söylendi 
+Hatay	Kırıkhan	Karamağara	43.91	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Gıda (ekmek,su,paketli gıda)		50		400	50		20	13/02/23 05:33	Acil olan çadır ihtiyacı 
+Gaziantep	Nurdağı	Demirler	39.89				05330346935							12/02/23 13:21	GUNCEL EKSIK: Elektrik yok
+Gaziantep	Nurdağı	İncirli	43.79				05356235605							12/02/23 13:08	GUNCEL EKSIK: YOK
+Hatay	Kırıkhan	Karaelmaslı	48.67	Barınma (Çadır, konteyner gibi)				25	150	300	30		40	12/02/23 22:26	Acil çadır ihtiyacı var, gıda ihtiyacı yok. Engelli bireyler için doktor gelmiş ve ilaçlarını yazmış, engel durumları kaydedilemedi.
+Malatya	Yeşilyurt	Kendirli	9.14				05305009629							12/02/23 14:59	GUNCEL EKSIK: Çadır, Gıda ve Isınma Malzemesi
+Malatya	Yeşilyurt	Karahan	17.54				05353858827							12/02/23 14:55	GUNCEL EKSIK :Çadır ve Gıda Malzemesi
+Malatya	Yeşilyurt	Atalar	19.60											12/02/23 16:22	GUNCEL EKSIK: acil ihtiyaç yok
+Malatya	Yeşilyurt	Aşağıköy	38.10											12/02/23 16:18	GUNCEL EKSIK: Çadır, Isıtıcı
+Malatya	Yeşilyurt	Aşağıbağlar	2.66				05305009625							12/02/23 14:22	GUNCEL EKSIK: (ACİL) Gıda, Su, Isınma, Barınma ve İlaç
+Malatya	Yeşilyurt	Tepeköy	12.95				05334159172							12/02/23 14:19	GUNCEL EKSIK: Su(Acil), Gıda, Isınma, Temizlik Malzemesi
+Malatya	Akçadağ	Yukarıörükcü	26.95	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05357934977					160		12/02/23 20:03	400-500 kişi yaşıyor.
+Malatya	Akçadağ	Yaylımlı	35.45	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)		05377619516						10	12/02/23 20:00	nüfus 350 ama 1000 kişi olmuş
+Malatya	Akçadağ	Yalınkaya	37.40	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)		05343210130					120	35	12/02/23 16:00	GUNCEL EKSIK: Çadır gıda malzemesi (Durumu Acil 3 Hasta Bulunmaktadır)////10-15 aile yaşıyor
+Malatya	Akçadağ	Yalınbudak	31.15	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)		05343210130					6	3	12/02/23 19:56	
+Malatya	Akçadağ	Yağmurlu	22.23	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05377754292					450	15	12/02/23 19:53	2500-3000 kişi yaşıyor.yardım gelmiş
+Kahramanmaraş	Onikişubat	Muratlı	42.54				05368138052							12/02/23 19:52	İstanbuldan yardım gitmiş hiçbir şeye ihtiyaçları yok teşekkür ediyolar
+Malatya	Akçadağ	Tataruşağı	42.23	Gıda (ekmek,su,paketli gıda)	Gıda (ekmek,su,paketli gıda)		05355751978					150	3	12/02/23 19:49	50 aile yaşıyor
+Kahramanmaraş	Onikişubat	Öztürk	42.69	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Hijyen ve sağlık( Ped, bebek be	05373906698				40			12/02/23 19:49	Muhtar herkes yardım soruyor fakat gelmiyo diyor 
+Malatya	Akçadağ	Taşolar	49.62	Barınma (Çadır, konteyner gibi)			05369760677					100	20	12/02/23 19:47	200 kişi yaşıyor. tek kişilk 15 çadır gerekli
+Kahramanmaraş	Onikişubat	Payamlı	23.23	Gıda (ekmek,su,paketli gıda)	Kıyafet(Ayakkabı, çorap, iç çam		05342655812	20	80	50	25		15	12/02/23 19:46	
+Malatya	Akçadağ	Şeyler	19.42	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Hijyen ve sağlık( Ped, bebek be	05303464634						2	12/02/23 19:44	normalde 725 kişi şu an 4000-5000 kişi. yardım gelmiş ama yetersiz
+Hatay	Belen	Şenbük	27.10	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)			500					7	12/02/23 19:44	KÜÇÜKBAŞ BÜYÜKBAŞ HAYVANLAR İÇİN YEM İHTİYACI GEREKİYOR. TEMİN EDEBİLECEKLERİ ALANLAR KAPALI OLDUĞU İÇİN TEMİN EDİLEMİYOR. (ACİL)
+Malatya	Akçadağ	Sarıhacı	38.77	Isınma (El sobası, battaniye)	Barınma (Çadır, konteyner gibi)		05358565024					295	2	12/02/23 19:31	250 kişi var. binaların %80'i hasarlı. yardım gelmiş.ısıtıcı battaniye, 2-3 tane konteynır acil ihtiyaç
+Hatay	Belen	Şekere Karapelit	37.90	Hijyen ve sağlık( Ped, bebek be	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	05542946195	300					5	12/02/23 19:41	DEPREMDEN SONRAKİ GENEL NÜFUS: 7000
+Hatay	Belen	Ötençay	25.83	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)					3500				12/02/23 19:39	YARDIMLAR YANLIŞ YÖNLENDİRİLMİŞ. BİRİNCİL İHTİYAÇLARI ÇADIR, KURU GIDA VE TÜP.
+Hatay	Belen	Müftüler	33.17	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)			30		750				12/02/23 19:36	
+Hatay	Belen	Kömürçukuru	25.37	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)			100		700			47	12/02/23 19:33	"YÜRÜME ENGELLİ BİREY AKÜLÜ TEKERLEKLİ SANDALYESİNDE SIKINTI OLDUĞU İÇİN TEMEL İHTİYAÇLARINI KARŞILAMA ZORLUK ÇEKMEKTEDİR.
+BİLGİLERİ:SAMET YUTMAZ -21 YAŞINDA 
+"
+Hatay	Belen	Kıcı	32.59	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)					950		300		12/02/23 19:31	ÖNCELİKLİ OLARAK ÇADIRA İHTİYAÇ VAR.
+Hatay	Belen	Çerçikaya	24.85	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)									12/02/23 19:30	YOLLARDA BOZULMALAR MEVCUT. 
+Malatya	Akçadağ	Sakalıuzun	40.13	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)		05355782643					21	4	12/02/23 19:20	55 kişi yaşıyordu, il dışına gidenler oldu 12 kişi kaldı.
+Malatya	Yazıhan	Tecirli	17.46				05356226295							12/02/23 18:17	GUNCEL EKSIK: Çadır, elektrikli ısıtıcı, battaniye
+Hatay	Belen	Çakallı	30.13	Gıda (ekmek,su,paketli gıda)						350		70	10	12/02/23 19:24	 5 TANE KONTEYNER EV BÖLGE YÜKSEK DAĞLIK ALANDA ( RÜZGAR ALAN BİR BÖLGE) OLDUĞU İÇİN ÇADIR YETERLİ GELMEMEKTEDİR.
+Hatay	Belen	Benlidere	27.48	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)									12/02/23 19:21	"DEPREMDEN SONRA GENEL NÜFUS: 1000
+ÖNCELİKLİ İHYAÇLARI ÇADIR. MERKEZ BÖLGELERDEN KÖYLERE GELİNDİĞİ İÇİN NÜFUSTA ARTIŞ YAŞANMAKTADIR.
+"
+Hatay	Belen	Atik	34.54	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)								2	12/02/23 19:18	yakacak ve çadır acil ihtiyaç
+Malatya	Akçadağ	Sahilköy	27.53	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Gıda (ekmek,su,paketli gıda)	05362427097					90	9	12/02/23 19:09	500 kişi yaşıyor
+Malatya	Akçadağ	Resuluşağı	33.67				05436464551					200		12/02/23 19:06	100-150 kişi yaşıyor. 20-30 ev girilemez halde. çadır gelmiş, afad gelmiş.
+Malatya	Akçadağ	Ören	35.86	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Hijyen ve sağlık( Ped, bebek be	05378523035					850		12/02/23 19:02	2000 nüfus, evlerin %90'ı yıkılmış. elektrik ve su  yok. telef olan hayvanlar var ama sayısı bilinmiyor. yardım gelmiş.
+Malatya	Akçadağ	Ortaköy	44.70	Gıda (ekmek,su,paketli gıda)	Gıda (ekmek,su,paketli gıda)		05375405179					140	10	12/02/23 16:32	nüfus 150
+Hatay	Reyhanlı	Uzunkavak	31.61	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05327784302							09/02/23 20:52	25-30 KİŞİ ENKAZ ALTINDA.
+Hatay	Reyhanlı	Uzunkavak	31.61	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)	05327784302							12/02/23 14:00	GÜNCEL EKSİK: ACİLEN ÇADIR, SU, JENARATÖR İHTİYACI VAR. SU DEPOLARI VE GÜNEŞ ENERJİLERİ YIKILMIŞ
+Malatya	Doağndemir	Sürgü	48.09				05427848620							12/02/23 14:30	GUNCEL EKSİK: kuru temel gıda
+Malatya	Doğandemir	Küçüklü	67.05				05377301198							12/02/23 14:03	GUNCEL EKSİK: YOK
+Malatya	Doğanşehir	Karaterzi	40.24				05373889473							12/02/23 13:59	GUNCEL EKSİK: 40 Çadır acil kuru gıda
+Malatya	Doğanşehir	Çavuşlu	51.44				05453191893							12/02/23 13:07	GUNCEL EKSİK: kuru gıda, hijyen,bataniye, ısışkalndırma, power bank
+Malatya	Akçadağ	Büyükçimiş	33.21				05068191863							12/02/23 11:28	GUNCEL EKSİK: Çadır, kuru gıda
+Hatay	Samandağ	Koyunoğlu	16.76				05374833231	1500		2500	2000		100	12/02/23 16:48	
+Hatay	Samandağ	Kapısuyu	21.46	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05382916634			1700	300		6	12/02/23 16:45	" Su yok ama yapmaya çalışıyorlar. Yardım ulaşmış, ama hala kuru gıda, çadır ve mazota ihtiyaçları var. 
+"
+Malatya	Akçadağ	Bekiruşağı	52.82				05327369530							12/02/23 11:23	GUNCEL EKSİK: YOK
+Hatay	Samandağ	Huzurlu	10.53	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05367711263	600		1100	300			12/02/23 16:43	çadıra ihtiyaç var
+Hatay	Samandağ	Fidanlı	13.76	Gıda (ekmek,su,paketli gıda)			05322656033	300		700	20		2	12/02/23 16:41	hasarlı bina tespiti yapılıyor.
+Malatya	Akçadağ	Bahri	22.10				05373763927							12/02/23 11:17	GUNCEL EKSİK: kuru gıda, çadır
+Hatay	Samandağ	Değirmenbaşı	12.87				05355451418	1600		1800	1600		6	12/02/23 16:39	
+Hatay	Samandağ	Çubukçu	11.41	Gıda (ekmek,su,paketli gıda)			05364691072	150	20	550				12/02/23 16:36	minareleri sallanıyor, yıkılmak üzere acil yardım istiyorlar
+Malatya	Akçadağ	Aydınlar	21.14				05317761788							12/02/23 11:06	GUNCEL EKSİK: Çadır, temel kuru gıda
+Malatya	Akçadağ	Aksüt	48.09				04224251044							12/02/23 10:53	GUNCEL EKSİK: Tüp
+Adıyaman	Çelikhan	Mutlu	29.68					100	50	100	30		55	12/02/23 16:29	acil
+Adıyaman	Çelikhan	Köseuşağı	29.48	Barınma (Çadır, konteyner gibi)	Teknik yardım (Powerbank,el fen	Gıda (ekmek,su,paketli gıda)		40	90	160	30		10	12/02/23 16:25	yakıt, benzin ihtiyacı var.
+Adıyaman	Çelikhan	Kalecik	37.08					0	4	11	4		0	12/02/23 16:21	
+Hatay	Smandağ	Büyükoba	18.91	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be		05355763386	80		300	50			12/02/23 16:15	"minare sallanıyor, yıkılmak üzere acil yardım istiyorlar.
+yardım az ulaşmış 
+"
+Hatay	Samandağ	Ataköy	10.43	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05383387400			2000		40		12/02/23 16:04	yardım az ulaşmış çadır ve gıda ihtiyaçları var
+Hatay	Samandağı	Arpalıuşağı	68.11	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05372779341	100		570	20			12/02/23 16:01	" Elektrik bugün gelecekmiş. 20 cm kar var. Çadıra ve kuru gıdaya ihtiyaç var. Daha önce giysi ve su yardımı yapılmış.""
+"
+Malatya	Doğanşehir	Yuvalı	36.94	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05362902771							12/02/23 14:04	GUNCEL EKSIK: Çadır temel gıda kuru gıda tüp ////protezli, dikişi alınması gereken bir hasta var
+Malatya	Doğanşehir	Yolkoru	46.38	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05395070634							12/02/23 14:35	GUNCEL EKSİK :Çadır temel gıda kuru gıda
+Malatya	Doğanşehir	Şatırobası	43.06	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Kıyafet(Ayakkabı, çorap, iç çam	05353688160							12/02/23 15:48	TÜP 
+Malatya	Doğanşehir	Suçatı	33.87	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05323037852							12/02/23 14:25	GUNCEL EKSİK: Çadır
+Malatya	Doğanşehir	Savaklı	49.40	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)	Barınma (Çadır, konteyner gibi)	05362870980							12/02/23 14:02	GUNCEL EKSİK: 30 Çadır ve hayvan yemi ////Abuzer Kaya- beyninde tümör varmuhtar notu: gıdalar paketli olmalı eşit dağıtım için
+Malatya	Doğanşehir	Reşadiye	48.56	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)		05302629698							12/02/23 14:15	GUNCEL EKSİK: Çadır
+Malatya	Doğanşehir	Polatderesi	39.79	Barınma (Çadır, konteyner gibi)	Barınma (Çadır, konteyner gibi)	Barınma (Çadır, konteyner gibi)	05452494899							12/02/23 14:11	GUNCEL EKSİK: Çadır ////barınma acil ihtiyaç çok fazla kapalı yol var
+Gaziantep	Nurdağı	Karaburçlu	61.03	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)		05438030244	50		50	100		9	12/02/23 15:36	çok üzgündü anket tamamlanamadı
+Hatay	Altınözü	Tokaçlı	14.45	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)				750				12/02/23 15:34	"şeker tansiyon ilaçlarına erişilmiyor
+hastane var fakat ihtiyaçlar karşılanamıyor "
+Hatay	Altınözü	Sofular	10.21	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)					3000				12/02/23 15:29	"minare camileri yıkıldı 
+okul hasarlı
+şeker tansiyon ve felçli hastalar var hastane ve ilaca erişim yok"
+Hatay	Altınözü	Tepehan	7.84	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)					6000			20	12/02/23 15:27	"hastane var fakat yeterli değil 
+ağır hastalar sevk edildi
+yardım geç geliyor sınırda olduğu için, yardımlar direkt köye gelmedi"
+Hatay	Hassa	Zeytinoba	62.26	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Teknik yardım (Powerbank,el fen		18		182	350		25	12/02/23 14:22	çadır ve kuru gıda gerekli şeker çay patates soğan iç giyim çorap temizlik malzemeleri mum el feneri ihtiyaçları var. minare sallanıyor. tehlike arz ediyor.  kıyafet desteği gelmiş.
+Hatay	Altınözü	Sivrikavak	22.17	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)					5000			20	12/02/23 15:23	"normalde 1000 nüfus şuan 6000
+mezar taşı, tahta kalem ve boya istiyolar defin işlemleri için"
+Hatay	Altınözü	Seferli	22.40	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)					1500				12/02/23 15:20	hasarlı binalar var
+Hatay	Hassa	Yoluklar	70.06	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)			100		280	20		3	12/02/23 14:17	yardım ulaşıyor ama hala kuru gıda ve çadır ihtiyacı var.
+Hatay	Altınözü	Oymaklı	17.54	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be	Barınma (Çadır, konteyner gibi)				3000			5	12/02/23 15:15	"hastaneye ulaşım var fakat dolu
+çadır battaniye ihtiyaçları var"
+Hatay	Hassa	Küreci	62.46					1000		2000	1000		400	12/02/23 14:13	çok acil çadır ve gıda ihtiyacı var. Henüz hiç çadır kurulmamış. enkaz altında kalan 35 kişi vefat etmiş
+Hatay	Hassa	Koruhöyük	78.78	Barınma (Çadır, konteyner gibi)				50		187	13		7	12/02/23 13:09	çadıra ihtiyaç var. su ve gıda yardımı yapılmış. 1 kadın bebeği ile enkaz altında kalmış ama kurtarılmış
+Hatay	Hassa	Gülkent	65.16		Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		270		746	10		1	12/02/23 13:06	çadıra ve kuru gıdaya ihtiyaç var.
+Hatay	Hassa	Arpalıuşağı	68.03	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)			100		570	20		0	12/02/23 13:01	yollarda kar var. çadır ve kuru gıda gerekli. daha önce giysi ve su yardımı yapılmış
+Hatay	Altınözü	Gözecik	24.28	Barınma (Çadır, konteyner gibi)	Hijyen ve sağlık( Ped, bebek be	Isınma (El sobası, battaniye)		80	75	150	50		0	11/02/23 22:40	yakıt az. 300 kişilik çadır gerekiyor. şu ana kadar çadır yardımı gelmedi!
+Hatay	Altınözü	Boynuyoğun	16.63	Isınma (El sobası, battaniye)	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)		2000	1500	3000	150		63	12/02/23 12:38	yakıt sıkıntısı var. 
+Hatay	Antakya	Akhisar	12.39	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Gıda (ekmek,su,paketli gıda)			1000	2000	65			12/02/23 12:37	"binalar yıkılmamış ama hiçbirine girilmeyecek kadar hasarlı.
+10, engelli birey var acil"
+Hatay	Antakya	Barbaros	0.86	Kıyafet(Ayakkabı, çorap, iç çam			05325545677	10	14		14			12/02/23 12:35	"Mahallenin tamamı gitmiş 38 kişi muhtarın evinde kalıyor. Çok konuşamadı, sadece evdekilerin sayısını söyledi.
+Mahallenin tamamı gitmiş 38 kişi muhtarın evinde kalıyor. Çok konuşamadı, sadece evdekilerin sayısını söyledi."
+Hatay	Antakya	Bitiren	10.06	Barınma (Çadır, konteyner gibi)	Hijyen ve sağlık( Ped, bebek be	Gıda (ekmek,su,paketli gıda)								12/02/23 12:32	"Nüfusu bilmiyor başka köylerden çok insan gelmiş.
+yaklaşık 100 bina hasarlı, 50 ağır hasarlı
+1 kişi engelli ACİL taşımakta zorlanıyorlar. 
+yakıt sıkıntısı var"
+Hatay	Antakya	Derince	11.91	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05324648115			3000		350		12/02/23 12:31	"çadır ve gıda acil ihtiyaç hiç gitmemiş 
+sadece 15 20 bina sağlam (top 350 bina vardı) kalanlar girilmez halde"
+Hatay	Antakya	Gülderen	9.56	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Gıda (ekmek,su,paketli gıda)	05354166690			2000				12/02/23 12:28	Enkaz altında olduğu tahmin edilen kişi var ama sayı belli değil
+Hatay	Antakya	Doğanköy	5.66	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be		05376131643			1200		300		12/02/23 12:26	yakıt sıkıntısı var. 
+Hatay	Antakya	Bohşin	18.50	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)					8500				12/02/23 12:24	8500 toplam nüfus, ayrı ayrı bilmiyor
+Hatay	Antakya	Alaattin	10.26	Barınma (Çadır, konteyner gibi)										12/02/23 12:19	
+Hatay	İskenderun	Suçıkağı	39.93	Gıda (ekmek,su,paketli gıda)	Kıyafet(Ayakkabı, çorap, iç çam	Barınma (Çadır, konteyner gibi)	05387803797							12/02/23 11:27	nüfus 1780, gelenlerle 2000 civarı. Hasrlı bina var. Ölen ve yaralı yok. Kronik hastalar ve engelli bireyler için görüşülmüş ilaçlar temin edilecek.
+Hatay	İskenderun	Sarıselki	51.89	Hijyen ve sağlık( Ped, bebek be	Gıda (ekmek,su,paketli gıda)		05374312228							12/02/23 11:05	nüfus 3500 ama gelenlerle 8000 e yaklaştı.  elektrik var, su pazartesi tamir edilecek. limanda sahra hastanesi var
+Malatya	Akçadağ	Harunuşağı	54.07	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05324264132					60	12	11/02/23 09:07	35 çadır insanlar için, 15 çadır hayvanlar için gerekli. hayvanların yemleri göçük altında kalmış. yem gerekiyor. yaralı hayvanlar var.
+Malatya	Akçadağ	Keller	36.45	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05553708185					105		11/02/23 10:09	mahalle yolları kapalı. çoğu hasarlı yapıların. 20 çadıra ihtiyaç var.
+Malatya	Akçadağ	Kayadibi	45.53	Isınma (El sobası, battaniye)	Isınma (El sobası, battaniye)		05362620044					110	50	11/02/23 09:43	
+Malatya	Akçadağ	Kasımuşağı	45.64	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Kıyafet(Ayakkabı, çorap, iç çam	05309219095					50	4	11/02/23 09:49	tansiyon ilacı gerekli. evler hasarlı ihtiyaç önceliği giderilmeli.
+Malatya	Akçadağ	Karapınar	24.17	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)		05323183144					350		11/02/23 09:40	evlerin çoğu hasarlı. çadır battaniye gerekli.
+Malatya	Akçadağ	Kahyalı	45.34	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)		05377395113					90	0	11/02/23 09:31	çadır ve ısıtıcı gerekli. 30dan fazla telef olan küçükbaş var.
+Malatya	Akçadağ	Kadıibrahim	34.22	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05379894712							11/02/23 10:03	insanlar ve hayvanlar için acil çadır gerekli. hayvanlar için yeme ihtiyaç var.
+Malatya	Akçadağ	İkinciler	33.52	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)		05324882159					250	200	11/02/23 09:23	acilen çadır ve ısınacak malzeme gerekli. çocuklar hastalanmış. insanlar soğuktan ölecek. hayvanlar büyükbaş küçükbaş göçük altında kalmış.
+Malatya	Akçadağ	Ilıcak	27.72				05342933808					500	0	11/02/23 09:19	
+Malatya	Akçadağ	Hartut(Kozalak)	37.20	Barınma (Çadır, konteyner gibi)			05358876118					150		11/02/23 08:59	yıkılan bina sayısı tam olarak bilinmiyor. çoğu hasarlı. acil çadır gerekli. insanlar ve hayvanlar için. hayvanlar dışarıda kalmış. donarak ölme durumu var.
+Malatya	Akçadağ	Hançerli	39.42	Barınma (Çadır, konteyner gibi)	Kıyafet(Ayakkabı, çorap, iç çam		05365205968					70		11/02/23 10:12	su elektrik sıkıntısı var. çadır kıyafet gerekli. evlerin çoğu yıkılmış.
+Malatya	Akçadağ	Gürkaynak	44.17	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05363628761					100	60	11/02/23 08:50	su yok. ahırlar yıkılmış. insanlar ve hayvanlar için çadır gerekli. ara yollar kapalı
+Malatya	Akçadağ	Güneşli	49.08	Gıda (ekmek,su,paketli gıda)			05352014871					40	15	11/02/23 08:34	
+Hatay	Samandağ	Yeşilyazı	17.49	Barınma (Çadır, konteyner gibi)			05333827321	20	100	200	100			11/02/23 22:09	"evlerin %30u hasarlı 
+çadır ihtiyacı var"
+Hatay	Samandağ	Yeşilköy	14.74	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be	05346754848	300	1700	3500	3			11/02/23 22:03	binaların %75i hasarlı
+Hatay	Samandağ	Sutaşı	19.62	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05364398665	600	3310	7000	750		150	11/02/23 22:01	çadır ihtiyacı var
+Hatay	Samandağ	Yeniköy	15.95	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05358561267	40	200	400	50			11/02/23 21:59	
+Hatay	Samandağ	Mızraklı	16.46	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05327463105	1000	2700	6500	1000			11/02/23 21:56	
+Hatay	Samandağ	Mağaracık	21.79				05327463105	750	1200	2400	500		15	11/02/23 21:55	"binaların %65i hasarlı
+ihtiyaç yok "
+Malatya	Akçadağ	Gölpınar	25.57	Barınma (Çadır, konteyner gibi)			05332177948					350	70	11/02/23 08:45	yapıların çoğu hasarlı
+Hatay	Samandağ	Uzunbağ	12.86	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)		05383387400	750	1400	2800	750		3	11/02/23 21:53	binaların %85 i hasarlı
+Malatya	Akçadağ	Fatih	31.54	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)		05343210130					36	1	11/02/23 08:37	evlerin hepsi hasarlı
+Hatay	Samandağ	Kuşalanı	17.84	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05356504888	750	1400	2800	750		20	11/02/23 21:40	binaların %50si hasarlı acil çadır ve gıda gerekli
+Malatya	Akçadağ	Esenli	26.55	Barınma (Çadır, konteyner gibi)			05377803406					140	20	11/02/23 08:30	çadır ve hayvanlar için yem gerekli
+Malatya	Akçadağ	Esenbey	50.42	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Isınma (El sobası, battaniye)	05366103619					300	30	11/02/23 08:23	ahırlar yıkıldı. hayvanlar ve insanlar için çadır gerekli.
+Malatya	Akçadağ	Eğin	27.08	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05367428279					120	5	11/02/23 08:19	evlere girilemiyor. çadır ve gıda gerekli.
+Kahramanmaraş	Dulkadiroğlu	Ulutaş	25.88	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Kıyafet(Ayakkabı, çorap, iç çam	05325641852	200		800		500	15	11/02/23 21:37	"yakıt ve çadır sıkıntısı var
+evlerin büyük kısmı hasarlı"
+Kahramanmaraş	Dulkadiroğlu	Tevekkelli	38.77	Barınma (Çadır, konteyner gibi)	Hijyen ve sağlık( Ped, bebek be	Gıda (ekmek,su,paketli gıda)		100	300	500		350		11/02/23 21:34	"Toplam 350 hane çoğunlukla yıkılmış yıkılmayanlarda hasarlı
+Çadır acil ihtiyaç"
+Hatay	İskenderun	Kavaklıoluk	49.60	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be		05322311699							11/02/23 21:28	nüfus 345 ama şu an 1000 kişiyi bulmuş.  elektrik su var. eczane açık. küçükbaş 200, büyükbaş tane var yem gerekli
+Kahramanmaraş	Dulkadiroğlu	Söğütlü	46.11	Barınma (Çadır, konteyner gibi)			05379460303	15	50	80		150		11/02/23 21:30	"Toplam 150 hanenin çoğunluğu yıkılmış durumda çadır ihtiyacı bulunuyor
+bankamatikler çalışmıyor, nakit ihtiyacı bulunuyor
+"
+Kahramanmaraş	Dulkadiroğlu	Sivricehüyük	42.53	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)			20		240	150	120		11/02/23 21:28	"Diyalize giren hastalar var
+1 kişi kayıp"
+Hatay	İskenderun	Kaledibi	52.26	Barınma (Çadır, konteyner gibi)			05436218376							11/02/23 21:26	nüfus 400 civarı. hasarlı ve yıkılan bina var. ölen ve yaralı yok. bez mama ihtiyacı biraz karşılanmış. 10 adet çadır gerekli
+Kahramanmaraş	Dulkadiroğlu	Şerefoğlu	36.01	Barınma (Çadır, konteyner gibi)				70	300	600	100	315	30	11/02/23 21:25	"Elektrik yok, şebeke suyu yok, telefonlar çekmiyor (görüşme yarım kaldı) 
+çadır ihtiyacı var evlerin tamamı hasarlı"
+Hatay	İskenderun	Karayılan	56.22				05325489585							11/02/23 21:22	10000 nüfus. hasarlı bina var yaralı ve ölen yok. Demir çelik içinde, müdürü yardım ediyor. elektrik su var. 20 çadır geldi. bez ve mama geliyor ama çabuk bitiyor.
+Kahramanmaraş	Dulkadiroğlu	Sarıkaya	24.33	Barınma (Çadır, konteyner gibi)			05379869383			1000				11/02/23 21:24	"Toplam kişi 1000 kişiyi geçti, şehirden göç başlamış deprem dolayısıyla
+cami minaresi tehlikeli, evlere giremiyorlar
+çadır ihtiyacı var "
+Kahramanmaraş	Dulkadiroğlu	Peynirdere	31.13	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)			250	500	1000	50	300	40	11/02/23 21:21	Telefonlar çekmiyor (bu sebepten görüşme yarım kaldı)
+Hatay	İskenderun	Denizciler	48.57	Barınma (Çadır, konteyner gibi)	Hijyen ve sağlık( Ped, bebek be	Gıda (ekmek,su,paketli gıda)	05374592016						0	11/02/23 21:19	30000 nüfus, 50 yaş altı nüfus çok.hayvancılık yok
+Kahramanmaraş	Dulkadiroğlu	Osmanbey	31.33	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)			400	600	700	30	200	15	11/02/23 21:14	"Hasar tespit çalışmasının yapılması gereklidir.
+6-7 kişi kayıp"
+Hatay	İskenderun	Cebike	38.91	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be	05387803797							11/02/23 21:15	3500 nüfus, hafif yaralanmalar var. Su ve elektrik var, yol açık. küçükbaş 1000 büyükbaş 10 civarı
+Hatay	İskenderun	Çinarli	47.37				05374592016							11/02/23 21:14	YARDIM GELİYORMUŞ İHTİYAÇ YOK
+Kahramanmaraş	Dulkadi̇roğlu	Kuzucak	39.77	Barınma (Çadır, konteyner gibi)				70		400	100	250	200	11/02/23 21:11	binaların çoğu yıkılmış kalanlar hasarlı
+Hatay	İskenderun	Cirtiman	35.81	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)									11/02/23 21:10	DIŞARDAN GELENLERLE NÜFUS 8000. HASARLI BİNALARIN SAYISI VERİLMEDİ. 15-20 VEFAT VAR.5-6 KİŞİ YARALI VE İSKENDERUNA GÖNDERİLMİŞ. 2000-3000 ARASI HAYVAN VAR.
+Kahramanmaraş	Dulkadi̇roğlu	Küçüknacar	35.15	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Kıyafet(Ayakkabı, çorap, iç çam		150	300	650	40	340	17	11/02/23 21:05	çadır ihtiyacı var
+Hatay	İskenderun	Büyükdere	38.39	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)		02222396768							11/02/23 21:02	1500-2000 NÜFUS VAR, 15 AİLE KÖYE GELMİŞ. ELEKTRİK SU VAR, GIDA VE ÇADIR GEREKLİ
+Malatya	Akçadağ	Dümüklü	41.31	Barınma (Çadır, konteyner gibi)			05056641965					70	4	11/02/23 08:14	yollar açılmamış. evlerin hepsi hasarlı.
+Hatay	Kirikhan	Karaçağil	46.40	Barınma (Çadır, konteyner gibi)	Tıbbi yardım malzemeleri	Gıda (ekmek,su,paketli gıda)		70			80	220	30	11/02/23 19:44	Erzak ve ilaç önemli. Yaşlılar için bez gerekli.
+Hatay	Dörtyol	Kuzuculu	74.80									5000		11/02/23 19:41	
+Hatay	Dörtyol	Konakli	70.67							1100				11/02/23 19:40	
+Kahramanmaraş	Oni̇ki̇şubat	Kurucaova	29.66	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05369215640	900	350	700	20		30	11/02/23 19:27	"ENKAZ ALTINDA BİR KİŞİ
+Hayvan çok fazla yem ihtiyacı acil"
+Kahramanmaraş	Oni̇ki̇şubat	Kürtül	17.99	Barınma (Çadır, konteyner gibi)			05385120087	1500	2500	5000	300		15	11/02/23 19:24	"ENKAZ ALTINDA 1 KİŞİ VAR 
+mazot sorunu var "
+Kahramanmaraş	Oni̇ki̇şubat	Kümperli̇	41.38	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)			210	120	290	60		6	11/02/23 19:17	
+Kahramanmaraş	Oni̇ki̇şubat	Kurtlar	27.14	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)	05374995980	60	300	500			7	11/02/23 19:14	çadır ihtiyacı var
+Hatay	Reyhanlı	Varışlı	21.95	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)									12/02/23 14:30	GÜNCEL EKSİK: ACİLEN ÇADIR, SU, KURU GIDA İHTİYACI VAR    /////   ÇADIR, TEMEL GIDA, SU İHTİYAÇLARI VAR
+Hatay	Reyhanlı	Terzihöyük	24.53	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be								11/02/23 18:07	ÇADIR, GIDA, ÇOCUK BEZİ, ÇOCUK MAMASI İHTİYACI VAR
+Hatay	Reyhanlı	Özkurtuluş	22.00	Barınma (Çadır, konteyner gibi)			05322443621							11/02/23 18:01	SADECE ÇADIR İSTEDİLER
+Hatay	Reyhanlı	Nergizli	22.53	Hijyen ve sağlık( Ped, bebek be	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	05383410906							12/02/23 15:00	GÜNCEL EKSİK: su sıkıntısı var. çadır çocuk bezi gerekli.    //// KİMSE GİTMEMİŞ. ÇOCUK BEZİ ,GIDA, ÇADIR, SU İHTİYACI VAR
+Hatay	Reyhanlı	Konuk	25.82	Hijyen ve sağlık( Ped, bebek be	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	05383410906							12/02/23 13:45	GÜNCEL EKSİK: sadece su yardımı gitmiş diğer ihtiyaçlar aynen devam ediyor.  ACİL İHTİYAÇLAR: ÇOCUK BEZİ , GIDA, ÇADIR
+Malatya	Akçadağ	Durulova	42.85	Barınma (Çadır, konteyner gibi)			05353604965						4	11/02/23 08:08	ahırlar yıkılmış. hayvanlar başka yerler götürülmüş. çok dar alanda çok fazla hayvan var. hayvanlar için çadır gerekli.
+Malatya	Akçadağ	Durulova	42.85	Barınma (Çadır, konteyner gibi)			05353604965					120	15	11/02/23 08:04	50 ev içine girilemeyecek durumda. ağıllar yıkılmış hayvanlar için de çadır lazım.
+Gaziantep	Nurdağı	İncegedik	54.67	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)		05308720054							11/02/23 16:15	Kuru Gıda, Çadır (Yardım kamyonunda malzeme yok, ihtiyaçlar karşılanamadı.)
+Malatya	Akçadağ	Doğantepe	51.44	Gıda (ekmek,su,paketli gıda)			05362648357					68	5	11/02/23 17:48	evlerin hepsi hasarlı. gıda gerekli
+Gaziantep	Nurdağı	Hamidiye	45.17	Barınma (Çadır, konteyner gibi)			05325687577	250		1000		135	0	11/02/23 17:36	50 ADET ÇADIR.
+Malatya	Akçadağ	Doğanlar	30.41	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)	05321564640					350	60	11/02/23 07:54	su yok. bütün insanlar ve hayvanlar dışarıda. evlerin hepsi hasarlı. ahırlar yıkılmış. çadır, ısınma ve gıda desteği gerekli
+Malatya	Akçadağ	Develi	36.05	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05357160885					160	1	10/02/23 15:02	çadır ihtiyaçları var. normalde yazları yaşayan var ama şu an her evde 5-6 aile yaşıyormuş
+Malatya	Akçadağ	Demirciler	49.02	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05396879076					30	6	10/02/23 02:55	evlerin neredeyse hepsi hasarlı. elektrik yok
+Malatya	Akçadağ	Dedeköy	31.18	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)		05386076590					200	25	11/02/23 17:23	su elektrik yok ısıtıcı soba çadır gerekli
+Kahramanmaraş	Oni̇ki̇şubat	Kumaşir	24.34	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Kıyafet(Ayakkabı, çorap, iç çam	05373170023	300	200	400	30			11/02/23 17:25	yakın hastaneler var sıkıntı yok
+Kahramanmaraş	Oni̇ki̇şubat	Kumarli	27.87	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be		05369215640	450		220	20			11/02/23 17:23	45 çadır ihtiyaç
+Gaziantep	Nurdağı	Gökçedere	60.58	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)		05067511264	100		150	450	210	30	11/02/23 17:20	SÜREKLİ ÇOCUK KIYAFETİ GÖNDERMEYİN!!! edit:Çadır(20-25 adet), Soba, Odun, Kömür, Çocuklar için ateş düşürücü ilaç
+Malatya	Doğanşehir	Polat	45.97	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Kıyafet(Ayakkabı, çorap, iç çam	05423615994	200	175	350	200		400	12/02/23 14:07	GUNCEL EKSİK: Çadır, kömür,soba ////elektrik yok. yakıt sıkıntısı var. çok fazla telef olan hayvan var. iç giyim gerekli.
+Kahramanmaraş	Oni̇ki̇şubat	Kozcağiz	11.00	Barınma (Çadır, konteyner gibi)				50	120	250	50		3	11/02/23 17:20	
+Kahramanmaraş	Onikişubat		38.13	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be	05327372515	50		650	300			11/02/23 17:18	muhtar araçla destek oluyormuş
+Malatya	Doğanşehir	Kelhalil	40.77	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05389585600	120	150	300	50		3	11/02/23 17:13	elektrik su yok. evlerin çoğu hasarlı, çadır gerekli acil, telef olan hayvan sayısı fazla. yollar hasarlı
+Kahramanmaraş	Oni̇ki̇şubat	Köşürge	25.10				05328956165	60	50	100	60			11/02/23 17:16	kendi araçları ile idare ediyolar
+Hatay	Dörtyol	Yeni̇yurt	75.89	Hijyen ve sağlık( Ped, bebek be	Isınma (El sobası, battaniye)	Kıyafet(Ayakkabı, çorap, iç çam	05308297656			4000				11/02/23 17:12	Dışarıdan gelenlerle nüfus 6-7 bin
+Malatya	Doğanşehir	Örencik	66.34	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05324944719	150	250	500	80		80	12/02/23 14:05	hasarlı yollar var. yakıt sıkıntısı var. hayvanlaGUNCEL EKSİK: Çadır //// barınma alanı çadır gerekli.
+Hatay	Dörtyol	Çatköy	80.73							368		130		11/02/23 17:11	bir ihtiyaçları olmadığı söylendi
+Hatay	Dörtyol	Kapili	76.22				05448153158							11/02/23 17:08	en iyi durumda olan köylerden biri
+Malatya	Doğanşehir	Kurucaova	44.39	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Diğer	05068322735	600	1200	2400	500		120	12/02/23 14:01	GUNCEL EKSİK: YOK
+Malatya	Doğanşehir	Kapıdere	70.60	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)		04225311212	90	170	350	40		20	11/02/23 16:55	su sıkıntısı var. hasarlı yollar fazla. yakıt sıkıntısı var araçlar için. 
+Hatay	Samandağ	Mızraklı	16.46	Barınma (Çadır, konteyner gibi)	Hijyen ve sağlık( Ped, bebek be	Tıbbi yardım malzemeleri	05327463105							09/02/23 19:03	
+Malatya	Doğanşehir	Kadılı	58.29	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be	05369456008	100	200	400	50		50	12/02/23 13:57	GUNCEL EKSİK: Çadır, jeneratör, kuru gıda, yem ////su yok araç sıkıntısı yok yakıt sıkıntısı var hasarlı yollar var
+Malatya	Doğanşehir	Hudut	53.99	Barınma (Çadır, konteyner gibi)	Teknik yardım (Powerbank,el fen	Gıda (ekmek,su,paketli gıda)	05382710281	30	35	70	15		3	12/02/23 13:55	GUNCEL EKSİK: Çadır, jeneratör ////yakıt sıkıntısı var. elektrik yok jeneratör gerekli acil. çadır acil. fener mum gerekli
+Hayat	Ezri̇n	Yukariburnaz	83.04				05363157810	100		500			0	11/02/23 16:36	
+Gaziantep	Nurdağı	Bademli	59.07	Barınma (Çadır, konteyner gibi)			05413792545	150		350		400	25	11/02/23 16:03	
+Hatay	Arsuz	Hatay Arsuz İlçesi Haymaseki	31.28	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be	05395847712	300	1300	2000	200	2500	10	11/02/23 15:57	yardım gelmiş fakat hala ihtiyaç var gıda ve çadır.
+Hatay	Arsuz	Hatay  Arsuz Ilçesi Çetillik	32.20	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be	05353094967	1000	2000	2200	1300	4500	75	11/02/23 15:51	Yollar açık, kıyafet yardımı yapılmış. Çadır ve gıda yardımı lazım.
+Hatay	Arsuz	Hatay Arsuz İlçesi Beyköyü	28.65	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Hijyen ve sağlık( Ped, bebek be	05322371959	380	400	700	70	2000	3	11/02/23 15:41	kıyafet yardımı gitmiş, çadır ve gıda yardımı gerekiyor.
+Gaziantep	Nurdağı	Atmalı	45.18	Barınma (Çadır, konteyner gibi)			05308276802					100	0	11/02/23 15:46	ÇADIR!!!
+Hatay	Arsuz	Hatay Arsuz İlçesi Avcılarsuyu	31.75	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be	05359299223	400	800	1520	80		2	11/02/23 15:38	Gıda ihtiyaçları var hiç yardım ulaşmamış.
+Hatay	Erzin	Gökdere	88.18	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)					2.2			0	11/02/23 15:37	Köy 2.200 nüfus. 400 kişi dışarıdan barınmaya gelmiş. Osmaniye ve İskenderun'dan 40-50 aile gelmiş. 3-4 gündür yardım geleceği söylenmiş ama gelmemiş.
+Malatya	Doğanşehir	Gürobası	42.40	Diğer	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	05353688160	60	100	200	50		15	12/02/23 13:52	GUNCEL EKSİK: Çadır, odun, köür, tüp //// yakıt sıkıntısı var araç sıkıntısı yok. acil çadır gerekli, tüp ısınmak için kömür gerekli
+Hatay	Erzin	Aşağıburnaz	80.96											11/02/23 15:24	Çadıra ihtiyaç var ama istemiyorlar şu an. Köye İskenderun ve Kırıkhan'dan çok göç gelmiş ama halletmişler.  Hiç ihtiyaç yok.
+Malatya	Doğanşehir	Günedoğru	53.43	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Tıbbi yardım malzemeleri	05396294530	150	250	500	100		200	11/02/23 15:31	araç sıkıntısı yok ama mazot sıkıntısı var. yollarda buzlanma var
+Malatya	Doğanşehir	Gövdeli	71.23	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05367664476	250	500	1000	150		60	11/02/23 15:12	telef olan hayvanlar var sayısı bilinmiyor. hasarlı yollar var
+Osmani̇ye	Kadi̇rli̇	Hardallik	41.07	Gıda (ekmek,su,paketli gıda)	Tıbbi yardım malzemeleri			50	150	80	80	180	0	11/02/23 15:07	
+Hatay	Arsuz	Yukarikepi̇rce	31.76	Gıda (ekmek,su,paketli gıda)			05359561564			1500			8	11/02/23 15:22	20-25 ISITICI ÇADIR İHTİYAÇ
+Hatay	Arsuz	Tatarli	34.01	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)		05333647954							11/02/23 15:17	"kurubakliyat ihtiyaç 
+10-15 çadır ihtiyaç"
+Osmani̇ye	Kadi̇rli̇	Azapli	39.86					10		200	30	110	0	11/02/23 14:41	"ŞU AN KÖYDE İHTİYAÇ BULUNMAMAKTA HASAR VB BULUNMAMAKTA
+NÜFUS TAM OLARAK BİLİNMEMEKLE BERABER ÇOCUK VE GENÇ NÜFUS SAYISI AZ"
+Kahramanmaraş	12 Şubat	Köseli	21.27	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Gıda (ekmek,su,paketli gıda)	05326768418	1500		4500		700	15	11/02/23 14:06	Mevcutta yalnızca 11 adet mevcut. ACİL ÇADIR !!!
+Hatay	İskenderun	Bi̇ti̇şi̇k	47.96	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be							0	11/02/23 13:52	NÜFUS 10000'E ULAŞTI. 
+Hatay	Arsuz	Pi̇ri̇nçli̇k	35.44	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05324039467						0	11/02/23 13:49	YENİ GELENLERLER NÜFUS 3680 KİŞİ.
+Hatay	Arsuz	Kurtbaği	25.79	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Kıyafet(Ayakkabı, çorap, iç çam	05358270260						2	11/02/23 13:44	15 ADET ACİL ÇADIR, ACİL İÇME SUYU, NÜFUS 1100 NÜFUS ŞU ANKİ GÖÇLE 1500'Ü BULMUŞ. ASTIM HASTASINA İLAÇ.
+Hatay	İskenderun	Bekbele	46.51	Gıda (ekmek,su,paketli gıda)	Gıda (ekmek,su,paketli gıda)		05392726592							11/02/23 13:41	8700 NÜFUSLU İLÇEDEN GELENLERLE NÜFUS 10000'İ BULMUŞ, HASARLI BİNA VAR SAYI NET DEĞİL, 2 YARALI
+Hatay	İskenderun	Azganlik	54.43	Gıda (ekmek,su,paketli gıda)	Gıda (ekmek,su,paketli gıda)		05374312228						1	11/02/23 13:38	
+Hatay	İskenderun	Aşkarbeyli̇	40.89	Gıda (ekmek,su,paketli gıda)			05387803797							11/02/23 13:36	1000 NÜFUSLU.  AFAD ÇADIR VERMEYECEĞİNİ SÖYLEMİŞ. TOPLU OLAN YERLERE GİTMELERİNİ İSTEMİŞ.
+Hatay	İskenderun	Akarca	50.34				05383074818							11/02/23 13:33	15 ÇADIR LAZIM. MUHTARINA ULAŞILAMADI.
+Hatay	Hassa	Eğribucak	65.76	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)		200	500	550	250	250	104	12/02/23 11:15	GÜNCEL EKSİK: gıda ve çadır ////Köyün muhtarının da cenazesi olduğu için çok konuşamadı. Köyde çok fazla yıkılan bina var. Yardım gitmesi gerekiyor.
+Hatay	Altınözü	Mayadalı	18.25	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Kıyafet(Ayakkabı, çorap, iç çam		2000		2000	1500	700	100	11/02/23 13:04	Köyde Suriyeli nüfusu da epey fazla. Köy yolları kapalıymış açılmış. Hastaneler hasar gördüğü için erişim sıkıntısı var. Yıkılmayan binaların çoğu hasarlı net bir sayı yok
+Hatay	Altınözü	Kozkalesi	11.29	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)		600		1000	200	400	12	11/02/23 12:42	Köyün nüfusu 1100'den 1800'e çıktı. Kıyafet bebek bezi çocuk kıyafeti yatalak bireyler için bez ihtiyaçları karşılanmış. Köydeki bronşit ve astım hastası çocukların ilacı yok. Hastaneye erişebiliyorlar araçları var ve yol açık fakat hastaneler dolu, geri gönderilmişler.
+Hatay	Arsuz	Konacik	33.97	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05324974228			3000			15	11/02/23 12:51	"kuru bakliyat ihtiyaç 
+10-15 ÇADIR İHTİYAÇ 
+"
+Hatay	Altınözü	Kıyıgören	18.64	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be						550	0	11/02/23 12:28	Telef olan hayvanlar var ama tespiti yapılamamış. Köyde yıkılan bina yok AFAD'ın çağrısına da gerek yok diye cevap vermişler. Civardaki bir hastane yıkılmış erişim sıkıntısı var. Hasta pedi, çocuk bezi gibi ihtiyaçlar var. Hâlâ arabada yatanlar var çadır, sünger yatak gibi ihtiyaçlar var. Köy nüfusu ilçeden gelenlerle 5000'nin üzerine çıktı ayrıntılı bilgi alınamadı. Su ihtiyacı için yardım yapılmış
+Hatay	Arsuz	Karagöz	26.21				05368417110			130			1	11/02/23 12:36	10 ÇADIR İHTİYAÇ VAR (DIŞARIDA KALIYORLAR)
+Hatay	Arsuz	Kale	35.00	Barınma (Çadır, konteyner gibi)			05345925625			300				11/02/23 12:16	"8-10 ÇADIR LAZIM 
+EPİLEPSİ İLAÇ SIKINTISI VAR
+"
+Hatay	Arsuz	Işikli	34.10	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05345925625	280	450	800	50			11/02/23 12:14	8 ÇADIR İHTİYAÇ
+Hatay	Defne	Hatay7Defne,Döver	9.89	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)		500		2000		600	30	11/02/23 11:44	YOLLARA KAYALAR DÜŞMÜŞ BÜYÜK ARAÇ GİREMİYOR. HİÇ ÇADIR GİTMEMİŞ.
+Hatay	Defne	Deği̇rmenyolu	8.28	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be	05326273715	400		400	200	80	0	11/02/23 11:40	Yakıt yeni geldi. Yakınlarda hastane kalmamış. ÇADIR HİÇ GİTMEMİŞ!!! Belediye hizmetlerine de ihtiyaç var.
+Kahramanmaraş	On İki̇ Şubat	Çukurhi̇sar	24.04	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Diğer	05324789168	80		184	486		8	11/02/23 11:28	MAZOT çok acil gerekli. yol yıkıldığı için hastaneye erişim yok. 50 acil çadır ve kuru gıda gerekli.
+Kahramanmaraş	Oni̇ki̇şubat	Çevrepinar	20.87				05435068182	350		400				11/02/23 11:31	"2 DİYALİZ HASTASI VAR AMBULANS GİTMEMİŞ 
+YOLLAR YIKILMIŞ 
+MAZOT İHTİYACI VAR"
+Kahramanmaraş	Oni̇ki̇şubat	Çakirlar	34.08	Gıda (ekmek,su,paketli gıda)			05353299120							11/02/23 11:30	"200 ÇADIR GEREKLİ 
+muhtar hasta kendi konuşamıyor."
+Kahramanmaraş	Oni̇ki̇şubat	Çokran	24.09	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05386774337	100		350			4	11/02/23 11:27	"ENGELLİ 15 YAŞINDA BİR KIZ İÇİN HASTA BEZİ 
+MAZOT SIKINTISI VAR
+50 ÇADIR İSTENİYOR."
+Kahramanmaraş	On İki̇ Şubat	Dadağli	34.39	Barınma (Çadır, konteyner gibi)	Diğer	Diğer	05327691035	1000		1600			20	11/02/23 11:22	şehir merkezine yakın olduğu için nüfus 15000i geçmiş. 400 çadıra ihtiyaç var. diğer yardımlar gitmiş. defin için kefen ihtiyacı var. Hümeyra Hatice Yıldırım kayıp. 20 yaşında.
+Kahramanmaraş	Oni̇ki̇şubat	Cüceli̇	24.71	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)			500		2500				11/02/23 11:25	"ACİL AMBULANS İSTENİYOR DİYALİZ, KANSER VE ASTIM HASTALARI VAR
+ 3 Ü ENGELLİ YATALAK ÇOCUK İÇİN YATAK VE HASTA BEZİ LAZIM
+200 ÇADIR İHTİYACI VAR"
+Kahramanmaraş	Oni̇ki̇şubat	Çukurhi̇sar	24.04	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)		05324789168	80		500	184		8	11/02/23 11:22	"YOL KAPALI OLDUĞU İÇİN HASTANEYE ERİŞİM YOK 
+MAZOT ÇOK ACİL"
+Kahramanmaraş	On İki̇ Şubat	Demrek	25.06	Barınma (Çadır, konteyner gibi)	Tıbbi yardım malzemeleri		05327279583	200		500			33	11/02/23 11:18	50 çadır gerekli. Ambulans gitmemiş. Gıda yardımı gitmiş. 1 hasta için hasta bezine ihtiyaç var.
+Kahramanmaraş	Oni̇ki̇şubat	Dadağli	34.39	Barınma (Çadır, konteyner gibi)			05327691035	1000		1600			20	11/02/23 11:17	"Normalde nüfus 2500 fakat şuan şehir merkezine yakın olduğundan 15000 i geçmiş.
+400 ÇADIRA İHTİYAÇ VAR 
+cenaze defni için KEFEN ihtiyaçları var.
+HÜMEYRA HATİCE YILDIRIM KAYIP (20 YAŞ)
+200 den fazla şeker hastası var"
+Kahramanmaraş	On İki̇ Şubat	Beşen	8.37	Barınma (Çadır, konteyner gibi)			05377829172	1000	150				20	11/02/23 11:09	depremden dolayı yaralılar var köy dağlık ambulans gelmemiş. ayağı kırık olan var. ahırlar yıkık hayvanlar dışarıda. çadır gerekli. 100 den fazla tansiyon şeker hastası var. acil ilaç gerekli.
+Kahramanmaraş	Oni̇ki̇şubar	Döngel	18.69	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05057416406			3000				11/02/23 11:15	Hastalar için ambulans isteniyor
+Kahramanmaraş	Oni̇ki̇şubar	Demrek	25.06	Barınma (Çadır, konteyner gibi)			05315541743	200		500			33	11/02/23 11:07	"50 ÇADIR İHTİYACI VAR
+ambulans gitmemiş"
+Kahramanmaraş	On İki̇ Şubat	Büyüksir	37.42	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05386774337	20		500		150	1	11/02/23 11:02	ilaca ihtiyacı olanlar var. (ilaçlar yukarıda). çadır gerekli.
+Kahramanmaraş	On İki̇ Şubat	Döngel	18.69	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05057416406			3000				11/02/23 10:57	araç mazot ihtiyacı var. hastalar için ambulans gitmemiş. çadır kuru gıda ihtiyacı
+Kahramanmaraş	Pazarcık	Büyüknacar Kocadere	44.89	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Kıyafet(Ayakkabı, çorap, iç çam	05302406101					110	95	12/02/23 17:34	GÜNCEL EKSİK: Çadır, Kuru gıda   //// 90 ÇADIR GEREKLİ AFAD 20 TANE KARŞILAMIŞ. ELEKTRİK SU YOK
+Kahramanmaraş	Pazarcık	Akdemir	58.50	Barınma (Çadır, konteyner gibi)			05324961029					200	0	12/02/23 17:31	GÜNCEL EKSİK: çadır ve kuru gıda.   ////   25 çadır gerekli. elektrik su yok
+Adıyaman	Besni̇	Kaymakam Hasan Tütün	42.49	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	05369284247	600	800	2000	1500		4	10/02/23 10:32	SU YOK GIDA BARINMA YARDIMI GEREKLİ
+Adıyaman	Besni̇	Kizili̇n	43.07	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)	Diğer	05354023659	150	100	250	80		2	12/02/23 10:24	GÜNCEL EKSİK: 15-20 çadır ve kuru gıda.    /////  İLAÇ İHTİYACI VAR. (KALP RAHATSIZLIĞI). GIDA ACİL.
+Adıyaman	Besni	Hacıhalil	41.45	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	05355927829	100	80	650	20		0	12/02/23 10:22	GÜNCEL EKSİK: çadır (AFAD getirecek dendi)    ////  GIDA ACİL
+Adıyaman	Besni	Çorak	69.53	Barınma (Çadır, konteyner gibi)			05372434205	200	200	300	150		2	12/02/23 10:19	GÜNCEL: ihtiyaç yok   /////   ÇADIR ACİL
+Kahramanmaraş	Oni̇ki̇şubat	Çakirlar	34.08	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)	05353299120							11/02/23 10:15	MUHTAR HASTA KENDİSİ KONUŞAMIYOR. ACİL 200 ÇADIR, GIDA VE ODUN GEREKLİ.
+Adıyaman	Besni̇	Dumlupinar	41.42	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Gıda (ekmek,su,paketli gıda)	05335676764	300	350	900	100		25	10/02/23 10:14	SU YOK ACİL 
+Hatay	Arsuz	Hüyük	29.08	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	05322371959						1	11/02/23 03:22	NÜFUS 3200, 50 AİLE GÖÇ GELDİ. ÇOK FAZLA KAYIP KİŞİ VAR.
+Adıyaman	Besni	Çat	39.51	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)		04163181143	1000	700	1500	20		2	12/02/23 09:46	GÜNCEL EKSİK: çadır, ısıtıcı  ////  SU ACİL. ÇADIR VE ISINMA İHTİYAÇLARI ACİL. AFAD ENKAZDAKİLERLE İLGİLENİYOR
+Adıyaman	Besni	Camuşçu	46.31					200	100	300	50		1	12/02/23 09:44	GÜNCEL: ihtiyaç yok  ///  SU YOK ACİL GEREKLİ
+Adıyaman	Besni̇	Ali̇şar	32.27	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	05354023659	1000	100	2000	500		2	10/02/23 09:39	gıda ve çadır acil. su yok acil. gelen yardımları dağıtmaya araç ihtiyacı var
+Hatay	Arsuz	Harlisu	34.08	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)		05374719452			400			0	09/02/23 19:56	gelenlerle nüfus 700 olmuş. çadır ve gıda gerekli. edit: afaddan yardım gelmiş hiçbir ihtiyaç yok.
+Adıyaman	Besni̇	Akyazi	35.41	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)		300	70	150	30		25	10/02/23 09:15	çok acil gıda yardımı gerekli.
+Adıyaman	Besni̇	Aşağisarhan	41.16	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	05354023659	150	200	500	150		0	10/02/23 09:11	ÇOK ACİL GIDA GEREKLİ. SU YOK
+Adıyaman	Besni	15 Temmuz Şehitler Mahallesi	41.18	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	05306634720	3000	4000	7000	1500		2	12/02/23 08:29	GÜNCEL EKSİKLER: KURU BAKLİYAT(ÇAY, ŞEKER, BULGUR, YAĞ, MERCİMEK), İLAÇ(TANSİYON, ŞEKER, AĞRI KESİCİ), KADIN İÇ ÇAMAŞIRI, PED    ///// çok acil gıda ve barınma yardımı
+Malatya	Yeşi̇lyurt	Yalinkaya	29.31	Barınma (Çadır, konteyner gibi)	Diğer	Gıda (ekmek,su,paketli gıda)		50		100		45		10/02/23 15:51	50 çadır. hayvanlar için barınak yem gerekli.
+Malatya	Yeşi̇lyurt	Üçgöze	14.26							150			35	12/02/23 15:55	GUNCEL EKSIK: Çadır
+Malatya	Yeşi̇lyurt	Tohma	24.87	Barınma (Çadır, konteyner gibi)			05346716193			3500			0	10/02/23 15:39	250 ÇADIR GEREKLİ.
+Malatya	Yeşi̇lyurt	Seyi̇tuşaği	15.40	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)	05356104827	30		50	25		30	12/02/23 15:40	GUNCEL EKSIK: Gıda, Temizlik Malzemesi, İç ve Dış Giyim////ara yollar kardan dolayı kapalı. 40 çadır gerekli. temel gıda ve soba ihtiyacı. yetişkin bez ihtiyacı var.
+Malatya	Yeşi̇lyurt	Samanköy	8.75	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05375756519			3000		300	0	12/02/23 15:39	GUNCEL EKSIK: Çadır (Göçden dolayı nüfus arttı)////100 ÇADIR VE GIDA GEREKLİ.
+Malatya	Yeşi̇lyurt	Oluklu	26.82	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)			40		320		240	140	12/02/23 15:30	GUNCEL EKSIK: Çadır, (Acil Durumu olan iki hasta)////hayvanlar için barınak. 30 çadır, 2 konteyner, kömür gerekli
+Malatya	Yeşi̇lyurt	Kuşdoğan	16.14	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Gıda (ekmek,su,paketli gıda)		30		300	200	230		10/02/23 14:52	50 çadır, ısıtıcı, battaniye, gıda gerekli. kerpiç evlerin tamamı yıkılmış
+Malatya	Yeşi̇lyurt	Konak	6.06	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Gıda (ekmek,su,paketli gıda)	05376115045							12/02/23 15:11	GUNCEL EKSIK: Çadır, Isınma Malzemesi, Gıda Malzemesi (Acil)
+Malatya	Yeşi̇lyurt	Kirlangiç	25.18	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Kıyafet(Ayakkabı, çorap, iç çam				350		120	0	10/02/23 14:01	kardan dolayı yollar kapalı. 120 çadır, kömür-battaniye, kıyafet, gıda gerekli.
+Malatya	Yeşi̇lyurt	Kadi̇ruşaği	14.04	Diğer	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)						52	52	12/02/23 14:50	GUNCEL EKSIK: Çadır////hayvan yemi, 20 çadır, 35 ısıtıcı gerekli
+Malatya	Yeşi̇lyurt	İki̇zce	12.08	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)	05336663962	100		500	100	400	5000	12/02/23 14:48	GUNCEL EKSIK: Çadır, Isınma Malzemesi, Gıda Malzemesi////kardan dolayı yol kapanma var. 200 çadır, 100 ısıtıcı, gıda malzemeleri gerekli
+Malatya	Yeşi̇lyurt	Horata	6.59	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Isınma (El sobası, battaniye)	05464275292					2000	0	12/02/23 13:51	GUNCEL EKSIK: Gıda (Acil), ısınma Malzemeleri////kurtarma çalışmaları devam ediyor. 100 çadır, 150 battaniye, soba, ısıtıcı gerekli.
+Malatya	Yeşi̇lyurt	Gözene	29.81	Barınma (Çadır, konteyner gibi)			05358785444	50		1210			350	12/02/23 13:22	GUNCEL EKSIK: ÇADIR //// 200 adet çadır gerekli.
+Malatya	Yeşi̇lyurt	Duruldu	14.22	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)		30		400	30	60	4	12/02/23 14:42	GUNCEL EKSIK: Çadır ve Gıda////yetişkin nüfus şu an 800e çıktı. 30 çadır, 30 ısıtıcı ve kahvaltılık gerekli.
+Malatya	Yeşi̇lyurt	Duranlar	19.94	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	05369729101	160				64	4	12/02/23 14:40	GUNCEL EKSIK: Isınma Malzemesi ve Çadır////gelenlerle birlikte nüfus 2000 üstü. 40-50 çadır gerekli. duranlar havaalanı yolunda kayalar devrilmiş.
+Malatya	Yeşi̇lyurt	Di̇lek	11.94				05321588144					3000	10	12/02/23 14:38	GUNCEL EKSİK: Isınma Malzemesi ve Çadır
+Malatya	Yeşi̇lyurt	Çayirköy	18.65	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)	Barınma (Çadır, konteyner gibi)	04223150022	100		150	100	200	6	12/02/23 14:35	GUNCEL EKSİK: Gıda(Acil), Isınma Malzemesi////itfaiyeye ulaşamamışlar. bina çökünce elektrikten dolayı yangın çıkmış. çay şeker pirinç ihtiyacı var. 10 adet çadır gerekli.
+Malatya	Yeşi̇lyurt	Cafana	24.42	Isınma (El sobası, battaniye)	Gıda (ekmek,su,paketli gıda)		05365199775	300		1300	20	450	1	12/02/23 14:32	GUNCEL EKSİK: Yem, Isınma Malzemesi, Çadır////çadır, battaniye ve yatak gerekli
+Malatya	Yeşi̇lyurt	Bi̇ndal	15.37	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Diğer	05309219495					1000	5	12/02/23 14:27	GUNCEL EKSİK: Çadır, Yem(Acil), Ağrı Kesici ve Ateş Düşürücü İlaç////nüfusu normalde 2000 şimdi 6000 olmuş. çadır ihtiyacı çok fazla. kömür gerekiyor.
+Malatya	Yeşi̇lyurt	Banazi	6.40	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Gıda (ekmek,su,paketli gıda)	05376115045					1400	0	12/02/23 16:25	GUNCEL EKSIK: çadır ////hasarlı bina sayısı tam olarak bilinmiyor
+Kahramanmaraş	Pazarcık	Yukarımülk	67.23	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)			200		400	100			12/02/23 17:26	GÜNCEL EKSİK: Kömür, çadır  ////  ÇADIR VE YAKACAK İHTİYAÇLARI VAR
+Kahramanmaraş	Pazarcik	Yolboyu	50.33	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be			20		35	6		3	11/02/23 00:18	çadırları gelmiş
+Kahramanmaraş	Pazarcik	Yi̇ği̇tler	65.65	Barınma (Çadır, konteyner gibi)			05378344838	175		300	50		7	11/02/23 00:14	ÇADIR İHTİYACI VAR 
+Kahramanmaraş	Pazarcık	Yarbaşı	48.86	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05443617459			7	20			12/02/23 17:20	GÜNCEL EKSİK: 5 adet çadır, soba için katı yakacak,  kuru gıda, hijyen malzemeleri
+Kahramanmaraş	Pazarcık	Turunçlu	64.61	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05336425307	20		20	40		0	12/02/23 17:22	GÜNCEL: ihtiyaç yok   ////   ÇADIRA İHTİYAÇ VAR
+Kahramanmaraş	Pazarcık	Ulubahçe	55.90	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)			300		300	400		10	12/02/23 17:16	GÜNCEL EKSİK: çadır, kuru gıda
+Kahramanmaraş	Pazarcik	Ti̇lki̇ler	64.61	Barınma (Çadır, konteyner gibi)				150		750				11/02/23 00:04	bir kaç hasarlı bina
+Kahramanmaraş	Pazarcık	Sultanlar	60.89	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05304687110	450		200	50			12/02/23 17:09	GÜNCEL EKSİK: Çadır 150 adet    ///// 10-15 KİŞİ HASTANEYE GİTMESİ GEREKLİ FAKAT ACİL DURUMLARI YOKBİNALARIN NERDEYSE TAMAMI HASARLI, OTURULAMAZ DURUMDA.
+Kahramanmaraş	Pazarcık	Yukarıhücüklü	68.67	Kıyafet(Ayakkabı, çorap, iç çam	Gıda (ekmek,su,paketli gıda)		05336425307	1000		2000	800		6	12/02/23 17:37	GÜNCEL EKSİK: Çadır, kuru gıda, battaniye, patates (doğrudan muhtara iletilmeli giden yardımlar yolda kesilmiş kendilerine gerekli yardım ulaşamamış)    /////   BİR HASTANIN BÖBREK YETMEZLİĞİ VAR. HASTANEYE GİTMESİ GEREKİYOR.
+Kahramanmaraş	Pazarcık	Kizirli	63.22	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Hijyen ve sağlık( Ped, bebek be				1000		300	5	12/02/23 16:20	GÜNCEL EKSİK: Çadır, kuru gıda (özellikle un), çay,  şeker, yağ
+Kahramanmaraş	Pazarcık	Mezere	63.85	Barınma (Çadır, konteyner gibi)			05427461572			750		170	2	12/02/23 16:50	GÜNCEL EKSİK: Çadır, yağ, şeker
+Kahramanmaraş	Pazarcik	Narli Cumhuri̇yet	51.05	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Tıbbi yardım malzemeleri	02322395009			1850	310	15		10/02/23 23:22	"BÜTÜN BİNALAR HASARLI 
+"
+Kahramanmaraş	Pazarcık	Narlı Bahçelievler	51.41	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Tıbbi yardım malzemeleri	05428075340			2543		600	20	12/02/23 16:24	GÜNCEL EKSİK: Çadır /////  çadır gerekli hasarlı binalar tespit edilemedi
+Kahramanmaraş	Pazarcık	Kadıncık	53.15	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)		05363691542			300		70	4	12/02/23 15:59	GÜNCEL EKSİK: çadır ve kuru gıda ///// 15-20 çadır ihtiyaç
+Kahramanmaraş	Pazarcık	Hürriyet	67.63	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)				780		178	7	12/02/23 16:07	GÜNCEL EKSİK: Gıda (özellikle un), çadır, 70.000  küçükbaş hayvan için yem  //// yıkılan bina yok, binaların %70 i hasarlı
+Adıyaman	Tut	Yaylimli	29.94	Gıda (ekmek,su,paketli gıda)				600		1200	300	1900	0	10/02/23 22:45	yok.
+Gaziantep	Islahiye	Akınyolu	58.24				05372992499							10/02/23 22:51	ACİL GIDA. Köyde bir yemek şirketi varmış ona temel malzemeler tedarik edilirse köye yemek yapacaklarmış. 
+Hatay	Altinözü	Karbeyaz	24.73	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Gıda (ekmek,su,paketli gıda)		1000	1300	3500	1000		0	10/02/23 22:47	Gıda giysi yardımı ulaşmış ama çadır ihtiyacı var.
+Hatay	Altınözü	Hatay, Altinözü Kansu	20.31	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Gıda (ekmek,su,paketli gıda)		500	1000	2000	350		0	10/02/23 22:43	Tümör hastası var. İlaç gelecek. Yardım hiç gelmemiş kuru gıda ve yatak ihtiyacı var.
+Hatay	Altinözü	Kamberli̇	9.30	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Gıda (ekmek,su,paketli gıda)		500	1200	2500	40		9	10/02/23 22:40	"2 tane minare yıkıldı. Onun dışında 2 hasarlı yapı var.
+yakıt yok"
+Hatay	Altinözü	Hanyolu	18.25	Barınma (Çadır, konteyner gibi)	Hijyen ve sağlık( Ped, bebek be	Gıda (ekmek,su,paketli gıda)		1000	2200	4000	200		0	10/02/23 22:31	"Minare yıkılmak üzere. Çadır hiç gelmedi.
+yakıt yok"
+Hatay	Altinözü	Hacipaşa	23.84	Isınma (El sobası, battaniye)	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		3000	2500	5000	800		0	10/02/23 22:28	
+Hatay	Altinözü	Enek	6.22	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)					1500	500		5	10/02/23 22:26	"yakıt yok
+çadır gerekli"
+Hatay	Altinözü	Dokuzdal	21.57	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be		100	250	600	30	30	40	10/02/23 22:22	Afaddan yardım gelmemiş. Çadır ve soba ihtiyacı var.
+Hatay	Altinözü	Çetenli̇	15.90	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)		500	800	2500	150		20	10/02/23 22:19	"yakıt yok
+Caminin biri yıkıldı diğerleri de yıkılmak üzere. Vinç gerekli. Alt köy meydanında ölü duruyor kaldıramıyoruz üstünde minare var. Acil sahra hastanesi gerekli."
+Adıyaman	Tut	Ünlüce	29.61	Diğer				100	80	150	50	35	0	10/02/23 22:18	Hayvanlar için besin öncelikleri.
+Kahramanmaraş	Oni̇ki̇şubat	Büyüksir	37.42	Barınma (Çadır, konteyner gibi)			05386774337			1500			1	10/02/23 22:13	"! KIRMIZI REÇETELİ BEBEK (BEDENSEL ENGELLİ, ZİHİNSEL ENGELLİ)
+LUMİNALETTEN (İLAÇ)
+RİVOCLON (İLAÇ) EPİLEPSİ
+YAŞLI SAYISI FAZLA TANSİYON VE ŞEKER HASTALARI 400-450 KİŞİ"
+Kahramanmaraş	Pazarcik	Dedepaşa	56.28	Gıda (ekmek,su,paketli gıda)				12		20	15	26	15	12/02/23 15:34	GÜNCEL EKSİK: Geceleri yatarken soba yakamıyorlar  ısınma sorunları var
+Kahramanmaraş	Karahüyük	Pazarcık	60.20	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)	05367292178					135	25	12/02/23 16:17	GÜNCEL EKSİK: Çadır  ////  Binaların çoğu hasarlı.
+Kahramanmaraş	Pazarcık	Çöçelli	62.13	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)	05377806359	50				400	2	12/02/23 15:27	GÜNCEL EKSİK: Kuru gıda, odun, kömür, çadır   //// sonradan gelenlerle çocuk nüfusu 150. dışarıdan gelenler için 30 çadır ve kuru gıda gerekli. ısıtıcı tüp gerekli.
+Kahramanmaraş	Oni̇ki̇şubat	Beşen	8.37	Barınma (Çadır, konteyner gibi)			05377829172	1000	150				20	10/02/23 22:08	"3 YARALI HASTANEYE GİTMEMİŞ ARAÇ YOK
+AMBULANS İHTİYACI VAR ZEYNEP AKÇAM BELİ VE AYAĞI KIRIK (ZEYNEP AKÇAM)  
+200 ÇADIR İHTİYACI
+100DEN FAZLA TANSİYON ŞEKER HASTASI. ACİL İLAÇ"
+Kahramanmaraş	Pazarcık	İğdeli	56.96	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)		05343340964	80		420	300	400	0	12/02/23 15:22	GÜNCEL EKSİK: Gıda ve Çadır ////  40 adet çadır gerekli
+Hatay	Altinözü	Büyükburç	11.91	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Gıda (ekmek,su,paketli gıda)		2000	2000	4000	300		1	10/02/23 21:57	YAKIT VE ÇADIR İHTİYACI ÇADIR HİÇ GİTMEMİŞ edit: Afaddan yardım gelmiş ama yatak, ısıtıcı, çadır kuru gıda, un ihtiyaçları var
+Kahramanmaraş	Pazarcık	Çiğdemtepe	52.15	Barınma (Çadır, konteyner gibi)	Diğer	Diğer	05382013582	300		588	72	360	0	12/02/23 15:15	GÜNCEL EKSİK: Su yok ayaklı depo yıkıldığı için  kuyudan su çekilemiyor, çadır ihtiyacı var  //// 200 çadır gerekli. yakıt, odun, tüp gerekli. temiz su ihtiyacı var.
+Kahramanmaraş	Karaçay	Pazarcık	54.63	Tıbbi yardım malzemeleri						150		60	3	11/02/23 21:19	GÜNCEL EKSİK: Çadır  /////   Yardım ulaşmış şuan iyi durumdalar. Sadece çok fazla yaşlı olduğu için onlara ilaç gerekiyor.
+Kahramanmaraş	Pazarcık	Çiçekalanı	48.51	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)	05386793891	35		70	30	60	4	12/02/23 15:12	GÜNCEL EKSİK: Kuru gıda, un vb. //// Kartalkaya Barajı yolu tamamen kapalı, yardım ulaşmıyor. Akciğer kanseri vatandaş var, yeni ameliyat oldu (ışın tedavisi ve kemoterapi). 10 adet çadır gerekli. un bakliyat, battaniye yorgan, çocuk ayakkabısı, yetişkin ayakkabı mont gerekli.
+Kahramanmaraş	Pazarcık	Karabıyıklı, Pazarcık	61.81	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Tıbbi yardım malzemeleri	05336425307			100		65		10/02/23 21:54	Binaların çoğu yıkılmış. Yardım gitmiş fakat yetersiz.
+Hatay	Altinözü	Babatorun	18.22	Barınma (Çadır, konteyner gibi)	Hijyen ve sağlık( Ped, bebek be	Kıyafet(Ayakkabı, çorap, iç çam		500	1000	2000			45	10/02/23 21:54	yakıt sıkıntıHayvan yemi. Katalitik sobalar için lpg tüp. edit:Yardım ulaşmamış hiç. Çadır, gıda, çocuk bezi, çocuk maması, hasta bezi battaniye ve piknik tüpü ihtiyaçları var elektrikleri yokmuş. Nüfusu 2500 kişi
+Kahramanmaraş	Pazarcık	İncirli,Pazarcık	56.08	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Tıbbi yardım malzemeleri	05462442050			30		9	3	10/02/23 20:00	Küçükbaş havanlar telef olmuş. Bütün evler hasarlı olduğu için insanlar dışarıda kendi imkanlarıyla dışarıda kalıyor. Sadece gıda yardımı gitmiş.
+Hatay	Altinözü	Avuttepe	19.75	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		300	2000	4000	900		35	10/02/23 21:49	
+Hatay	Altinözü	Altinkaya	10.24	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Gıda (ekmek,su,paketli gıda)		1500	2200	5500	350		20	10/02/23 21:45	Banyo gereksinimi var. 
+Osmani̇ye	Bahçe	Aşaği Aricakli	34.83	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)	Barınma (Çadır, konteyner gibi)		20	35	60	10	50	15	10/02/23 21:44	Makarna, yağ, çay, şeker, çadır ve battaniye ihtiyaçları var. Hazır su kullanıyorlar hala. Su kaynakları yok.
+Hatay	Altınözü	Akamber	13.96	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)	Kıyafet(Ayakkabı, çorap, iç çam		50	200	450	50		0	10/02/23 21:42	Gerek olmayan şeyler veriliyor. Çeşitli gıdalar gerekli. Su GEREKMİYOR. Edit: Çadır ihtiyaçları var hala.
+Kahramanmaraş	Oni̇ki̇şubat	Avcilar	6.59	Barınma (Çadır, konteyner gibi)	Kıyafet(Ayakkabı, çorap, iç çam	Gıda (ekmek,su,paketli gıda)	05364366559	200		600	40		60	10/02/23 21:31	"dışarıdan gelen nüfus çoğalmış (500 kişi)
+"
+Kahramanmaraş	Pazarcık	Çiçek	58.02	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)		05386793891	12		18	8	13	13	12/02/23 15:03	GÜNCEL EKSİK: Çadır gerekli, içine yatak isteniyor, soba, battaniye, tuvalet ihtiyacı için seyyar tuvalet gibi bir çözüm KÖY KONUM OLARAK EĞLEN KÖYÜNDE ÇADIR KURMUŞ DURUMDA!!!    ////   acil çadır ihtiyacı var 10 adet. yakacak kömür gerekli
+Kahramanmaraş	Pazarcık	Büyüknacar	44.89	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Diğer							200	12/02/23 14:19	GÜNCEL EKSİK: Çadır, Kuru gıda, bakliyat  /////  200 adet acil çadır lazım. battaniye ve kömür gerekli. tüm ahırlar yıkılmış. hayvanlar telef olmuş.
+Kahramanmaraş	Pazarcık	Bölükçam	49.34				05337416727					100	15	12/02/23 14:07	GÜNCEL EKSİK: Altyapı sorunu su yok, kuyu suyu  paneli sigortası bozuk, başvurulmuş  ama daha yapılamamış, kuru  gıda, hijyen malzemeleri, 2-3 Çadır
+Kahramanmaraş	Pazarcık	Aşağımülk	68.43	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Diğer						200	1	12/02/23 13:51	GÜNCEL EKSİK: Çadır, kuru gıda, kömür, ilaç     ////  dışarıdan gelen kişiler var. bunlar için çadır gerekli. 60-70 adet. dışarıdan gelenler için giyecek. kömür gerekli.
+Osmani̇ye	Bahçe	Ariklikaş	26.41	Barınma (Çadır, konteyner gibi)			05423164899					420	1	10/02/23 21:19	İhtiyaç durumu fazla yok. Yalnızca birkaç çadır ihtiyacı temin edilmeye çalışılıyor. 
+Hatay	Antakya	Açikdere	9.35	Isınma (El sobası, battaniye)	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		600	950	1900	135		30	10/02/23 20:14	telefon çekmiyor
+Osmani̇ye	Bahçe	Aşağikardere	35.40	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)			106	250	200	186	400	11	09/02/23 21:00	Yıkık evlerde insanlar kalamıyor. Çadır eksiği var. Lösemi hastası kontrolleri yapılamıyor. Diyabet hastaları diyalize giremiyorlar. 
+Kahramanmaraş	Pazarcık	Armutlu	48.64	Barınma (Çadır, konteyner gibi)	Teknik yardım (Powerbank,el fen		05386793891	50		30	170	110	20	12/02/23 13:31	GÜNCEL EKSİK: 5-6 Çadır, çadır içi aydınlatma  için elektrik kablosu    ////    Kartalkaya baraj yolu kapalı, acil açılmalı. yakıt sıkıntısı var. ahırlar yıkılmış. çadırlara elektrik çekecek uzatma kablo gerekli. 40 çadır var. AFAD göndermiş.
+Kahramanmaraş	Pazarcık	Akçalar	61.21	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be		05424900952					110	0	12/02/23 13:29	GÜNCEL EKSİK: Kuru gıda, makarna, un, nohut  vb., deterjan
+Kahramanmaraş	Pazarcık	Akçakoyunlu	57.71				05336425307			370		80	0	12/02/23 13:25	GÜNCEL EKSİK: Kuru gıda, battaniye, çadır
+Osmani̇ye	Bahçe	Burgaçli	23.11	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be	Barınma (Çadır, konteyner gibi)	05423164899	1000	450	200	100	180	50	10/02/23 20:40	Ağırlıklı olarak gıda sıkıntısı yaşanıyor.  
+Hatay	Dörtyol	Konakli	70.67	Gıda (ekmek,su,paketli gıda)	Gıda (ekmek,su,paketli gıda)	Kıyafet(Ayakkabı, çorap, iç çam						300	0	10/02/23 08:58	
+Hatay	Dörtyol	Karakese	69.16	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)						5000	0	10/02/23 08:54	sadece yayla yolları kapalı
+Osmani̇ye	Bahçe	Bekdemi̇r Merkez	34.32	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05424570141					550	20	10/02/23 20:17	Acil çadır ihtiyacı var. 
+Kahramanmaraş	Nurhak	Umutlu	44.24	Barınma (Çadır, konteyner gibi)				15						12/02/23 13:08	GÜNCEL: ihtiyaç yok   /////     NÜFUSU BİLMİYOR KALMAYA GELENLER VAR. edit: Çadır lazım.
+Hatay	Altınözü	Kılıçtutan	26.35	Kıyafet(Ayakkabı, çorap, iç çam	Hijyen ve sağlık( Ped, bebek be	Gıda (ekmek,su,paketli gıda)		500		300	150	160	0	10/02/23 19:59	Yem yok hayvanlar için telef olmak üzereler. İlaca ihtiyaç var bir konum belirtilirse almak için gidip alabilirler. Köy nüfusu ilçeden gelenlerle arttı yıkılan bina yaralan ve vefat eden insan yok. Bir evin içinde bir sürü aile kalmaya başladı yatağa ihtiyaç var. Bez yardımları yapılmış kaymakamlık ve yardımseverlerden fakat bitmiş
+Adana	Gölbaşi	Akçabel	44.90				05353141414			550		230		10/02/23 20:11	50-100 ÇADIR İHTİYAÇ
+Adıyaman	Gölbaşi	Balkar	66.56							2500				10/02/23 20:10	200 ÇADIR
+Adıyaman	Gölbaşi	Aşağinasirli	62.53							448				10/02/23 20:08	
+Osmani̇ye	Bahçe	Gökmustafali	33.27	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)	03288613339	50			40	211	2	10/02/23 20:07	İnsanlar dışarıda yatıyor. Araçlarda ve kendi imkanlarıyla yaptıkları yerlerde kalıyorlar. 
+Adıyaman	Gölbaşi	Aşağiazapli	69.57	Kıyafet(Ayakkabı, çorap, iç çam	Gıda (ekmek,su,paketli gıda)					384				10/02/23 20:03	20 ÇADIR İHTİYAÇ
+Kahramanmaraş	Nurhak	Kiyilar	55.46	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Tıbbi yardım malzemeleri				400				10/02/23 20:01	edit: İHTİYAÇ KALMAMIŞ
+Adıyaman	Gölbaşi	Aktoprak	55.21	Gıda (ekmek,su,paketli gıda)						250				10/02/23 20:00	"ateş dürücü çocuklar için 
+öksürük şurubu çocuklar için
+pişirilmeyen gıda ihtiyaç "
+Kahramanmaraş	Nurhak	Kahramanmaraş, Ağcaşar	56.31	Gıda (ekmek,su,paketli gıda)	Kıyafet(Ayakkabı, çorap, iç çam		05434761109						5	10/02/23 19:57	KÖYDE TELEFON ÇEKMİYOR.
+Adana	Gölbaşi	Akçakaya	54.78											10/02/23 19:56	6 ÇADIR İHTİYAÇ
+Adıyaman	Gölbaşi	Hamzalar	74.25	Isınma (El sobası, battaniye)			05446120568			400	50	150		10/02/23 19:55	
+Hatay	Dörtyol	Altinçağ	73.02	Isınma (El sobası, battaniye)	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	05362912477						0	10/02/23 08:50	hasarlı bina sayısı net verilmemiş. tespit çalışmaları devam ediyor.
+Hatay	Altınözü	Keskincik	18.64	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be							2500	50	10/02/23 19:45	Köydeki bakkallar kapalı. Gıda ve ilaç çok ihtiyaç var. Köy ilçenin en kalabalık köyü yaklaşık 8000 dendi. Güncel nüfusla artmış fakat net sayı bilinmiyor. 6 yaşındaki bir çocuk birkaç saat önce çıkarıldı. Hâlâ enkaz altında canlı olma ihtimali var
+Adıyaman	Gölbaşi	Çeli̇kköyü	66.66	Barınma (Çadır, konteyner gibi)	Tıbbi yardım malzemeleri	Isınma (El sobası, battaniye)								10/02/23 19:52	50 ÇADIR İHTİYAÇ VAR 
+Kahramanmaraş	Nurhak	Kahramanmaraş, Hüyük	57.89	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)			65		750	70		5	10/02/23 19:46	ÖLÜ SAYISINA 15 DEDİ AMA MERKEZDE YAŞAYANLARDA DAHİL.ÇADIRLARI YETERSİZ. edit: Hala çadır gelmemiş, tek ihtiyaç.
+Adıyaman	Gölbaşi	Harmanli Yeni̇ Mah.	50.87							1700				10/02/23 19:51	şeker, tansiyon, kalp ilaçları lazım
+Hatay	Dörtyol	Yeni̇yurt	75.89	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be	Hijyen ve sağlık( Ped, bebek be	05308297656					1000	0	10/02/23 09:00	su acil ihtiyaç. hasarlı bina sayısı net belirtilmedi. çok az olduğu söylendi.
+Adıyaman	Gölbaşi	Harmanli Kalemkas	48.99	Barınma (Çadır, konteyner gibi)	Kıyafet(Ayakkabı, çorap, iç çam	Hijyen ve sağlık( Ped, bebek be	05353141414			120				10/02/23 19:48	
+Adıyaman	Gölbaşi	Harmanli Çakmak Mah.	50.56	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be		05353141414			200				10/02/23 19:46	"Hayvanlar için çadır gerekli 
+yemek pişirmek için malzeme gerekli"
+Hatay	Dörtyol	Kapili	76.22				05448153158						0	10/02/23 09:00	hasarlı bina sayısı net söylenmedi. çok az olduğu belirtildi.
+Kahramanmaraş	Elbistan	Nurhat, Bariş	63.27	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)	05424751082			850				10/02/23 19:35	TELEF OLAN HAYVAN SAYISINI BİLMİYOR. ÇOK KALABALIKLAR. ÇADIRA İHTİYAÇLARI VAR. GIDA YARDIMI GİTMİŞ.
+Adıyaman	Gölbaşi	Karabahşili	51.34	Barınma (Çadır, konteyner gibi)	Kıyafet(Ayakkabı, çorap, iç çam	Gıda (ekmek,su,paketli gıda)				160				10/02/23 19:44	"ağrı kesici gerekli
+soba gerekli
+10 ÇADIR GEREKLİ"
+Adıyaman	Gölbaşi	Haydarli	75.09							700				10/02/23 19:43	ihtiyaç yok
+Hatay	Erzi̇n	Turunçlu	84.95				05424031976						0	10/02/23 08:34	
+Adıyaman	Gölbaşi	Çataltepe	62.92	Barınma (Çadır, konteyner gibi)			05373162665							10/02/23 19:41	"Çataltapa merkezköy yoluna taş düşmüş yollar sıkıntılı
+30 ÇADIR İHTİYAÇ VAR"
+Hatay	Erzi̇n	Yoncadüzü	83.78	Barınma (Çadır, konteyner gibi)									0	10/02/23 08:30	
+Adıyaman	Gölbaşi	Çatalağaç	73.99							450				10/02/23 19:37	15 ÇADIR İHTİYAÇ
+Hatay	Erzi̇n	Yeşi̇ltepe	79.52									420	0	10/02/23 08:25	
+Adıyaman	Gölbaşi	Belöğren. Merkez Mah	66.83	Hijyen ve sağlık( Ped, bebek be	Barınma (Çadır, konteyner gibi)									10/02/23 19:34	100 ÇADIR İHTİYAÇ VAR
+Hatay	Erzi̇n	Kuyuluk	80.41	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)							150	0	10/02/23 08:22	çadır acil ihtiyaç
+Adıyaman	Gölbaşi	Belören	66.83	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)					1000				10/02/23 19:33	50-80 çadır ihtiyaç var
+Hatay	Erzi̇n	Kizlarçayi	81.79	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Isınma (El sobası, battaniye)							0	10/02/23 08:17	
+Adıyaman	Gölbaşi	Balkar	66.56	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)					2500		550	60	10/02/23 19:29	"ısıtıcılar gerekli
+50 ÇADIR GEREKLİ"
+Osmani̇ye	Bahçe	Nohut	27.97	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be	Kıyafet(Ayakkabı, çorap, iç çam	03288612385					163	15	10/02/23 19:25	Çocuk maması ve bezi ihtiyaçları var. Gıda olarak kuru bakliyat ihtiyacı var. Yetişkin bezi ihtiyacı var. 
+Adıyaman	Gölbaşi	Karabahşili	51.34	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Gıda (ekmek,su,paketli gıda)								10/02/23 19:26	160 NÜFUS, 10 ÇADIR, BOT, BATTANİYEİ GIDA GEREKLİ. YARDIMLAR YETERSİZ. ELEKTRİK YOK SOBA GEREKLİ. AĞRI KESİCİ GEREKLİ.
+Malatya	Doğanşehi̇r	Findikköy	51.54	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Kıyafet(Ayakkabı, çorap, iç çam	05367664476	60	150	300	60		80	10/02/23 19:24	"YAKIT LAZIM 
+ÇOK FAZLA KAPALI YOL VAR
+ÇADIR ACİL LAZIM"
+Adıyaman	Gölbaşi	Haydarli	75.09											10/02/23 19:25	700-800 NÜFUS. İHTİYAÇ YOK
+Adıyaman	Gölbaşi	Harmanli	50.87											10/02/23 19:23	NÜFUS 1700. ELEKTRİK VAR. AĞRI KESİCİ, ŞEKER, TANSİYON, KALP İLAÇLARI.
+Malatya	Doğanşehi̇r	Eski̇köy	34.24	Barınma (Çadır, konteyner gibi)			05303633548	15	45	90	10		120	12/02/23 13:35	GUNCEL EKSİK: Çadır Acil //// Yakıt sıkıntısı var YOLLAR AĞIR HASARLIACİL ÇADIR LAZIM
+Adıyaman	Gölbaşi	Harmanli	48.99	Barınma (Çadır, konteyner gibi)	Kıyafet(Ayakkabı, çorap, iç çam	Isınma (El sobası, battaniye)								10/02/23 19:20	NÜFUS 150, VEFAT 20. KADIN - ÇOCUK(10 YAŞ) İÇ ÇAMAŞIRI, 40-45 NO ERKEK AYAKKABI, 36-38 NO KADIN AYAKKABI ELSOBASI, HİJYENİK PED GEREKLİ. ELEKTRİK SU YOK.
+Adıyaman	Gölbaşi	Harmanli	50.56	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Hijyen ve sağlık( Ped, bebek be								10/02/23 19:15	NÜFUS 200, YEMEK PİŞİRMEK İÇİN MALZEME, HAYVANLAR İÇİN ÇADIR GEREKLİ. ELEKTRİK VE SU YOK.
+Adıyaman	Gölbaşi	Hamzalar	74.28	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)		05446120568					140		10/02/23 19:08	NÜFUS 400, İNSANLAR İÇİN 100, HAYVANLAR İÇİN 30-40 ÇADIR, SOBA VE KÖMÜR GEREKLİ, YAŞLI SAYISI FAZLA
+Adıyaman	Gölbaşi	Çataltepe	62.92	Barınma (Çadır, konteyner gibi)			05373162665							10/02/23 19:05	NÜFUS 350. VEFAT 4. 30 ÇADIR GEREKLİ. AFAD İLE GÖRÜŞÜLMÜŞ. YOLLAR SIKINTILI
+Osmaniye	Bahçe	Yaylalık	37.42	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		03288692180				60	94	5	10/02/23 19:04	En az 10 çadır ihtiyaç var. Köy olarak dışarıda kalmışlar.
+Adıyaman	Gölbaşi	Çatalağaç	73.99	Barınma (Çadır, konteyner gibi)										10/02/23 19:03	 NÜFUS 450. 15 ÇADIR GEREKLİ
+Adıyaman	Gölbaşi	Belören	66.83	Barınma (Çadır, konteyner gibi)	Hijyen ve sağlık( Ped, bebek be									10/02/23 19:02	100 ÇADIR, HİJYENİK PED, ÇOCUK BEZİ GEREKLİ
+Adıyaman	Gölbaşi	Belören	66.91	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)									10/02/23 19:00	1000 NÜFUS, 50-80 ÇADIR GEREKLİ ELEKTRİK YOK
+Adıyaman	Gölbaşi	Balkar	66.55	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)							550	60	10/02/23 18:37	2500 NÜFUS, 50 ÇADIR,ODUN SOBASI VE ODUN, ELSOBASI GEREKLİ. ELEKTRİK YOK
+Malatya	Doğanşehi̇r	Esentepe	47.57	Barınma (Çadır, konteyner gibi)			05394324880	200	200	400	150		50	10/02/23 18:54	"Yakıt sıkıntısı var 
+seyyar tuvalet lazım
+BARINMA İHTİYAÇLARI ACİL"
+Malatya	Doğanşehi̇r	Çömlekoba	43.16	Barınma (Çadır, konteyner gibi)			05362870980	5	130	250	50		0	12/02/23 13:16	GUNCEL EKSİK: Çadır ACİL ////KALP VE ŞEKER İLAÇLARI LAZIM
+Osmaniye	Bahçe	İnderesi	39.91	Barınma (Çadır, konteyner gibi)			05349625430	40			12	45	0	10/02/23 18:51	Yalnızca 1 çadır geldi. Özellikle çadır ihtiyacı var. Bizden öncelikli gidilmesi gereken yerler var dendi.
+Malatya	Doğanşehi̇r	Elmali	59.93	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Kıyafet(Ayakkabı, çorap, iç çam	05334912477	100	175	350	30		300	12/02/23 13:25	GUNCEL EKSİK: Çadır, odun, soğan ve patates ///// yakıt ihtiyacı
+Malatya	Doğanşehi̇r	Dedeyazi	41.96	Barınma (Çadır, konteyner gibi)	Barınma (Çadır, konteyner gibi)		05514379172	5	60	120	20			12/02/23 13:02	GUNCEL EKSİK: Çadır ve Battaniye //// TEKERLİKLİ SANDALYE LAZIM KÖMÜR İHTİYACI VAR
+Malatya	Doğanşehi̇r	Çiğlik	43.24	Barınma (Çadır, konteyner gibi)	Kıyafet(Ayakkabı, çorap, iç çam		05379355806	200	175	350	50		100	12/02/23 13:13	GUNCEL EKSİK: Çadır, soba, yetişkinler için kıyafet ////araç sıkıntısı yok yakıt sıkıntısı var, hasarlı yollar mevcut
+Malatya	Doğanşehir	Malatya, Doğanşehi̇r Biçakçi	74.09	Kıyafet(Ayakkabı, çorap, iç çam	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	05363211090	250	150	300	50		60	12/02/23 13:03	GUNCEL EKSİK: Çadır, kuru gıda yem //// yakıt sıkıntısı var, hasarlı yollar var.
+Adıyaman	Gölbaşi	Balkar	66.56	Barınma (Çadır, konteyner gibi)										10/02/23 18:33	2500 NÜFUS, 200 ÇADIR VE MUM GEREKLİ
+Malatya	Doğanşehi̇r	Beğre	65.07				05379355656	80	75	150	30		40	12/02/23 13:01	GUNCEL EKSİK: Kuru gıda ////yardım ulaşmış
+Osmaniye	Bahçe	Yukarıkardere	39.03	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)	05423164899					370	40	10/02/23 18:33	Genel olarak çadır ve gıda eksikliği söz konusu. 
+Malatya	Doğanşehi̇r	Altintop	50.70	Barınma (Çadır, konteyner gibi)	Barınma (Çadır, konteyner gibi)		05302236859	300	125	250	50		102	12/02/23 12:05	GUNCEL EKSİK: Çadır, kuru gıda ////yakıt sıkıntısı var,hastane yoğun sıra gelmiyor, evlerin hepsi yıkılmış barınma önemli ihtiyaç
+Adıyaman	Gölbaşi	Aşağinasirli	62.53	Barınma (Çadır, konteyner gibi)										10/02/23 18:32	NÜFUS 448, 1 VEFAT. 15 ÇADIR GEREKLİ. YARIN YARDIM GELECEK DENDİ.
+Adıyaman	Gölbaşi	Aşağiazapli	69.57	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Kıyafet(Ayakkabı, çorap, iç çam								10/02/23 18:29	NÜFUS 384, 9 VEFAT. 20 ÇADIR, KADIN- ERKEK- ÇOCUK İÇ ÇAMAŞIRI VE KURU GIDA GEREKLİ
+Malatya	Doğanşehi̇r	Söğüt	57.53	Barınma (Çadır, konteyner gibi)	Kıyafet(Ayakkabı, çorap, iç çam	Gıda (ekmek,su,paketli gıda)	05453191893	300	500	1000	100		500	12/02/23 12:45	GUNCEL EKSİK: Kuru gıda ////Yakıt sıkıntısı var
+Adıyaman	Gölbaşi	Aktoprak	55.21	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)									10/02/23 18:26	NÜFUS 250, VEFAT EDEN KİŞİ 3,.15 ÇADIR, PİŞİRME GEREKTİRMEYEN GIDA, ŞEKER HASATASI İÇİN İLAÇ VE ÇOCUKLAR İÇİN ÖKSÜRÜK ŞURUBU
+Adıyaman	Gölbaşi	Akçakaya	54.78	Barınma (Çadır, konteyner gibi)			05076882127							10/02/23 18:25	NÜFUS 150, 6 ÇADIR GEREKLİ VE AYAKKABI GEREKLİ
+Adıyaman	Gölbaşi	Akçabel	44.90	Barınma (Çadır, konteyner gibi)								230		10/02/23 18:22	NÜFUS 550, VEFAT EDEN KİŞİ 1, 50-100 ARASI ÇADIR GEREKLİ
+Osmaniye	Bahçe	Savranlı	30.58	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)			50	60	120	15	230	2	10/02/23 18:21	Hayvan yiyeciği eksik, çadır eksik. Bizden önce ihtiyaçları olan köyler var dendi. 
+Adıyaman	Tut	Tepeci̇k	22.95	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be			35		175	100	70	0	10/02/23 17:32	10-15 ÇADIR MEVCUT.
+Adıyaman	Tut	Öğütlü	27.51	Tıbbi yardım malzemeleri	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)		250	150	350	60	150	3	10/02/23 17:15	
+Hatay	Yayladağı	Yayıkdamlar	29.15	Gıda (ekmek,su,paketli gıda)				250	150	400	80	70	1	10/02/23 17:19	Kuru gıda isteniyor. (özellikle)
+Hatay	Yayladağı	Turfanda	21.13	Isınma (El sobası, battaniye)	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be		300	800	400	350	400	5	10/02/23 17:12	"Her hane için kolilere eşit dağıtılmış gıda ürünleri (ramazan kolisi gibi her hane için) 400 koli isteniyor.
+Mazot, benzin isteniyor."
+Adıyaman	Tut	Köseli̇	24.17	Barınma (Çadır, konteyner gibi)	Diğer			200	120	250	100	140	40	10/02/23 17:11	Hayvanlar için barınak.
+Adıyaman	Tut	Kaşlica	29.75	Gıda (ekmek,su,paketli gıda)				650	300	650	250	80	80	10/02/23 17:06	Evlerin 1. katı hep ağırdır ve hayvanların çoğu telef olmuştur.
+Adıyaman	Tut	Elçi̇ler	21.76	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)			20	10	25	5	24	3	10/02/23 17:02	
+Hatay	Yayladağı	Yeşiltepe	26.03	Isınma (El sobası, battaniye)	Gıda (ekmek,su,paketli gıda)	Kıyafet(Ayakkabı, çorap, iç çam		200	80	300	100	120	0	10/02/23 17:00	"Hasta bezi, çocuk ayakkabısı isteniyor.
+Vatandaşa yardım yeterli değil.
+Yakıt yok, benzin yok, mazot yok, isteniyor."
+Hatay	Hassa	Söğüt	70.02	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)			250		1500	200	400	50	12/02/23 13:00	GÜNCEL EKSİK: çadır ve yakacak ihtiyacı var  //// önceki bilgi:Çok konuşabilecek durumda değildi, teyit araması yapılmalı. Sadece gıda ve çadır ihtiyacı olduğu belirtildi
+Hatay	Hassa	Sugediği	71.90	Barınma (Çadır, konteyner gibi)				30		170	15	25	0	10/02/23 16:03	Köyde durum diğerlerine nazaran iyi ve bu yüzden yardım hatlarını meşgul etmek istemedikleri belirtildi. Elektrik var. Yıkılan bina yok hasarlı binalar var. Çadır dışında elzem bir ihtiyaç olmadığı belirtildi. 18-65 yaş nüfus 60'dan 170'e çıktı gelenlerle.
+Hatay	Hassa	Haydarlar	69.09	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Teknik yardım (Powerbank,el fen		200	300	250	15	600	8	12/02/23 11:30	GÜNCEL EKSİK: çay, şeker, kuru gıda ve çadır ////  eski:MAZOT GAZ SIKINTISI
+Hatay	Hassa	Tiyek	73.33	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)			110		290	60	100	30	12/02/23 12:00	GÜNCEL EKSİK: Yardım ulaşmış ama 30 tane daha çadıra, kuru gıda çay şekere ihtiyaçları var.  //// önceki bilgi:Köy yolu etkilendi ama açıldı. Enkaz altında kimse yok. Yardıma ihtiyaç kalmadığı için AFAD aranmadı. Bebek bezi ve çocuk kıyafeti fazlası var. Çadıra ve kuru gıdaya ihtiyaç var sadece. Su kesintisi var ama civardaki fabrika ve temiz su kaynaklarından erişebiliyorlar.
+Hatay	Hassa	Katranlık	64.33	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be					70	160	50	12/02/23 12:00	GÜNCEL EKSİK: sadece çadır  ///  ÇOCUK VE YAŞLI SAYISI ÇOK
+Hatay	Hassa	Güvenç	58.36	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Teknik yardım (Powerbank,el fen		300	500	140	60	250	150	12/02/23 11:15	GÜNCEL EKSİK: sadece çadır ////  AKTEPE DELİÇAY ARDIÇLI BUHARA TARAFLARINA DAĞILDI KÖYDE KİMSE YOK
+Adıyaman	Tut	Boyundere	33.29	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Diğer							5	10/02/23 15:30	ENKAZ ALTINDA HAYVANLAR VAR.  2 DÖNEM ÖNCEKİ MUHTARLA GÖRÜŞÜLDÜ.
+Hatay	Hassa	Çınarbaşı	80.33	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)			150	180	300	70	130	0	12/02/23 11:00	GÜNCEL EKSİK: SADECE ÇADIR İHTİYACI VAR //ÇEVRE KÖYLERDEN GELENLER İLE NÜFUS 1000 KİŞİYE KADAR ÇIKTI edit:çadır ve temel gıda ihtiyacı var. Yağmalama çok var.
+Hatay	Hassa	Bintaş	74.56	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)			70	200	120	70	400	0	12/02/23 10:30	!EKSİKLER: Sadece çadır ihtiyacı var
+Hatay	Erzi̇n	Gökgöl	83.29	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)	Isınma (El sobası, battaniye)		50		175		150	0	10/02/23 08:10	
+Hatay	Erzi̇n	Gökdere	88.18										0	10/02/23 08:05	
+Malatya	Yazıhan	Sinanlı	21.28	Barınma (Çadır, konteyner gibi)			05326562554						0	10/02/23 14:24	
+Malatya	Yazıhan	Tahtalı	41.57	Barınma (Çadır, konteyner gibi)			05375808904					160	0	10/02/23 14:25	
+Hatay	Erzi̇n	Aşağiburnaz	80.96					70		350		147	0	10/02/23 07:59	hasarlı bina sayısı az
+Malatya	Yazıhan	Mısırdere	29.04	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	05364714403					120		12/02/23 18:07	GUNCEL EKSIK: Kaymakamlık ile konuşulmuş, ihtiyaç listesi verilmiş, onlar sağlayacaklarmış.////Köyde araç olmadığı için kendileri gidip yardım alamıyormuş. Çok zor durumdalar.
+Hatay	Hassa	Bademli	67.01	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)							230	4	12/02/23 11:00	EKSİKLER: Çay, şeker, gıda ihtiyaçları var. Çadırı biz çözeceğiz dedi muhtar.800 YAŞLI AZ GENÇ VE ÇOCUKLARDAN OLUŞUYOR
+Malatya	Yazıhan	Dedekargın	16.46	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)		05358876117					100	5	12/02/23 18:22	GUNCEL EKSİK: kuru gıda (çay, şeker, un) kendisi gidip alabilir. ////Evler hasarlı. Çadır 1 tane varmış sadece.
+Hatay	Hassa	Akkülek	58.62	Gıda (ekmek,su,paketli gıda)	Gıda (ekmek,su,paketli gıda)							100	0	10/02/23 14:40	TOPLAM 400 NÜFUS KESİN YAŞ DAĞILIMI BİLİNMİYOR. YAŞLI KESİM ÇOK AZ
+Malatya	Yazıhan	Boyaca	31.20	Barınma (Çadır, konteyner gibi)			05362800410					80	2	12/02/23 18:06	GUNCEL EKSİK: 20ADET ÇADIR, HAYVANLAR İÇİN BARINAK
+Hatay	Hassa	Aşağıkarafakıllı	73.17	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Teknik yardım (Powerbank,el fen		180	320	450	52	160	0	12/02/23 12:45	EKSİKLER: Temel gıda, çadır ve temizlik malzemesi
+Malatya	Yazıhan	Yeni	29.54	Gıda (ekmek,su,paketli gıda)			05364714403					350	1	12/02/23 18:20	GUNCEL EKSIK: kömür, kuru gıda, çadır (Yazıhan nüfusu 12.000 di şimdi 100.000'edayandı)
+Malatya	Yazıhan	Sadıklı	38.14	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)		05356532932					26	9	12/02/23 18:14	GUNCEL EKSIK: çadır 10 adet, kuru gıda, yağ, çay, şeker, un ////Çok kar var, tipiden yollar kapanmış.
+Adıyaman	Merkez	Yeşilova	24.94	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)							130	0	10/02/23 14:18	TÜM BİNALAR HASARLI YIKILAN BİNA YOK, ELEKTRİK KESİK
+Malatya	Yazıhan	Koşar	41.27	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)		05423514620					30	0	12/02/23 17:58	GUNCEL EKSIK: Odun, kömür, kuru gıda, çadır (pek fazla yardımın ulaşmadığı söylendi)
+Adıyaman	Çeli̇khan	Yeşi̇ltepe	21.33										4	10/02/23 14:15	1 CAN KAYBI VAR, HAYVANLAR ENKAZ ALTINDA
+Adıyaman	Çeli̇khan	Şerefhan	33.15									280		10/02/23 14:14	CAN KAYBI YOK ELEKTRİK SIKINTISI VAR
+Malatya	Yazıhan	Karaca	35.42	Gıda (ekmek,su,paketli gıda)	Tıbbi yardım malzemeleri		05368977636					350	0	12/02/23 17:56	GUNCEL EKSIK: YOK
+Adıyaman	Çeli̇khan	Recep	22.28	Barınma (Çadır, konteyner gibi)										10/02/23 14:13	CAN KAYBI YOK
+Adıyaman	Çelikhan	İncirli	26.06	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)							30	27	10/02/23 14:09	KAPALI YOLLAR VAR. 1 KİŞİ VEFAT ETMİŞ
+Adıyaman	Çeli̇khan	Gölbaği	32.22	Barınma (Çadır, konteyner gibi)								23	5	10/02/23 14:06	ELEKTRİK YOK
+Malatya	Yazıhan	Gövük	27.03	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)		05363766808					100	0	12/02/23 17:54	GUNCEL EKSIK: Çadır, kuru gıda////İzdiham var deniyor dağıtım yapılan yerde.
+Adıyaman	Çeli̇khan	Çampinar	37.47										0	10/02/23 14:03	HAYVANCILIK YAPTIKLARI İÇİN KÖYDEN AYRILMIŞLARMKİMSE YOK İHTİYAÇ YOK.
+Malatya	Yazıhan	Gayret	30.11	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05368942029					1000	3	12/02/23 17:52	GUNCEL EKSIK: Çadır, tüp, un, kuru gıda////Gıda yardımı hiç gelmemiş. Marketlerin bir kısmı yıkılmış, yıkılmayanlarda ürün bitmiş.
+Adıyaman	Si̇nci̇k	Aksu	24.89	Barınma (Çadır, konteyner gibi)								110		10/02/23 13:53	VEFAT EDEN KİŞİ 111
+Malatya	Yazıhan	Epreme	40.93	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)		04227621039					100	85	12/02/23 18:23	GUNCEL EKSIK:  kuru gıda, elektrikli ısıtıcı, patates, soğan ////Muhtar çaresizlikten ağlıyor. Gıda dağıtımı çok az, yetmiyor diyor.
+Malatya	Yazıhan	Çivril	34.04	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)		04227621039							12/02/23 18:18	GUNCEL EKSIK: KURU GIDA, 20 ÇADIR
+Malatya	Yazıhan	Eğribük	23.07	Gıda (ekmek,su,paketli gıda)			05358876117					200	9	12/02/23 18:41	GUNCEL EKSIK: ÇADIR (ALEVİ DERNEKLERİ İLE YARDIM GELİYOR),Yatalak aile var.
+Malatya	Yeşi̇lyurt		29.31	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)	05344147545							10/02/23 13:22	NÜFUS 150, DIŞARDAN GELEN 750 KİŞİ, 50 ÇADIR GEREKLİ
+Malatya	Akçadağ	Çakılpınarı	47.20	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)		04224251044	25	80	160	50	40	12	12/02/23 11:41	GUNCEL EKSIK: Kuru gıda, su ////Yollar bozuk.
+Malatya	Yeşi̇lyurt	Topraktepe	14.33	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)		05358152049							12/02/23 15:53	GUNCEL EKSİK: Çadır ////NÜFUS 1000, 100 ÇADIR 200 BATTANİYE GEREKLİ.
+Malatya	Yeşi̇lyurt	Tohma	24.87				05346716193							12/02/23 15:50	GUNCEL EKSIK: Göç sebebiyle ısınma ve barınma ihtiyacı ortaya çıktı.////NÜFUS 1600, DIŞARDAN 2000 KİŞİ GELMİŞ. DİĞER İHTİYAÇLAR GİDERİLMİŞ, 200-250 ÇADIR GEREKLİ
+Malatya	Yazıhan	Doğuş	29.90	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)		05333350353					1000	2	10/02/23 13:13	Malatya'ya gelen tüm yardımlara AFAD el koymuş. Kendileri dağıtım yapıyormuş. Kıyafet, battaniye, mama, bez fazlasıyla dağıtılmış. Gıda yardımı çok yetersizmiş.
+Malatya	Yeşi̇lyurt	Şahnahan	12.54	Barınma (Çadır, konteyner gibi)			05368932107							12/02/23 15:48	NÜFUS 5000-6000, DİĞER YARDIMLAR GUNCEL EKSIK: Çadır////GELMİŞ 50 ÇADIR GEREKLİ
+Malatya	Yeşi̇lyurt	Sütlüce	16.89	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Gıda (ekmek,su,paketli gıda)	05362952642							12/02/23 15:45	GUNCEL EKSIK: Çadır, Isınma Malzemesi, (Çöp birikmesi var)////NÜFUS 2000, BELEDİYE KAPANAN YOLLARI AÇMIŞ, YARDIM GELMEMİŞ, 50 ÇADIR GEREKLİ
+Malatya	Yeşi̇lyurt	Suluköy	16.89	Barınma (Çadır, konteyner gibi)			05325412975							12/02/23 15:40	GUNCEL EKSIK: Yoğun bir şekilde göç aldığı için, Gıda, Isınma ve Barınma Malzemesi eksikliği ortaya çıktı////NÜFUS 1700, VEFAT EDEN KİŞİ SAYISI 15,  30-40 ÇADIR GEREKLİ
+Malatya	Yeşi̇lyurt	Samanköy	8.75	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05375756519					300		10/02/23 13:12	YARDIM GELDİ AMA YETERSİZ
+Malatya	Yeşi̇lyurt	Özal	13.74	Barınma (Çadır, konteyner gibi)			05362764542							12/02/23 15:35	GUNCEL EKSIK: Çadır ////NÜFUS 1718, 60 TANE ÇADIR GEREKLİ
+Malatya	Yazıhan	Ambarcık	25.76				05342776282				20	100	0	12/02/23 17:43	GUNCEL EKSİK: 5 ADET ÇADIR
+Malatya	Yeşi̇lyurt	Öncü	20.08	Gıda (ekmek,su,paketli gıda)			05326605708							10/02/23 13:09	NÜFUS 300
+Malatya	Yazıhan	Çavuş	40.04	Gıda (ekmek,su,paketli gıda)			05305017983							10/02/23 13:00	
+Malatya	Yeşi̇lyurt	Ortaköy	21.94	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)									12/02/23 15:32	GUNCEL EKSIK: Çadır////NÜFUS 200, 4-5 TANE ÇADIR
+Malatya	Yeşi̇lyurt	Mahmutlu	14.80	Gıda (ekmek,su,paketli gıda)	Kıyafet(Ayakkabı, çorap, iç çam		05325525523							12/02/23 15:22	GUNCEL EKSIK: çadır ////NÜFUS 1000
+Malatya	Akçadağ	Aksaray	18.95	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)		05322375139	150			100	217	14	12/02/23 10:41	GUNCEL İHTİYAC: Temel gıda //// önceki bilgi:Deprem öncesi nüfus 324 kişi ancak şu anda neredeyse 3 katına çıkmış durumda. Hastaneye erişim var ancak hizmet alamıyorlar.
+Malatya	Yeşi̇lyurt	Mollakasim	6.60											12/02/23 15:27	GUNCEL EKSIK: Çadır, Gıda Malzemesi, Isınma Malzemesi (Kronik Hastalar İlaçlarını Alamıyor)////YARDIM GELDİ, İHTİYAÇ YOK
+Malatya	Yeşi̇lyurt	Kuşdoğan	16.14	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be							0	12/02/23 15:15	GUNCEL EKSIK: Sağlık taramasına ihtiyaç var.////TOPLAM NÜFUS 300
+Malatya	Yazıhan	Buzluk	35.58	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	05437703033						10	12/02/23 18:11	GUNCEL EKSİK: 3000 ŞU AN NÜFUS, ÇADIR YARDIMI ////Malatyanın en büyük köyü. Normalde 2500 olan nüfus 2-3 katına çıkmış. Yardımlar yetmiyormuş.
+Malatya	Akçadağ	Darıca	56.60	Gıda (ekmek,su,paketli gıda)			05301194565	20	100	200	50	250	7	12/02/23 11:56	GUNCEL EKSİK: Gıda ve hijyen ////Afad çalışması yapılması gerekmemekte. Acil içme suyu ihtiyacı var.
+Malatya	Yazıhan	Boztepe	40.00	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)		05367709995	40			10	17	0	12/02/23 18:08	GUNCEL EKSİK: Çadır
+Kahramanmaraş	Elbistan	Ovacık	75.07	Diğer	Isınma (El sobası, battaniye)					150		70	0	10/02/23 12:41	
+Malatya	Yazıhan	Bereketli	23.74				05327488031					60	0	12/02/23 17:54	GUNCEL EKSİK: KURU GIDA (YAĞ, MAKARNA GİBİ), GİYİNME,ISINMA(ODUN,KÖMÜR)
+Kahramanmaraş	Elbistan	Küçükyapalak	65.88	Isınma (El sobası, battaniye)						150		150	20	12/02/23 12:14	GÜNCEL EKSİK: sadece temizlik-hijyen ürünlerine ihtiyaç var
+Hatay	Hassa	Yenikapan	78.86	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Kıyafet(Ayakkabı, çorap, iç çam		50		100	20	50	15	12/02/23 12:18	GÜNCEL: Yardımlar ulaşmış, bir ihtiyaçları kalmamış.  ////  önceki bilgi:İl tarım ile irtibattalar hayvanların yemleri için. Köye yardım gelmiş nispeten iyi durumda ve fazla yardıma ihtiyaç olmadığı sadece jeneratör olmadığı için ısınmanın hâlâ sorun olduğu belirtildi. Engelli bireyler için tekerlekli sandalye sağlanmış. Enkaz altında kalan yok, yaralılar civar illere hastanelere nakledilmiş.
+Malatya	Yazıhan	Balaban	24.28	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)		05359855136					150	0	12/02/23 17:49	GUNCEL EKSIK: Isınma, kömür, odun ////Kaymakamlık ihtiyaçları dinlemiyormuş, ne gönderirsek onu alacaksınız demiş. Köy nüfusu 3'e katlanmış. Marketler kapalı, herkes aç diyor muhtar.
+Kahramanmaraş	Elbistan	Köşkköy	86.06	Isınma (El sobası, battaniye)	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)			7	7	2	7	0	12/02/23 12:06	GÜNCEL: yardım hiç gitmemiş. 8 hanelik bir köy
+Malatya	Akçadağ	Çobanuşağı	43.32	Barınma (Çadır, konteyner gibi)			05367221134	10	30	60	5	120	50	12/02/23 11:53	GUNCEL EKSİK: Çadır, tüp, battaniye ////Acil çadır ihtiyacı var.
+Malatya	Yazıhan	Bahçelievler	20.10	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	05359605811					176		12/02/23 17:44	GUNCEL EKSIK: YOK ////Malatya'da genel olarak şehirden köylere kaçış olmuş. 500 kişilik nüfus 3500 oldu diyor muhtar.
+Malatya	Akçadağ	Çevirme	51.01	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Hijyen ve sağlık( Ped, bebek be	05396879076	10	40	80	20	80	0	10/02/23 12:11	Acil gıda, çadır ve temizlik malzemesi ihtiyacı var. Hastaneye ulaşım var ancak bir hizmet alamıyorlar.
+Malatya	Yazıhan	İriağaç	37.36				05442988991	70			75	60	10	12/02/23 17:39	GUNCEL EKSIK: 10 ADET ÇADIR, (ÇADIRLARI KURAMIYORLAR İNSANLAR)
+Malatya	Yazıhan	Akyazı	41.24	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)		05414521700	50				54	0	12/02/23 17:40	GUNCEL EKSİK:  3 ADET ÇADIR,KURU GIDA,ISINMA
+Malatya	Akçadağ	Çatalbahçe	44.04	Barınma (Çadır, konteyner gibi)			05368585527	10	9	20	3	150	12	12/02/23 11:45	GUNCEL EKSİK: YOK ////Normalde köy nüfusu 216 ancak şu anda mevcut kişi sayısı 30 kişi.
+Malatya	Akçadağ	Büyükköy	41.99	Barınma (Çadır, konteyner gibi)			05357940299	20		100	15	35	10	12/02/23 11:35	GUNCEL EKSİK: Çadır, kuru gıda ////Acil çadır ihtiyacı var.
+Malatya	Akçadağ	Bölüklü	34.43	Barınma (Çadır, konteyner gibi)			05543067972	60		100	50	150	4	10/02/23 11:18	Acil çadır ihtiyacı var. Köy nüfusu şu anda dışarıdan gelenlerle 2000 kişi civarında.
+Malatya	Akçadağ	Bayramuşağı	38.98	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)	Barınma (Çadır, konteyner gibi)	05383696442			100	30	120	1	12/02/23 11:04	GUNCEL EKSİK: 15 Çadır
+Malatya	Akçadağ	Bağköy	38.07	Gıda (ekmek,su,paketli gıda)	Teknik yardım (Powerbank,el fen		05356392156	20		140	35	120	40	12/02/23 11:13	GUNCEL EKSİK: YOK //// Acilen elektrik sorunun çözülmesi gerek.
+Malatya	Akçadağ	Aşağıörükçü	25.10	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05536707977	30		600	60	160	4	12/02/23 11:03	GUNCEL EKSİK: Çadır kuru gıda, ısıtıcı //// önceki bilgi:Acil çadır ihtiyacı var.
+Kahramanmaraş	Elbistan	Söğütlü	64.05	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)		05457993777			2000		500	5	12/02/23 12:35	GÜNCEL: eksik yok
+Kahramanmaraş	Elbistan	Sevdilli	83.26					60		290		60	35	12/02/23 12:19	GÜNCEL: eksik yok
+Malatya	Akçadağ	Ancar	33.79	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)		05315829740	200	250	400	150	160	1	12/02/23 11:01	GUNCEL EKSİK: Temel kuru gıda
+Kahramanmaraş	Elbistan	Kayageçit	81.16	Barınma (Çadır, konteyner gibi)	Kıyafet(Ayakkabı, çorap, iç çam	Hijyen ve sağlık( Ped, bebek be	05306556586	15		90		65	0	12/02/23 12:00	GÜNCEL EKSİK: çay şeker bir de ayakkabı isteniyor   ////   mazot sorunu var
+Kahramanmaraş	Elbistan	Keçemağara	88.11	Barınma (Çadır, konteyner gibi)				70	75	145		150	0	10/02/23 10:04	
+Malatya	Akçadağ	Altınlı	28.89	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)		05324882159	30		130	40	120	15	12/02/23 10:58	GUNCEL EKSİK: Çadır
+Malatya	Akçadağ	Aliçeri	35.02				05355753446			20	300	60	0	12/02/23 10:55	GUNCEL EKSİK:Çadır, Yiyecek, Kuru Gıda
+Kahramanmaraş	Elbistan	Karamağara	82.53	Barınma (Çadır, konteyner gibi)	Diğer	Isınma (El sobası, battaniye)		175		175		100	15	12/02/23 11:59	GÜNCEL: ihtiyaç yok
+Kahramanmaraş	Elbistan	Karahasanuşağı	80.12	Diğer	Isınma (El sobası, battaniye)	Gıda (ekmek,su,paketli gıda)		100		350		103	65	12/02/23 11:54	GÜNCEL EKSİK: kuru gıda, yağ, çay,şeker,un ihtiyaçları var.
+Kahramanmaraş	Elbistan	Karahüyük	58.57	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Diğer	05455166606	350	500	650		120	25	12/02/23 11:56	GÜNCEL EKSİK: çadır, un, yağ, kuru gıda ve kömür ihtiyaçları var
+Hatay	Yayladaği	Leylekli̇	30.66	Kıyafet(Ayakkabı, çorap, iç çam	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)		150		200	100		0	09/02/23 22:35	ACİL TEKERLEKLİ SANDALYE
+Kahramanmaraş	Pazarcık	Sarıl	72.54	Barınma (Çadır, konteyner gibi)			05445381490	250		350	150		0	12/02/23 17:00	GÜNCEL EKSİK: 25 adet çadır, kuru gıda, çocuk  bezi, çocuk maması   ///// YARDIMA PEK GEREK OLMADIĞI SÖYLENDİ.
+Hatay	Belen	Atik	32.30	Barınma (Çadır, konteyner gibi)				20	240	230	10		0	09/02/23 22:13	Köy camisi ciddi hasar almıştır. 
+Hatay	Kırıkhan	Kamberli̇kaya	45.49	Barınma (Çadır, konteyner gibi)									25	09/02/23 19:00	
+Hatay	Kırıkhan	Gültepe	48.91	Barınma (Çadır, konteyner gibi)	Tıbbi yardım malzemeleri		05358456232						0	09/02/23 19:00	İLACA İHTİYAÇLARI VAR. Çadır ve jeneratör lazım
+Hatay	Kırıkhan	Danaahmetli	43.90	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Diğer					40		10	09/02/23 18:50	ARAÇ SIKINTISI YIK FAKAT YAKIT ALACAK NAKİTLERİ YOK. YAKIT SIKINTISI ÇEKİYORLAR.YOLLAR KALABALIK OLDUĞU İÇİN KAPALIİLÇELERDEN GELEN ÇOK FAZLA KİŞİ VAR. ÇADIR VE ISITICILARA İHTİYAÇ VAR. Çadır, kuru gıda ve jeneratör lazım.
+Hatay	Kırıkhan	Çiloğlan	41.22	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Diğer		150		800	80		4	09/02/23 18:43	YOLLAR KAPALI, HASTANEYE ERİŞİM YOK.30DAN FAZLA CENAZE VAR. Çadır ve kuru gıda lazım
+Hatay	Kırıkhan	Çataltepe	42.66	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Diğer				350				09/02/23 18:30	ped acil ihtiyaç. çataltepe- merkez arasındaki yolda taş düşmüş. ısınma için odun sobası gerekli. çadır gerekli
+Gaziantep	Nurdağı	Başpınar	42.79	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)		05343154897	300			60		10	12/02/23 10:00	GUNCEL EKSIK: Çadır 20 tane////YOLLAR KISMEN AÇIK, KENDİ İMKANLARIYLA DÜZELTME YAPMIŞLAR. CENAZELERİ ÇOK.
+Hatay	Kırıkhan	Baldiran	34.64	Barınma (Çadır, konteyner gibi)									0	09/02/23 17:25	KÖYDE CENAZELERİ ÇOK. MERKEZDE OTURAN VE ÖLEN ÇOK VAR.
+Hatay	Kırıkhan	Balarmudu	53.90	Barınma (Çadır, konteyner gibi)	Teknik yardım (Powerbank,el fen	Tıbbi yardım malzemeleri		120		200			25	09/02/23 17:03	YARALILARI VAR, HASTANEYE ERİŞİM YOK
+Hatay	Kırıkhan	Aygirgölü	50.85	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Isınma (El sobası, battaniye)				200	30			09/02/23 16:55	"ISINMA SIKINTISI VAR.
+ÇADIR VE ISITICI GEREK."
+Hatay	Kırıkhan	Arkitça	35.60	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Gıda (ekmek,su,paketli gıda)	05358456232	20		160	40		25	09/02/23 17:13	"YOLLAR KAPALI!!!
+40 ADET ÇADIRA İHTİYAÇLARI VAR."
+Hatay	Kırıkhan	Alabeyli̇	40.62	Barınma (Çadır, konteyner gibi)	Diğer	Kıyafet(Ayakkabı, çorap, iç çam							8	09/02/23 16:43	ACİL ÇADIRA İHTİYAÇLARI VAR!!!
+Hatay	Arsuz	Aşaği Kepi̇rce	35.45	Isınma (El sobası, battaniye)	Barınma (Çadır, konteyner gibi)									09/02/23 21:18	MUHTAR TÜM AİLSESİNİ KAYBETTİĞİNDEN SORULARI CEVAPLAYACAK DURUMDA DEĞİLDİ. edit: Gıda, çadır, ısıtıcı, kadın ve çocuk iç giyime ihtiyaç var
+Hatay	Kırıkhan	Aktutan	34.55	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Kıyafet(Ayakkabı, çorap, iç çam							2	10/02/23 16:37	YOLLAR TRAFİK NEDENİYLE KAPALI.ÇOCUK KIYAFETİNE İHTİYAÇLARI VAR.20 ÇADIRA İHTİYAÇLARI VAR.ENKAZ ALTINDAKİ KİŞİ ÖLMÜŞ. ÇADIR LAZIM
+Hatay	Arsuz	Arpagedik	31.35	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)		05352161925						0	09/02/23 21:15	GIDA, ÇADIR İHTİYACI, EVE GİREMİYOLARMIŞ. edit: Afaddan yardım gelmemiş çadır ve gıda ihtiyacı var
+Hatay	Kırıkhan	Camızkışlası	57.98	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be								09/02/23 19:40	MERKEZDEN GELEN ÇOK FAZLA KİŞİ VAR. NET SAYI YOK. KALACAK YERLERİ YOK. Çadır, kuru gıda battaniye lazım
+Hatay	Arsuz	Arpaderesi	35.93	Gıda (ekmek,su,paketli gıda)	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	05373635315						4	10/02/23 09:08	MERKEZE YAKIN BİR KÖY. GIDA VE ÇADIRA ÇOK İHTİYAÇ VAR. edit: Sadece bisküvi yardımı olmuş. Çadır, gıda ve su ihtiyacı var
+Hatay	Kırıkhan	Gölbaşı	43.60	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Hijyen ve sağlık( Ped, bebek be	05367426949	600		1500	100			09/02/23 20:00	ÇOK BEBEKVAR. MAMAYA İHTİYAÇLARI VAR.ENKAZ SAYISI BİLİNMİYOR AMA FAZLA.YAKITA İHTİYAÇLARI VAR. Çadır lazım
+Hatay	Yayladağı	Çaki	22.12				05372563465	100		600	100		0	09/02/23 21:03	ACİL YAKIT İHTİYACI
+Hatay	Yayladağı	Çabala	34.51	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)	Diğer				400	50		4	09/02/23 20:58	ACİL YAKIT SIKINTISI VAR.
+Hatay	Samandağ	Yaylıca	13.42	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be	05355166105	1000	2500	2800	800		0	12/02/23 10:30	!EKSİKLER: temizlik malzemesi, sıvı sabun, diş macunu, tuvalet kağıdı, çadır, havlu, diş fırçası, şampuan
+Hatay	Reyhanlı	Uzunkavak	31.61	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05327784302							09/02/23 20:52	25-30 KİŞİ ENKAZ ALTINDA.
+Hatay	Reyhanlı	Tayfursökmen	22.53	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)		05327047202							12/02/23 14:00	GÜNCEL EKSİK: YARDIM GİTMEMİŞ. ÇADIR VE KURU GIDA İSTENİYOR.    ////   ÇADIR VERİLMİŞ AMA YETERSİZ. SU, GIDA, EKMEK ACİL İHTİYAÇ. edit: ÇADIR VE KURU GIDA İHTİYACI VAR
+Hatay	Reyhanlı	Oğulpinar	44.79				05376302651							09/02/23 20:49	AHIRLAR YIKILMIŞ. ACİL İHTİYAÇ OLMADIĞI SÖYLENDİ.
+Hatay	Reyhanlı	Suluköy	25.95	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05317142424							09/02/23 20:23	NÜFUS 300. AFAD 3 ÇADIR VERMİŞ AMA YETERSİZ. edit: KURU GIDA, ÇADIR, BATTANİYE, SU İHTİYACI VAR
+Hatay	Samandağ	Kuşalani	17.84	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05356504888						15	09/02/23 20:35	6 KİŞİ HALA ENKAZDA 
+Gaziantep	Islahiye	Telli	68.70	Kıyafet(Ayakkabı, çorap, iç çam	Teknik yardım (Powerbank,el fen	Isınma (El sobası, battaniye)	05379223997						7	09/02/23 20:28	
+Hatay	Samandağ	Fi̇danli	13.49	Gıda (ekmek,su,paketli gıda)	Gıda (ekmek,su,paketli gıda)		05322656033							09/02/23 20:31	"Hastane yıkıldığı için ulaşılmıyor 
+"
+Hatay	Samandağ	Çamliyayla	18.50	Diğer			05387432069						0	09/02/23 20:23	"araç var fakat, yakıt yok
+hasarlı binalar var
+yollar kapalı"
+Gaziantep	Islahiye	Örtülü	58.80	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Diğer	05324580079						0	09/02/23 20:20	
+Hatay	Reyhanlı	Oğulpınar	44.80	Gıda (ekmek,su,paketli gıda)			05376302651							12/02/23 14:30	GÜNCEL EKSİK: acil çadır gerekli.   ////  AFADDAN 3 ÇADIR VERİLMİŞ AMA YETERSİZ. 300 NÜFUS.
+Hatay	Samandağ	Çanakoluk	9.99	Hijyen ve sağlık( Ped, bebek be	Gıda (ekmek,su,paketli gıda)		05383387400							09/02/23 20:12	"Elektrik, su yok şebeke sıkıntılı, mazot ihtiyacı var
+hayvanlara yem ihtiyacı var
+Hasarlı binalar var"
+Hatay	Reyhanlı	Paşaköy	31.18	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Teknik yardım (Powerbank,el fen	05383312947							12/02/23 13:15	GÜNCEL EKSİK: YARDIM GİTMEMİŞ. ACİL İHTİYAÇLAR: ÇADIR, BATTANİYE, KURU GIDA    ////  ÇADIR, ISITICI, BATTANİYE, ÇOCUK BEZİ İHTİYAÇLARI VAR
+Hatay	Reyhanlı	Paşahöyük	33.43	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be	05366965151							09/02/23 20:19	GÜNCEL EKSİK: ODUN, GIDA, SU, ISITICI, ÇADIR İHTİYAÇLARI DEVAM EDİYOR     ////  1000 NÜFUS VAR. ÇOCUK KIYAFETİ İHİTYACI VAR. edit:İÇEÇEK, GIDA, EKMEK, ISITICI VEYA ODUN, 10 TANE ÇADIR, SU İHTİYACI VAR
+Hatay	Reyhanlı	Kumtepe	23.10											12/02/23 14:00	GÜNCEL EKSİK: acilen çadır isteniyor. köyde sular akmıyor.    ////  1 YENİ TIR GEMİŞ. ŞU ANLIK YARDIM İHTİYACI YOK. edit: Çadır ve su ihtiyaçları var
+Hatay	Reyhanlı	Kuletepe	28.60	Gıda (ekmek,su,paketli gıda)			05355073405							12/02/23 14:00	GÜNCEL EKSİK: çadır ve battaniye ihtiyacı devam ediyor.     /////   SU İHTİYACI VAR. edit:ÇADIR, BATTANİYE İHTİYAÇLARI VAR
+Hatay	Reyhanlı	Karahöyük	30.70	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be	Barınma (Çadır, konteyner gibi)	05317142424						0	12/02/23 13:30	GÜNCEL EKSİK: hiçbir yardım gitmemiş önceden de belirtilen ihtiyaçlar acil isteniyor.     2 JENERATÖR, 10 ÇADIR, İÇME SUYU, YAŞLILARA VE ÇOCUKLARA BEZ, KADIN PEDİ İHTİYACI VAR. edit: EN AZ 1 ADET JENERATÖR, GIDA, BATTANİYE, ISITICI, İÇ ÇAMAŞIRI, ÇADIR
+Gaziantep	Islahiye	Yesemek	59.32	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Kıyafet(Ayakkabı, çorap, iç çam					80		0	09/02/23 20:01	İhtiyaç Yok.
+Hatay	Reyhanlı	Harran	40.44				05353133025							12/02/23 13:00	GÜNCEL EKSİK: çadır, kuru gıda. yardım gitmemiş.    ////   İHTİYAÇ YOK DENDİ. ACİL İHTİYAÇLAR: ÇADIR, KURU GIDA
+Hatay	Reyhanlı	Göktepe	30.77				05077053127							12/02/23 13:15	GÜNCEL EKSİK: 15-20 paket kuru gıda. çadır gerekli   ////   YOLLAR GÖÇÜK ALTINDA. KAYIPLAR VAR. ACİL YARDIM BÖLGESİ. ÇOK ACİL ÇADIR İHTİYAÇLARI VAR
+Hatay	Samandağ	Büyükoba	18.91	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be		05355763386						0	09/02/23 20:01	"araç sıkıntısı yok, yakıt sıkıntısı var
+yıkılan bina yok fakat sadece hastaneler yıkılmış"
+Hatay	Reyhanlı	Gazimürsel	37.32				05317142424							12/02/23 13:00	GÜNCEL EKSİK: 5 adet çadır       /////   YARDIMA İHTİYAÇ YOK DENDİ.
+Hatay	Reyhanlı	Fevzipaşa	43.00				05353369804							12/02/23 13:00	GÜNCEL: sadece çadır   //////  İHTİYAÇ YOK DENDİ.
+Hatay	Reyhanlı	Davutpaşa	42.11	Isınma (El sobası, battaniye)	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	05337297119							12/02/23 13:30	GÜNCEL EKSİK: çadır, battaniye, ısıtıcı  ////  1000 KİŞİLİK NÜFUS, 1000 SURİYELİ
+Hatay	Reyhanlı	Cilvegözü	43.22				05356660959							09/02/23 19:57	NET İLGİ EDİNİLMEDİ. ENKAZ VE ÖLÜ YOK. YARDIM GİTMEMİŞ. ACİL İHTİYAÇ: BATTANİYE, ERZAK, ÇOCUK BEZİ, ÇADIR
+Hatay	Reyhanlı	Bükülmez	44.96	Gıda (ekmek,su,paketli gıda)	Kıyafet(Ayakkabı, çorap, iç çam	Isınma (El sobası, battaniye)	05308719700							12/02/23 12:45	GÜNCEL EKSİK: battaniye ve çadır acilen isteniyor.  //// 2000 NÜFUS. HİÇ KİMSE GİTMEMİŞ. ACİL İHTİYAÇLAR: ÇADIR, BATTANİYE, EKMEK, SU
+Hatay	Reyhanlı	Beşaslan	29.72	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)		05355073405							12/02/23 12:45	GÜNCEL EKSİK: çadır ve gıda hala gitmemiş. Kıyafet istenmiyor.  //// 450 HANE VAR. ENKAZ ALTINDA 5-6 HANE VAR. GİYİM İHTİYACI YOK.ACİL İHTİYAÇLAR: GIDA VE ÇADIR İHTİYAÇLARI VAR. KIYAFET İSTENMİYOR.
+Hatay	Reyhanlı	Akyayla	40.52				05365426486							12/02/23 12:45	GÜNCEL EKSİK: çadır. diğer eksikler karşılanmış.   ////  HERHANGİBİR YARDIM GİTMEMİŞ. ACİL İHTİYAÇLAR: ÇADIR, KURU GIDA
+Hatay	Reyhanlı	Ahmetbeyli	34.70	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be		05374245148						6	12/02/23 12:00	GÜNCEL: Yardımlar ulaşmış şu an bir sıkıntı yok
+Hatay	Samandağ	Batıayaz	15.71	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Kıyafet(Ayakkabı, çorap, iç çam	05353362838						0	09/02/23 19:43	Evler hasarlı olduğundan dolayı insanlar dışarıda.
+Hatay	Kırıkhan	Abalaklı	45.01	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Kıyafet(Ayakkabı, çorap, iç çam		200		250	30		30	09/02/23 19:43	YAKIT YOK, Çadır gerekli
+Hatay	Samandağ	Yeşi̇lyazi	16.48	Gıda (ekmek,su,paketli gıda)	Tıbbi yardım malzemeleri	Isınma (El sobası, battaniye)	05333827321			200			0	09/02/23 19:30	Afad ekipleri gitmemiş, acil gıda yardımları isteniyor. 
+Hatay	Defne	Yaylacik	11.10	Isınma (El sobası, battaniye)	Isınma (El sobası, battaniye)	Isınma (El sobası, battaniye)	05364728197							09/02/23 19:54	var, şeker tansiyon ilacı, insülin ilacı ihtiyacı. Çocuklar için ateş düşürücü, şurup,ağrı kesici ihtiyacı var.
+Hatay	Hassa	Yukarıbucak	65.56	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Kıyafet(Ayakkabı, çorap, iç çam		30		500				12/02/23 12:00	GÜNCEL EKSİK: Gıda ihtiyaçları var. çadır ve kıyafet ihtiyacı giderilmiş ///// önceki bilgi: Araç sıkıntısı bazen oluyor, muhtar merkezden çadır almaya gittiğinde araç konusunda yardımcı olmuşlar. Afad'dan yardıma gelinmiş ama çoğu enkazedeyi köylü çıkarmaya çalışmış. Binaların %80 i yıkılmış geri kalanlar da hasarlı. Kadın nüfusu yarı yarıya. Yaşlı nüfusu çok az çoğu da vefat etmiş
+Hatay	Samandağ	Vakıfköy	19.28	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)	05324835738	30	50	65	30		0	12/02/23 09:15	!EKSİKLER: plastik tabak,çatal,kaşık,bıçak
+Hatay	Antakya	Saraycik	4.54	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Gıda (ekmek,su,paketli gıda)								09/02/23 19:52	Binalar hasarlı olduğundan, acil çadıra, battaniyeye ihtiyaç var. Köye defnedilen çok olduğu için sıkıntılar yaşanıyor su vs ihtiyacı var. Mazot yok. İlaç ihtiyaçları var .
+Hatay	Samandağ	Yoğunoluk	18.06	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	05324216388			1500			7	12/02/23 10:45	!!Tüm ihtiyaçlar gelmiş. Yalnızca ÇADIR gerekli
+Hatay	Antakya	Saçakli	17.22	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	05326760052						0	09/02/23 19:50	Çoğu hasarlı binalar olduğu için acil çadıra, gıdaya ve yakacak ürüne ihtiyaçları var. İlaç ihtiyaçları karşılanmış.Arabaları var ama mazot bulamıyorlar. 
+Hatay	Samandağ	Uzunbağ	12.86	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Kıyafet(Ayakkabı, çorap, iç çam	05383387400	1000	2500	2900	1000		5	09/02/23 19:44	Çift şerit yolun tek şeridi yıkılmış. tek taraftan ulaşım sağlanıyor.  Fakat bölgeye ekip gönderilmesine rağmen can güvenliği sorunu yaşanmakta. Suriyeli yerleşik halk yardımı kabul etmemekte.
+Hatay	Antakya	Melekli̇	17.04	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)	Isınma (El sobası, battaniye)							5	09/02/23 19:49	İyi durumda olduklarını evlerin genelinde hasar olmadığını yakacak (kömür-odun) ve gıda ihtiyaçları olduklarını söylendi.
+Hatay	Antakya	Mansurlu	6.65	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	05356010646						0	09/02/23 19:47	Acil olarak çadıra, gıdaya ihtiyaçları var. Su hala verilmemiş,ihtiyaçları var.
+Hatay	Antakya	Madenboyu	14.87	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)							5	09/02/23 19:04	Acil olarak gıda-battaniye-mazot-içme suyuna ihtiyaçları var. Diyaliz hastaları varmış.
+Hatay	Arsuz	Hacıahmetli	29.09	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05355910997	400	1600	2000	600		4	09/02/23 19:13	edit:Afaddan yardım gelmemiş çadır ve gıda ihtiyacı var
+Hatay	Samandağ	Tomruksuyu	11.34	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be	05324634953	1200	2000	2500	700		0	12/02/23 09:39	! EKSİKLER: gıda, sıvı sabun, çadır, jeneratör. yalnızca kıyafet yardımı gelmiş. kıyafete ihtiyaç yokmuş
+Gaziantep	Islahiye	Yukarıbilenler	69.05	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Gıda (ekmek,su,paketli gıda)	05372992499						0	09/02/23 19:35	
+Hatay	Kırıkhan	Adalar	45.23	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)			100		270	150		0	09/02/23 19:39	HASTANEYE ERİŞİMLERİ YOK. EN YAKIN HASTANE ADANADA. Çadır, kuru gıda, çocuk bezi lazım.
+Hatay	Samandağ	Tekebaşı	22.56	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be	Barınma (Çadır, konteyner gibi)	05355446125	4000	5000	6000	2000		0	12/02/23 08:45	yardımlar ulaşmış. EKSİKLER: çadır, ısınma için araç-gereç, mezar taşı yapabilmek için pirket veya o türde bir malzeme ihtiyacı var.
+Hatay	Arsuz	Gülci̇han Arsuz	34.25	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Gıda (ekmek,su,paketli gıda)	05325148779	120	180	360	120		0	09/02/23 18:42	yapıların çoğunda hasar olmadığı için köye gelen misafir çok. o sebeple ekstra çadır, malzeme gerekli.  
+Hatay	Samandağ	Meydan	24.92	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Kıyafet(Ayakkabı, çorap, iç çam	05352522000	1000	1800	2000	500		0	12/02/23 08:45	EKSİKLER: gıda, çadır, ısıtıcı, çocuk bezi ve çocuk maması acil ihtiyaç. Yeterli yardım ulaşmamış.
+Gaziantep	Islahiye	Yolbaşı	69.29	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Gıda (ekmek,su,paketli gıda)	05322211934				30		0	09/02/23 19:25	Çadır ihtiyacı var insanlar evine girmeye korkuyor, ilçe merkezi sıkıntılı
+Hatay	Samandağ	Kuşalanı	17.84	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	05356504888						15	09/02/23 19:22	En önemli ihtiyaç gıda, çadır hayvanlar için yem. Kesinlikle çadır gitmesi lazım insanlar dışarda şu an!!!!
+Hatay	Samandağ	Karaçay	10.45	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)		05322628853						5	09/02/23 19:09	
+Hatay	Derekuyu	Arsuz	28.51	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05359561564							09/02/23 18:31	Toplam nüfus 750. Hasarlı binalar içine girilemeyecek durumda. Afad yardımı ulaşmamış ama kaymakamlıktan yardım gelmiş kuru gıda ve çadır ihtiyacı hala var.
+Hatay	Samandağ	Fidanlı	13.76	Gıda (ekmek,su,paketli gıda)			05322656033						6	09/02/23 19:00	Gıda ihtiyacı
+Hatay	Yayladağı	Yukarıpulluyazı	36.09	Barınma (Çadır, konteyner gibi)	Kıyafet(Ayakkabı, çorap, iç çam	Gıda (ekmek,su,paketli gıda)	05386701262	30	50	70	150		0	09/02/23 18:48	"Mazot yok
+Hatay'ın genelinde mazot, benzin, tüp sıkıntısı var.
+Kıyafet ve un, şeker isteniyor.
+Yetişkin kıyafeti isteniyor.
+İç çamaşır ve ayakkabı isteniyor."
+Hatay	Reyhanlı	Uzunkavak	31.61	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)	05327784302							09/02/23 15:58	
+Hatay	Samandağ	Çubukçu	10.87	Gıda (ekmek,su,paketli gıda)	Gıda (ekmek,su,paketli gıda)	Gıda (ekmek,su,paketli gıda)	05364691072						0	09/02/23 18:47	Yakıt yok
+Hatay	Yayladağı	Yukarıokçular	12.70	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be	Kıyafet(Ayakkabı, çorap, iç çam		2000	1500	3200	800		3	09/02/23 18:35	 un istiyor yemek ve gıda istiyor 250 koli
+Hatay	Samandağ	Çanakoluk	9.99	Gıda (ekmek,su,paketli gıda)	Teknik yardım (Powerbank,el fen	Hijyen ve sağlık( Ped, bebek be	05383387400						2	09/02/23 18:33	Mazot eksiği, yem eksiği. 10 tane kronik hasta 2si diyalize bağlı
+Hatay	Yayladağı	Yoncakaya	22.29	Gıda (ekmek,su,paketli gıda)	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be		350	300	500	250		30	09/02/23 18:21	
+Hatay	Antakya	Çamlıyayla	10.63	Gıda (ekmek,su,paketli gıda)			05387432069						0	09/02/23 18:20	Yakıt sıkıntısı, yem sıkıntısı
+Kahramanmaraş	Dulkadiroğlu	Beşenli	40.01	Isınma (El sobası, battaniye)	Kıyafet(Ayakkabı, çorap, iç çam	Barınma (Çadır, konteyner gibi)	05339650733	50	130	250	50		10	09/02/23 18:28	
+Kahramanmaraş	Dulkadiroğlu	Bulanık	33.50	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Gıda (ekmek,su,paketli gıda)	05325641852	2500	1500	3000	1000		400	09/02/23 18:24	barınma sorunu acil. doktora ulaşım yetersiz
+Kahramanmaraş	Dulkadiroğlu	Çatmayayla	20.48	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be		100	400	800	300		20	09/02/23 18:19	
+Hatay	Yayladağı	Yalaz	30.26	Gıda (ekmek,su,paketli gıda)	Kıyafet(Ayakkabı, çorap, iç çam	Hijyen ve sağlık( Ped, bebek be		25	150	300	50		0	09/02/23 18:11	
+Hatay	Antakya		5.99	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Kıyafet(Ayakkabı, çorap, iç çam	05355074206				400		0	09/02/23 18:01	Geçimlerini hayvancılıkla sürdürdükleri için yem sıkıntısı çekilmektedir. Ayrıyeten yakıt sıkıntısı vardır
+Kahramanmaraş	Dulkadiroğlu	Başdevrişli	30.69	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be		100	150	300	45		10	09/02/23 18:12	
+Kahramanmaraş	Dulkadiroğlu	Boyalı	22.18	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)		150	100	200	40		0	09/02/23 18:09	
+Hatay	Altınözü	Üçırmak	25.41	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be	Isınma (El sobası, battaniye)		7	15	25	2		0	09/02/23 17:55	"Çadır yetersiz çadır isteniyor.
+Un isteniyor."
+Hatay	Payas	Kozludere	62.53	Barınma (Çadır, konteyner gibi)			05355443794	350					6	09/02/23 15:54	Sadece çadır lazım.
+Kahramanmaraş	Dulkadiroğlu	Arslanbey	51.71	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Gıda (ekmek,su,paketli gıda)		250	150	300	30		60	09/02/23 18:05	
+Kahramanmaraş	Dulkadiroğlu	Ağabeyli	25.96	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)		60	125	250	45		15	09/02/23 18:00	
+Hatay	Kumlu	Doğuayrancı	38.51	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)			50			5		22	12/02/23 11:16	GUNCEL EKSIK: ACİLL 20 adet çadır ve kuru gıda////Yardım gelmiş ama çocuk kıyafeti çıkmış içinden daha çok. Bizde çocuk pek yok, yazık oldu diyor. Acil ihtiyaçları gıda.
+Hatay	Antakya	Batıayaz	22.86	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Kıyafet(Ayakkabı, çorap, iç çam	05353362838						0	09/02/23 17:52	
+Kahramanmaraş	Dulkadiroğlu	Abbaslar	47.84	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)		400	250	500	70		40	09/02/23 17:17	bazı yollarda hasar mevcut
+Hatay	Kumlu	Kaletepe	38.43	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)			200			50		6	09/02/23 16:27	Korkudan dışarda yatıyormuş insanlar onun için çadır olabilir dedi ama genel durumu iyi olan köylerden biri. 
+Hatay	Yayladağı	Şakşak	25.63	Gıda (ekmek,su,paketli gıda)	Kıyafet(Ayakkabı, çorap, iç çam	Barınma (Çadır, konteyner gibi)							0	09/02/23 17:46	Köyde hasar yok fakat merkezden köylere akrabalarına ve evlerle gelen çok kişi var bir evde çok kişi kalıyor.
+Hatay	Kumlu	Akkuyu	34.31	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)		300			35		2	12/02/23 11:04	GUNCEL EKSIK: 15 ÇADIR,ÇOCUK BOTU,KURU GIDA, TEMİZLİK MALZEMELERİ////Bir tır su gelmiş. En acil ısıtıcı, gıda ve çadır.
+Hatay	Yayladağı	Sürütme	21.42	Barınma (Çadır, konteyner gibi)	Kıyafet(Ayakkabı, çorap, iç çam	Gıda (ekmek,su,paketli gıda)		22	112	180	100		0	09/02/23 17:34	"mazot yok
+mama ve çocuklar için ihtiyaç olabilecek her şey, kıyafet, gıda isteniyor
+ısıtıcı isteniyor"
+Hatay	Kırıkhan	Kamberlikaya	45.49	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Kıyafet(Ayakkabı, çorap, iç çam		20		260	20		3	09/02/23 17:23	Köyümüzün nüfusu ilçeden gelen akrabalarla 2 katı arttı. Evlerimizde hafif hasar var çatlaklar gibi. İki hafif yaralımız var. Çadır ve jeneratör lazım. edit: Çadır , odun ve kömür ihtiyaçları var
+Hatay	Yayladağı	Sebenoba	21.30	Gıda (ekmek,su,paketli gıda)	Gıda (ekmek,su,paketli gıda)	Gıda (ekmek,su,paketli gıda)							0	09/02/23 17:24	
+Hatay	Yayladağı	Olgunlar	26.26	Gıda (ekmek,su,paketli gıda)	Kıyafet(Ayakkabı, çorap, iç çam	Hijyen ve sağlık( Ped, bebek be		30	250	200	100		3	09/02/23 17:12	"mazot  ihtiyacı var 
+bir an önce yardım gelmesi isteniyor
+ayakkabı ve kışlık kıyafet isteniyor"
+Hatay	Kırıkhan	Kangallar, Kırıkhan	33.07	Gıda (ekmek,su,paketli gıda)	Gıda (ekmek,su,paketli gıda)	Tıbbi yardım malzemeleri		70	100	260	20		0	09/02/23 16:43	"Yardım geldi bir kaç kez özel kurumlardan. Battaniye, çeşitli gıda, bisküvi, tatlı gibi ama kuru gıda gelmedi. İlçeden gelen akrabalar nedeniyle şu anda nüfusumuz 2 katı bu nedenle kuru gıda ihtiyacımız var. 
+ Afad'a ve kaymakamlığa ulaşabiliyoruz. "
+Kahramanmaraş	Elbistan	Kalealtı	48.71	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05414967848				80		150	12/02/23 12:32	GÜNCEL EKSİK: sadece çadır isteniyor (150 adet)  ////  Çadır sadece cenaze sahiplerine verilmiş. Eksik var. Kayıp olan kişi - Bayram Celal, kurtarma amaçlı gitmiş.
+Hatay	Kumlu	Hamam	40.51											09/02/23 17:07	Çok yardım gelmiş, hiçbir ihtiyaçları yokmuş. Acelesi vardı sanırım diğer soruları sorma fırsatım olmadı.
+Kahramanmaraş	Ekinözü	Kabaktepe	32.32	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)					500			12	09/02/23 13:11	hasarlı bina sayısı tam bilinmiyor.
+Hatay	Kumlu	Batıayrancı	35.91	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)		300			30		2	12/02/23 11:18	GUNCEL EKSIK: Çadır, kuru gıda////18 kişi şehir merkezinde kaldıkları yerde hayatlarını yitirmiş, köyde değil.
+Kahramanmaraş	Elbistan	İğde	47.30				05442334040							12/02/23 11:51	GÜNCEL EKSİK:  kuru gıda, yağ, çay ihtiyaçları var.   //// nüfus sayıları tam bilinmiyor. çok fazla yıkılan ve hasarlı yapı var.
+Kahramanmaraş	Elbistan	Horhor	94.14				05515956446	0		9	4		0	09/02/23 12:14	
+Kahramanmaraş	Elbistan	Hasanalili	83.37	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Gıda (ekmek,su,paketli gıda)		10		30	10		50	09/02/23 12:02	vefat edenler bu köyde nüfusa kayıtlı ama antakyadalardı
+Hatay	Kumlu	Muharrem	35.27	Gıda (ekmek,su,paketli gıda)									0	12/02/23 11:14	GUNCEL EKSIK: YOK////Can ve mal kaybı olmayan bir köy ama gıda yardımına ihtiyaç var dedi muhtar. Hiç yardım ulaşmamış.ACİL! 5 gündür hiç yardım gitmemiş. Herkes aç diyor.
+Kahramanmaraş	Elbistan	Güplüce	49.18	Diğer	Barınma (Çadır, konteyner gibi)		05389549381	15		170	15		0	12/02/23 11:46	GÜNCEL EKSİK: (kuru gıdalar,yağ, bakliyat) ve kömür ihtiyacı ////   1. öncelik ihtiyaç odun kömür
+Hatay	Kumlu	Keli	41.04	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)								5	09/02/23 16:41	Çadır acil ihtiyaç. Gıda olarak da kuru bakliyat.
+Hatay	Kumlu	Kaletepe	61.01	Gıda (ekmek,su,paketli gıda)	Gıda (ekmek,su,paketli gıda)	Gıda (ekmek,su,paketli gıda)		380		600	20			09/02/23 16:28	bizde hasar olmadı evler tek katlı olduğu için. ilçeden çok akrabalar geldi.  1000 olan nüfusumuz 2 katı arttı. 100 kadarı bebek. temel gıdaya çok ihtiyacımız var. giysi vb. ihtiyacımız yok. 
+Hatay	Kumlu	Kırcaoğlu	38.51	Gıda (ekmek,su,paketli gıda)	Gıda (ekmek,su,paketli gıda)								15	12/02/23 11:10	GUNCEL EKSIK: YOK ////En büyük sıkıntıları su. Diğer ihtiyaçları dünden itibaren kaymakamlık tarafından karşılanmaya başlamış. Asıl yardımı Hatay merkeze yapın diye ekledi.
+Hatay	Kumlu	Akpınar	42.10	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)	Diğer					30		40	09/02/23 16:12	yoğunluk kıyafet, ciddi gıda eksikleri var.
+Kahramanmaraş	Elbistan	Günaltı	83.08	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)			6		150	40		1	12/02/23 11:40	GÜNCEL EKSİK: gıda (kuru gıdalar,yağ, bakliyat) ve kömür ihtiyacı   ////   Enkaz altında olduklarını tahmin ettikleri 2 kişi merkezde. Vefat eden kişiler buranın nüfusuna kayıtlı fakat farklı şehirlerde.
+Hatay	Yayladağı	Kulaç	32.29	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be		05366979583	150		100	200		61	09/02/23 15:55	GIDA HİÇ YOK. (ACİL)
+Kahramanmaraş	Pazarcık	Sarıerik	53.85	Barınma (Çadır, konteyner gibi)	Diğer	Isınma (El sobası, battaniye)		20		30	15		45	12/02/23 16:51	GÜNCEL EKSİK: Çadır, powerbank   //// TÜP YARDIMI, ÇADIR, ENGELİLER TUVALET İHTİYACINI GİDEREMİYOR, 200 KÜÇÜKBAŞIN YEMİ YOK.
+Kahramanmaraş	Elbistan	Gücük	72.14	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	05368704861	5		40	30		3	12/02/23 12:29	GÜNCEL EKSİK: odun, kömür ve çadır (15 adet) ihtiyaçları var   ////   3. öncelik ihtiyaç odun
+Kahramanmaraş	Elbistan	Büyükyapalak	70.79	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Tıbbi yardım malzemeleri							0	09/02/23 15:47	Köy nüfusuna yetecek kadar çadır henüz gelmemiş, özellikLe engeliler(yatalak olanlar) için acil çadır istiyorlar. Tansiyon, şeker ilacı ve ağrı kesici ihtiyaçları var. Araçlar var ama mazotları bitmiş hiçbir şekilde ulaşamıyorlarmış.
+Kahramanmaraş	Elbistan	Bahçelievler	57.38	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)		05325718203						4	12/02/23 11:15	GÜNCEL EKSİK: kömür ve çadır ihtiyaçları var    ////  Yardım gitmiş fakat, çadır, kömür, odun ihtiyaçları var. Onun dışında araçları var ama mazot sıkıntısı çekiyorlar.
+Kahramanmaraş	Elbistan	Atmalıkaşanlı	85.35	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Diğer							9	12/02/23 11:11	GÜNCEL EKSİK: Gıda,kömür,odun ve acil çadır ihtiyaçları var   ////   YOL AÇILMIŞ AMA KULLANILMASI ZOR OLUYORMUŞ. Acil olarak ihtiyaçları, araç ve çadır. Onun dışında tüp, kömür, odun,  hayvan yemi, şeker tansiyon ilaçları,hasta (yetişkin) bezi ve su ihtiyaçları var.
+Kahramanmaraş	Elbistan	Akören	61.00	Gıda (ekmek,su,paketli gıda)	Tıbbi yardım malzemeleri	Isınma (El sobası, battaniye)							10	12/02/23 10:55	GÜNCEL: ihtiyaç yok yardım gitmiş    ////   Odun,kömür gibi ısınma ihtiyaçları karşılanmış. Gıda ve tüp ihtiyaçları var. Hayvanlar için yem ihtiyacı var. Çocuklar hastalanmış, şurup, ilac gibi ihtiyaçlar lazım.
+Kahramanmaraş	Elbistan	Gökçek	78.16	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be	05306556586	100		260	40		0	09/02/23 11:21	köyde vefat eden kişiler nüfus olarak buraya kayıtlı fakat vefat ettikleri yer merkez.
+Kahramanmaraş	Elbistan	Ağlıca	59.69	Barınma (Çadır, konteyner gibi)									0	12/02/23 10:40	GÜNCEL EKSİK: Yardım gitmiş fakat gıda ihtiyaçları var   ////  Herhangi bir sıkıntıları kayıpları yokmuş,birkaç binada çatlak vs varmış. Gıda, hijyen,çadır gibi malzemeler gelmiş. Fakat çadır ihtiyaçları ve hayvanları için yem ihtiyaçları var.
+Kahramanmaraş	Elbistan	Beyyurdu	87.03	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Hijyen ve sağlık( Ped, bebek be	05362761076						2	12/02/23 11:23	GÜNCEL EKSİK: Yardım gitmiş, gıda (çay-şeker-zeytin-peynir...) ihtiyaçları var   ////  Depremden çok hava koşullarından çok etkilendiklerini belirttiler. Hayvanlarının bu yüzden telef olduğu söylendi. Hayvanlar için yeme ihtiyaç varmış. Çadır, ısınma ve gıda öncelikli ihtiyaçlarıdır.
+Kahramanmaraş	Elbistan	Fakıoğlu	83.56	Gıda (ekmek,su,paketli gıda)	Kıyafet(Ayakkabı, çorap, iç çam	Barınma (Çadır, konteyner gibi)		5		55	10		1	12/02/23 11:44	GÜNCEL EKSİK: kuru gıda, hijyen malzemeleri ve bir adet çadır ihtiyacı var
+Kahramanmaraş	Elbistan	Beştepe	80.75	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	05373604994							09/02/23 14:57	Yıkılan binaları olmuş fakat içleri boş olduğu için sıkıntı olmamış, hasarlı binalar varmış. Yardım gelmiş ama çadıra, kurubakliyat, çay,şeker gibi ihtiyaçları varmış.
+Kahramanmaraş	Elbistan	Doğan	62.45	Diğer	Diğer		05422322360	400		800	100		1	12/02/23 11:33	GÜNCEL: ihtiyaç yok    ////   1. öncelik ihtiyaç kömür - 2. öncelik ihtiyaç odun
+Kahramanmaraş	Dulkadiroğlu	Göllü	24.97	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)	05325641852	50	350	600	50		0	09/02/23 15:24	Odun kömür ve Çadır yardımı istiyoruz acil
+Kahramanmaraş	Dulkadiroğlu	Gafarlı	28.69	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)	05325641852	20	40	60	25		0	09/02/23 15:15	Çadır lazım acil, gıda ve su yardımı lazım
+Kahramanmaraş	Elbistan	Dervişçimli	82.15	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)	Diğer		5		14	1		0	12/02/23 12:28	GÜNCEL EKSİK:  kömür,odun,tüp,yağ,un,bulgur ve temizlik malzemesi(deterjan..) ihtiyacı var    ////   ihtiyaç duyulan önemli ihtiyaçtan biri de kömür
+Kahramanmaraş	Dulkadiroğlu	Hacıeyüplü	26.36	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)		20	50	80	20		6	09/02/23 15:10	
+Kahramanmaraş	Dulkadiroğlu	Kabasakal	23.09	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)		10	40	70	10		4	09/02/23 14:59	Köy yolu kapalı Giriş Çıkışlar yok Muhtar vefat etmiş. Köye yardım hiç gitmemiş. Acil Durumda köy
+Kahramanmaraş	Dulkadiroğlu	Elmalar	36.28	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Tıbbi yardım malzemeleri	05325641852	1500	3000	4500	1500		100	09/02/23 14:55	
+Kahramanmaraş	Elbistan	Balıkçıl	60.73	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	05438701104						0	12/02/23 11:19	GÜNCEL EKSİK: Çadır hiç gitmemiş. Yardım gitmiş ama eksik gıda,odun,kömür ihtiyaçları var.   /////   Hasarlı binalar varmış, gıda-çadır-ısınma ihtiyaçları var, şeker hastası bir çocuğun özel kullandığı mama ya da ilaç ihtiyacı var.
+Kahramanmaraş	Dulkadiroğlu	Ekberoğlu	45.41	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Tıbbi yardım malzemeleri		40	50	65	20		1	09/02/23 14:48	
+Kahramanmaraş	Elbistan	Bakış	62.79				05346032810						0	12/02/23 11:16	GÜNCEL EKSİK: kömür ve odun ihtiyaçları var   ////   Yıkılan bina yokmuş fakat hasarlı binalar olduğunu en büyük sorunun enkaz altında kalanlar olduğunu söyledi. İhtiyaçlar için 3 tır gelmiş şu an herhangi bir ihtiyaçları yok. Afad çalışmalarını yürütüyormuş fakat yetersiz olduğunu söylendi.
+Kahramanmaraş	Elbistan	Armutalan	83.59	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)					3			12/02/23 12:24	GÜNCEL EKSİK: odun, kömür, gıda ihtiyaçları var   ///// Köyde çok fazla kişi yaşamıyormuş fakat binalardan hasar görenler olmuş, yolları açıkmış ama acil araca, çadıra, gıdaya ve ısınma ihtiyaçları varmış.
+Kahramanmaraş	Dulkadiroğlu	Karahasan	43.83	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Tıbbi yardım malzemeleri	05309254840	50	150	200	150		5	09/02/23 14:44	
+Kahramanmaraş	Elbistan	Alkayaoğlu	86.40	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)	Tıbbi yardım malzemeleri								12/02/23 10:59	GÜNCEL EKSİK: tüp,odun,kömür,gıda (çay-şeker) ihtiyaçları var    ////   Kış olduğu için köyde 20-25 kişi varmış, çok etkilenmemişler evlerin de zarar yokmuş kullanabiliyorlarmış, gıda, kömür,tüp, odun, ilaç gibi ihtiyaçları varmış.
+Kahramanmaraş	Dulkadiroğlu	Dereköy	27.56	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Tıbbi yardım malzemeleri	05325641852	300	450	1000	380		7	09/02/23 13:13	
+Kahramanmaraş	Elbistan	Alembey	59.87	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Hijyen ve sağlık( Ped, bebek be		0	0	0	0		0	12/02/23 10:58	GÜNCEL EKSİK: çadır   ////    Depremde binaların %50'den fazlası yıkılmış-hasar almış, kişi sayısı vs için net bir sayı veremedi acil barınma ve ısınma ihtiyaçları olduğu söylendi.
+Kahramanmaraş	Elbistan	Akarca	85.27	Gıda (ekmek,su,paketli gıda)	Hijyen ve sağlık( Ped, bebek be	Tıbbi yardım malzemeleri		12	32	20	7		1	12/02/23 10:42	GÜNCEL EKSİK: Yardım gitmiş fakat gıda ve tüp ihtiyaçları var (çok az gıda gönderilmiş)    ////  Depremde yıkılan hasar alan bina sayısı az olduğu için evlerini kullanabiliyorlar. Araç kullanımında, hastaneyi erişim de sıkıntı yok. Afad ile görüşmüşler gıda ve bebek ürünleri gelecekmiş, henüz gelmemiş.
+Kahramanmaraş	Dulkadiroğlu	Halkaçayırı	48.14	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Tıbbi yardım malzemeleri				160			0	09/02/23 12:32	9 şubat tarihinde bir tane giysi yardımı için tır gelmiş. Fakat çadır ve gıda yetersiz. Herkes kendi aracında barınıyor. Hasta bezi ve ilaç lazım. 
+Kahramanmaraş	Dulkadiroğlu	Karamanlı	16.96	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)				1200				09/02/23 12:26	18 mezramın 3'ü kapalı olduğu için  hastalar hastaneye ulaşamıyor. Hasta sayısı fazla. Dışarıda kalan hayvanlar için çadır istendi. Acil çadır ve kuru gıda istendi.
+Kahramanmaraş	Onikişubat	Karataş	28.03	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Gıda (ekmek,su,paketli gıda)				4200				09/02/23 12:21	732 tane hane olduğu söylendi. Kalabalık bir yer ve hiç yardım ekibi gitmemiş. Acil çadır ve battaniye ihtiyacı var. 300 tane çadır ve battaniye olarak sayı belirtildi.
+Kahramanmaraş	Dulkadiroğlu	Kartal	39.48	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Kıyafet(Ayakkabı, çorap, iç çam	05462370052			700			10	09/02/23 12:50	Maraş'tan da insanların köye gelmesiyle artan kişi sayısı 700 kişidir. Yol köy muhtarının kendi imkanlarıyla tek araç geçebilecek düzeyde açılmış. 2 tane engelli ve şeker hastası çok insan var bu yüzden yardımların acil gönderilmesi gerek.
+Kahramanmaraş	Nurhak	Ağcaşar	47.66	Gıda (ekmek,su,paketli gıda)	Kıyafet(Ayakkabı, çorap, iç çam		05434761109						5	09/02/23 13:27	10.02.2022 SABAH 9 GİBİ KEPÇE GEREKİYOR. KÖYDE TELEFON ÇEKMİYOR. Gıda ve kıyafet gelmemiş.
+Kahramanmaraş	Pazarcık	Hasankoca	54.23	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)			250		25		0	09/02/23 13:51	Köylüler garajlarda kalıyor. Nüfus 80 olan köy deprem sonrasında gelenlerle 500'e ulaşmış durumda. Acil Çadır ihtiyacı var. Kaymakamlığa ve Kızılay'a bildirilmiş.
+Kahramanmaraş	Dulkadiroğlu	Kemallı	27.15	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Tıbbi yardım malzemeleri				1000			50	09/02/23 12:45	Maraş merkezden insanlar köye geldikleri için gelecek olan çadır ve battaniye sayısı en az 350 tanedir. 
+Kahramanmaraş	Pazarcık	Harmancık	69.25	Barınma (Çadır, konteyner gibi)	Tıbbi yardım malzemeleri	Gıda (ekmek,su,paketli gıda)	05364518627	40	150	240	20	50	0	12/02/23 15:47	GÜNCEL EKSİK: Yağ, çay, şeker  ////  9 Şubat itibariyle bisküvi ekmek yardımı yapıldı. Köyün normal nüfusu 100 civarında. Deprem olduktan sonra gelenlerle nüfus 300'e çıktı. Evlerde kalınmaya çalışılıyor. Gıda ihtiyacı var
+Kahramanmaraş	Dulkadiroğlu	Kılağlı	23.24	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Gıda (ekmek,su,paketli gıda)	05374714202			470			25	09/02/23 12:30	200' e yakın bina hasarlı durumdadır. Herkes dışarıda kendi imkanlarıyla ayakta durabiliyor. Yollar kapalı olduğu için hastalar merkeze ulaştırılamıyor. 
+Kahramanmaraş	Pazarcık	Göynük	54.46	Barınma (Çadır, konteyner gibi)	Hijyen ve sağlık( Ped, bebek be	Gıda (ekmek,su,paketli gıda)	05079234726	200	350	300	200			09/02/23 13:25	ihtiyaç yok
+Kahramanmaraş	Ekinözü	Türkeli	42.56	Barınma (Çadır, konteyner gibi)			05447120978						6	12/02/23 12:57	GÜNCEL: ÇADIR GİTMEMİŞ VE YAKACAK (KÖMÜR-ODUN GEREKLİ)    /////  elbistandan gelen çok insan var. şu an ki nüfus belli değil. araçlarda yatıyorlar.
+Kahramanmaraş	Pazarcık	Göçer	58.92	Gıda (ekmek,su,paketli gıda)	Tıbbi yardım malzemeleri	Diğer	05313763622	15	30	30	15		6	12/02/23 15:44	GÜNCEL EKSİK: Gıda, küçükbaş hayvanlar için yem ////  Çadır yardımı ulaştı bir adet eksiğimiz var. Tuvalet ve hijyen ihtiyacı fazla. İkinci olarak Ahır ihtiyacımız var.Gelen olmamış. Gıda ihtiyacı var.
+Kahramanmaraş	Dulkadiroğlu	Dereli	22.94	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Tıbbi yardım malzemeleri		200	300	600	150			09/02/23 13:04	Köydeki minare yamuk yıkılabilir. Durum Acil
+Kahramanmaraş	Pazarcık	Salmanlı	56.63	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05467126759	150		200	150		40	12/02/23 16:57	GÜNCEL EKSİK: Odun sobası, kuru gıda, çocuk maması   /////  1 AHIR TAMAMEN YIKILMIŞTIR.
+Kahramanmaraş	Ekinözü	Ortaören	42.74	Barınma (Çadır, konteyner gibi)				250	250	300			15	09/02/23 12:58	"ARAÇ VAR. YAKITLARI YOK. KULLANAMIYORLAR.
+KÖYDE OTURULACAK BİNA YOK."
+Kahramanmaraş	Pazarcık	Salmanıpak	52.27	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Diğer	05449294957	15		65	85		0	12/02/23 16:44	GÜNCEL: ihtiyaç yok
+Kahramanmaraş	Elbistan	Tepebaşı	70.15				05375588087	10	30	60	20		0	09/02/23 12:58	
+Kahramanmaraş	Ekinözü	Kürtül	28.09	Barınma (Çadır, konteyner gibi)			05365803570						90	12/02/23 12:55	GÜNCEL EKSİK: ÇADIR  //////////   TOPLAM NÜFUS 500 KİŞİ
+Kahramanmaraş	Elbistan	Yapraklı	56.17				05414967848	500	500	780	20		3	09/02/23 12:50	Sorun olmadığı belirtildi.
+Kahramanmaraş	Pazarcık	Emiroğlu	53.08	Barınma (Çadır, konteyner gibi)	Hijyen ve sağlık( Ped, bebek be	Isınma (El sobası, battaniye)	05326946329	30	230	400	20		60	12/02/23 15:50	GÜNCEL EKSİK: 70 adet çadır, soba için katı yakacak malzeme, yatak ihtiyacı, kuru bakliyat, çay, yağ, temizlik malzemeleri çamaşır suyu gibi   /////  Gelen yardımlar olmuş. Şu an kuru gıda, yağ, çay şeker gibi ihtiyaçları var.
+Kahramanmaraş	Elbistan	Yapılı	89.07				05375587654	0						09/02/23 12:47	Muhtar şehir merkezinde olduğu için ulaşamıyor. 2 aile var köyde ve yollar kapalı
+Kahramanmaraş	Elbistan	Yalakköy	80.33	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)			8	60	50	5		0	09/02/23 12:40	Temel gıda ihtiyacı var.
+Kahramanmaraş	Ekinözü	Kandilköy	38.84				05536030198	34		390			0	09/02/23 12:35	
+Kahramanmaraş	Elbistan	Uzunpınar	83.31				05443469919	5	18	30	0		0	09/02/23 12:37	Acil bir durum yok.
+Kahramanmaraş	Elbistan	Uncular	78.53	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)		10	30	60	10		120	09/02/23 12:27	Çadır ve Yem yeterli olur.
+Kahramanmaraş	Ekinözü	Gözpınar	43.98	Barınma (Çadır, konteyner gibi)			05434824134	20		55			5	09/02/23 12:12	
+Kahramanmaraş	Elbistan	Topallı	88.12	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)			8		30	20		3	09/02/23 12:19	
+Kahramanmaraş	Elbistan	Taşburun	53.53	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)								2	09/02/23 12:14	Acil bir durum olmadığını belirtti.
+Kahramanmaraş	Elbistan	Tapkıran	82.59	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)			6	50	115	30		10	09/02/23 12:05	
+Kahramanmaraş	Pazarcık	Şallıuşağı	59.54				05337416727	30		55	150		0	12/02/23 16:39	GÜNCEL EKSİK: şu an yok sonra olabilir dendi. Daha sonra teyit için aranabilir.   ////  KÖYDE BÜYÜK HASARLAR YOK.
+Kahramanmaraş	Pazarcık	Osmandede	56.13	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Tıbbi yardım malzemeleri	05337416727	20		70	20		60	12/02/23 16:31	GÜNCEL EKSİK: Çadır, kuru gıda, çay, şeker, kahvaltılık,15 adet ısıtıcı, soba için katı yakacak, kapkacak, tencere, patates, soğan    /////  KENDİ ÇABALARIYLA İNTERNET TEDARİK ETMİŞ VE ENKAZ ALTINDAN ÇIKMIŞLAR. 50 ADET ÇADIR VAR.
+Gaziantep	Nurdağı	Tandırlı	41.17	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)	05380910694	30	45	90	30		1	12/02/23 13:10	GUNCEL EKSIK:YOK
+Kahramanmaraş	Pazarcık	Ördekdede	58.58	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Tıbbi yardım malzemeleri	05337416727	20		80	20		30	12/02/23 16:35	GÜNCEL: ihtiyaç yok   ////// 1 ÇOCUK ÖLÜ, MERSİN KURTARMA EKİBİ ENKAZ İÇİN GİTMİŞ.
+Kahramanmaraş	Elbistan	Alembey	59.87	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Barınma (Çadır, konteyner gibi)								09/02/23 10:00	Köydeki binaların %50'den fazlası hasarlıymış, yıkılan binalarda olmuş. Öncelikli ihtiyaçları çadır, odun, kömür (ısıtıcı) şeklindeymiş. Köy yolları da kapalıymış
+Gaziantep	Nurdağı	Gedikli	51.74	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Kıyafet(Ayakkabı, çorap, iç çam	05333895579	120	200	100	10		80	09/02/23 08:51	Hayvanların kontrolü yapılmadı. Elektrik yok. Kıyafetten battaniyeye kadar her şeye ihtiyaç var. Evlerin hemen hepsi yıkıldı. Henüz AFAD gelmedi
+Gaziantep	Nurdağı	Bademli	59.07	Barınma (Çadır, konteyner gibi)	Teknik yardım (Powerbank,el fen	Isınma (El sobası, battaniye)	05413792545	100	150	300	50		100	09/02/23 02:19	Yakınlarındaki hastane çökmüş durumdadır. edit: Yem (acil ihtiyaç ve bitmek üzere), Çadır ve Kömür
+Gaziantep	Nurdağı	İncirköy	59.45	Barınma (Çadır, konteyner gibi)	Teknik yardım (Powerbank,el fen	Tıbbi yardım malzemeleri	05308720054	400	425	950	150		30	09/02/23 02:02	bazı yardım kuruluşları bölgeye intikal etmiştir.
+Gaziantep	Nurdağı	Belpınar	57.37	Barınma (Çadır, konteyner gibi)	Teknik yardım (Powerbank,el fen	Kıyafet(Ayakkabı, çorap, iç çam	05437879879	100	120	240	110		75	12/02/23 10:00	GUNCEL EKSIK: Çadır, battaniye, kuru gıda////Araç var yakıt yok. Çadır desteği gerek mevcut çadır sayısı 10. edit: Çadır, Battaniye, Yem, Kuru Bakliyat
+Gaziantep	Nurdağı	Balıkalan	51.62	Barınma (Çadır, konteyner gibi)	Tıbbi yardım malzemeleri	Gıda (ekmek,su,paketli gıda)	05300425750	160		130	10		10	12/02/23 10:00	GUNCEL EKSIK: YOK ////Araç var yakıt yok. edit: Acil ihtiyaç yok
+Gaziantep	Nurdağı	Ataköy	43.46	Barınma (Çadır, konteyner gibi)	Teknik yardım (Powerbank,el fen	Gıda (ekmek,su,paketli gıda)	05396203736	3		17	30		0	12/02/23 10:00	GUNCEL IHTIYAC: Çadır 10 tane//// Ulaşım var ama hasarlı. edit: Çadır, Kömür ve Odun desteği talep edildi.
+Gaziantep	Islahiye	Başpınar	60.49	Barınma (Çadır, konteyner gibi)	Tıbbi yardım malzemeleri	Gıda (ekmek,su,paketli gıda)		120	240	490	90		60		Araba var yakıt yok. 15 adet çadır gitmiş. edit: Birkaç Çadıra ihtiyaç var. Başka eksikleri yok.
+Gaziantep	Nurdağı	Sayburun	53.67	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)	05426480757	100	175	200	50		6	12/02/23 13:30	GUNCEL EKSIK: Isınma, 50 çadır
+Gaziantep	Islahiye	Zincirli	62.66	Gıda (ekmek,su,paketli gıda)	Barınma (Çadır, konteyner gibi)	Kıyafet(Ayakkabı, çorap, iç çam	05368522074						12	08/02/23 20:33	Köyün nüfusu 300, 50 hanelik bir köy.
+Gaziantep	Nurdağı	Sakçagözü	42.15	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05336849345			4600			200	12/02/23 13:24	GUNCEL EKSIK: kuru gıda, ısınma, 7000lik nüfus çadır eksik ////150 kişi kurtarılmış.
+Gaziantep	Islahiye	Yeşilova	55.30	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)							50	2	08/02/23 19:41	Tüm ihtiyaçlar gelmiş ama ÇADIR yok.
+Kahramanmaraş	Dulkadiroğlu	Demirciler	49.96	Gıda (ekmek,su,paketli gıda)	Kıyafet(Ayakkabı, çorap, iç çam			15		109	6		3	08/02/23 19:17	yardım gelmiş. çadır var.
+Gaziantep	Nurdağı	Hisar	43.14	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05308720054	300	750	1000	200			12/02/23 13:50	GUNCEL EKSİK: 70e yakın çadır ihtiyacı,kuru gıda////5 kişi kurtarıldı.
+Gaziantep	Nurdağı	Tüllüce	46.25	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05468903411	150			50		5	12/02/23 13:15	GUNCEL EKSIK: YOK
+Gaziantep	Nurdağı	Toplamalar	53.31	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05444175050	200			125		30	12/02/23 13:32	GUNCEL EKSIK: 30 ÇADIR
+Gaziantep	Nurdağı	Naimler	45.60	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)		05438938044						0	08/02/23 19:00	Yıkılan bina yok hasarlı binalar var.
+Gaziantep	Islahiye	Kırıkçalı	67.98	Barınma (Çadır, konteyner gibi)	Teknik yardım (Powerbank,el fen		05358885750								köyün nüfusu 500 çoğuu yaşlı kişiler. evlerin tamamı yıkık. 20 kadar bebek var. Gıda talepleri yok. Gıdayı şimdilik itfaiyeden alıyorlarmış. ÇADIR ihtiyacı var. Diğer ihtiyaçları karşılanmış.
+Gaziantep	Islahiye	Şahmaran	59.29	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Tıbbi yardım malzemeleri				250				12/02/23 12:20	GUNCEL EKSIK: kimse gelmedi Çadır////Üst giyim gelmiş ama çorap, çocuk ve kadınlar için iç çamaşır, bebekler için mama, genel gıda ve temizlik malzemesi ihtiyacı var.
+Gaziantep	Nurdağı	İçerisu	48.81	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Gıda (ekmek,su,paketli gıda)	05437711098	50	350	700	40		20	12/02/23 13:05	GUNCEL EKSIK: YOK
+Gaziantep	Nurdağı	Emirler	45.67	Barınma (Çadır, konteyner gibi)	Isınma (El sobası, battaniye)	Gıda (ekmek,su,paketli gıda)	05324951126	25	60	100	30		3	12/02/23 10:00	GUNCEL EKSIK: 8 çadır,seyyar kablo,kömür gibi ısınma iht.
+Gaziantep	Nurdağı	Durmuşlar	48.50	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Kıyafet(Ayakkabı, çorap, iç çam	05304974171	350	500	1100	150		0	12/02/23 10:00	GUNCEL EKSIK:50 ÇADIR
+Gaziantep	Islahiye	Güllühöyük	61.82	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Teknik yardım (Powerbank,el fen							100		
+Gaziantep	Nurdağı	Kırkpınar	45.92	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)	05384048078			340			1		afad gitmemiş, jandarma gitmiş. köyün kendi yolu yokmuş, başka yol kullanılıyor. nurdağı ziyaret yolu, tren yolu köprüsü ve yakınındaki diğer köy yolları ciddi hasarlı, acilen yol iyileştirmesi yapılması gerekiyor.
+Gaziantep	Nurdağı	Kırışkal	50.70	Barınma (Çadır, konteyner gibi)	Gıda (ekmek,su,paketli gıda)	Isınma (El sobası, battaniye)	05426480757	45		190	52		30		acil yardım bekleniyor
+Gaziantep	Islahiye	Ağabey	70.60	Hijyen ve sağlık( Ped, bebek be	Tıbbi yardım malzemeleri	Barınma (Çadır, konteyner gibi)	05358885750	50	200					12/02/23 12:13	GUNCEL EKSIK: YOK ////Islahiye İdilli köyü yolu kapalı. 50 büyük çadır gerekiyor. 50 bebek var. Keçilerden de telef var. Sayı belirtilmedi.

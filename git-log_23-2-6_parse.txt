@@ -1,0 +1,173 @@
+commit c9883b823e4e1dd69d70166dda58ef6a36f97139
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Sun Feb 19 02:29:14 2023 +0300
+
+    update merging script to handle np.bool_
+
+commit 9abc341aa5795bf13925e72e5b8f81c19f6a4b3c
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Sun Feb 19 02:12:28 2023 +0300
+
+    update merging script to handle incorrect datetime cells
+
+commit 9804294e005f4bf4fc7cfe7ed342820e3f383a3b
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Sun Feb 19 01:57:07 2023 +0300
+
+    remove ahbap data
+
+commit 41c5bb4b95adbb4f5925387235996ac38915652f
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Sun Feb 19 01:52:06 2023 +0300
+
+    update merge script
+
+commit 6204d4b7bf1a08bf86e5d9eac1dd590dc1a20002
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Sat Feb 18 22:10:11 2023 +0300
+
+    add ysk-koy_parse repo git logs
+
+commit d31b9e702c025a98a47b915dc1e26bae4ab3636f
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Sat Feb 18 22:07:31 2023 +0300
+
+    add scripts ; moved ysk-koy_parse repo with the previous commit
+
+commit 846bee5f95cb5230cf9bca349f60f292ab9fe7c3
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Sat Feb 18 22:05:18 2023 +0300
+
+    add data
+
+commit e8b7dd7b60027a45a77125d09d3e9fa0c31bc4aa
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Sat Feb 18 16:39:30 2023 +0300
+
+    update itub-data
+
+commit bc6281f92f5ef725ed4abdeddee39c211495df41
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Sat Feb 18 16:33:11 2023 +0300
+
+    move itub data
+
+commit 7ab9cead204da3972d5cb11bf14a08b071b4b587
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Sat Feb 18 16:27:53 2023 +0300
+
+    update adiyaman script with csv
+
+commit f88156d70ae0f9220b3caca8bbcff4d9352ecf31
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Sat Feb 18 16:06:44 2023 +0300
+
+    add merge itub boun script for adiyaman
+
+commit 377603073068674c4363d67a08b0382451f2cd29
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Sat Feb 18 14:47:57 2023 +0300
+
+    update data
+
+commit b1f55a94d81b649439e31bdd7f276c9c13e2914f
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Sat Feb 18 01:50:07 2023 +0300
+
+    update improved-icisleri
+
+commit 74c18ee42fd3d92eb7b154476dcd41b7d94fef2e
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Sat Feb 18 01:30:17 2023 +0300
+
+    overwrite with correct script
+
+commit 4f88b77db8498a6482d87182df0174a9970f4424
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Sat Feb 18 01:28:42 2023 +0300
+
+    update improved-icisleri data with geopy
+
+commit 1150f84d3a527aebdc095e91c1f23cd3217637d2
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Sat Feb 18 00:59:12 2023 +0300
+
+    update improved-icisleri with more geopy locs
+
+commit 51ce8460f1ffa3b594f0fcaa81c4d136015565c7
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Sat Feb 18 00:57:12 2023 +0300
+
+    add data
+
+commit 21e4831ef8e7052ff2d02afb7b3d54ea90cfca1b
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Sat Feb 18 00:03:36 2023 +0300
+
+    add scripts
+
+commit 83e707f68ad6a48a0096b3c67a035a1093775636
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Sat Feb 18 00:00:19 2023 +0300
+
+    add itub data of 2/17
+
+commit cbec169542d203b1f03aee06cdb65eae9f5cd8c2
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Fri Feb 17 23:59:38 2023 +0300
+
+    add itub data
+
+commit fd46586457027b237fcdfbdc4fd35de2ad2f60f0
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Fri Feb 17 23:38:00 2023 +0300
+
+    add merged phone sheet
+
+commit 4343c356c5f4db821b8441d385bcf8e52a020cb3
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Fri Feb 17 01:05:37 2023 +0300
+
+    add scripts
+
+commit 93dd142c1a827b83fb30324a9a0f960f58807fea
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Mon Feb 13 19:34:52 2023 +0300
+
+    prev commit didn't include merge
+
+commit b42c6f0a44d0bd44c7f4731c36fd67c82f0dbb58
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Mon Feb 13 19:34:25 2023 +0300
+
+    add merge script (not ready)
+
+commit bb695cd313438294507601467713987d2413bf26
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Sat Feb 11 23:38:08 2023 +0300
+
+    update script and data
+
+commit 1fcb710c2aeb01bd3713b34062f1fedc09f9d488
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Sat Feb 11 23:21:48 2023 +0300
+
+    add json
+
+commit 68a15cc1ea2f958df73aac1580a4e8f9b3969625
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Sat Feb 11 22:27:18 2023 +0300
+
+    update script
+
+commit 4d73872367cca4ec2608b8ba41afbd50aeb3c502
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Sat Feb 11 22:14:42 2023 +0300
+
+    add csv
+
+commit 57c6dbbfcc09f7558f3271f26f619548289286a1
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Sat Feb 11 22:13:43 2023 +0300
+
+    add script

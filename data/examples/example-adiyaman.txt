@@ -1,0 +1,18 @@
+edit_date : 1676074390
+distance : 26.06
+city : Adıyaman
+district : Çelikhan
+village : İncirli
+first_pr : Barınma (Çadır, konteyner gibi)
+second_pr : Isınma (El sobası, battaniye)
+third_pr : null
+child_pop : null
+female_pop : null
+adult_pop : null
+elder_pop : null
+house_count : 30
+collapsed : 27
+ts : 1676038140000
+comments : KAPALI YOLLAR VAR. 1 KİŞİ VEFAT ETMİŞ
+phone : null
+location : 38.40665000000007, 38.01340000000004

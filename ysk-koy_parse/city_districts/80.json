@@ -1,0 +1,93 @@
+[
+    {
+        "id": "64_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 64,
+        "ilce_ADI": "BAHÇE",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 80,
+        "il_ADI": "OSMANİYE",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "636_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 636,
+        "ilce_ADI": "DÜZİÇİ",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 80,
+        "il_ADI": "OSMANİYE",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "919_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 919,
+        "ilce_ADI": "HASANBEYLİ",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 80,
+        "il_ADI": "OSMANİYE",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "318_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 318,
+        "ilce_ADI": "KADİRLİ",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 80,
+        "il_ADI": "OSMANİYE",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "453_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 453,
+        "ilce_ADI": "OSMANİYE MERKEZ",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 80,
+        "il_ADI": "OSMANİYE",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "920_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 920,
+        "ilce_ADI": "SUMBAS",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 80,
+        "il_ADI": "OSMANİYE",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "921_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 921,
+        "ilce_ADI": "TOPRAKKALE",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 80,
+        "il_ADI": "OSMANİYE",
+        "secim_DETAY_ID": 0
+    }
+]

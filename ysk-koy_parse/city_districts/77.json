@@ -1,0 +1,80 @@
+[
+    {
+        "id": "911_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 911,
+        "ilce_ADI": "ALTINOVA",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 77,
+        "il_ADI": "YALOVA",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "912_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 912,
+        "ilce_ADI": "ARMUTLU",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 77,
+        "il_ADI": "YALOVA",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "913_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 913,
+        "ilce_ADI": "ÇINARCIK",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 77,
+        "il_ADI": "YALOVA",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "914_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 914,
+        "ilce_ADI": "ÇİFTLİKKÖY",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 77,
+        "il_ADI": "YALOVA",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "918_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 918,
+        "ilce_ADI": "TERMAL",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 77,
+        "il_ADI": "YALOVA",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "609_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 609,
+        "ilce_ADI": "YALOVA MERKEZ",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 77,
+        "il_ADI": "YALOVA",
+        "secim_DETAY_ID": 0
+    }
+]

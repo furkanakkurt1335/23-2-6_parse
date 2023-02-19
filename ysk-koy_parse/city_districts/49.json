@@ -1,0 +1,80 @@
+[
+    {
+        "id": "112_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 112,
+        "ilce_ADI": "BULANIK",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 49,
+        "il_ADI": "MUŞ",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "694_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 694,
+        "ilce_ADI": "HASKÖY",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 49,
+        "il_ADI": "MUŞ",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "857_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 857,
+        "ilce_ADI": "KORKUT",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 49,
+        "il_ADI": "MUŞ",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "403_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 403,
+        "ilce_ADI": "MALAZGİRT",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 49,
+        "il_ADI": "MUŞ",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "427_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 427,
+        "ilce_ADI": "MUŞ MERKEZ",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 49,
+        "il_ADI": "MUŞ",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "604_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 604,
+        "ilce_ADI": "VARTO",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 49,
+        "il_ADI": "MUŞ",
+        "secim_DETAY_ID": 0
+    }
+]

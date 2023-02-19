@@ -1,0 +1,54 @@
+[
+    {
+        "id": "159_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 159,
+        "ilce_ADI": "ÇUKURCA",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 30,
+        "il_ADI": "HAKKARİ",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "274_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 274,
+        "ilce_ADI": "HAKKARİ MERKEZ",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 30,
+        "il_ADI": "HAKKARİ",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "549_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 549,
+        "ilce_ADI": "ŞEMDİNLİ",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 30,
+        "il_ADI": "HAKKARİ",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "630_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 630,
+        "ilce_ADI": "YÜKSEKOVA",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 30,
+        "il_ADI": "HAKKARİ",
+        "secim_DETAY_ID": 0
+    }
+]

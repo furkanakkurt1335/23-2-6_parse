@@ -1,0 +1,9 @@
+il : ADANA
+ilce : ALADAĞ
+koy : BOZTAHTA KÖYÜ
+authority : ALİ ŞAHİN
+phone : 0 535 934 2151
+lat : 35.46
+lng : 37.37
+distance from centre of city : 44.16
+source : https://www.adana.bel.tr/muhtarlar

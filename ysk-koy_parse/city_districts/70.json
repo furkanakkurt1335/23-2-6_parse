@@ -1,0 +1,80 @@
+[
+    {
+        "id": "661_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 661,
+        "ilce_ADI": "AYRANCI",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 70,
+        "il_ADI": "KARAMAN",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "777_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 777,
+        "ilce_ADI": "BAŞYAYLA",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 70,
+        "il_ADI": "KARAMAN",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "214_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 214,
+        "ilce_ADI": "ERMENEK",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 70,
+        "il_ADI": "KARAMAN",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "334_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 334,
+        "ilce_ADI": "KARAMAN MERKEZ",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 70,
+        "il_ADI": "KARAMAN",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "755_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 755,
+        "ilce_ADI": "KAZIMKARABEKİR",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 70,
+        "il_ADI": "KARAMAN",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "876_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 876,
+        "ilce_ADI": "SARIVELİLER",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 70,
+        "il_ADI": "KARAMAN",
+        "secim_DETAY_ID": 0
+    }
+]

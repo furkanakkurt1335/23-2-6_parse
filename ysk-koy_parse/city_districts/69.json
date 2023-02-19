@@ -1,0 +1,41 @@
+[
+    {
+        "id": "660_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 660,
+        "ilce_ADI": "AYDINTEPE",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 69,
+        "il_ADI": "BAYBURT",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "75_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 75,
+        "ilce_ADI": "BAYBURT MERKEZ",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 69,
+        "il_ADI": "BAYBURT",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "681_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 681,
+        "ilce_ADI": "DEMİRÖZÜ",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 69,
+        "il_ADI": "BAYBURT",
+        "secim_DETAY_ID": 0
+    }
+]

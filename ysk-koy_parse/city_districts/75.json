@@ -1,0 +1,80 @@
+[
+    {
+        "id": "43_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 43,
+        "ilce_ADI": "ARDAHAN MERKEZ",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 75,
+        "il_ADI": "ARDAHAN",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "150_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 150,
+        "ilce_ADI": "ÇILDIR",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 75,
+        "il_ADI": "ARDAHAN",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "900_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 900,
+        "ilce_ADI": "DAMAL",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 75,
+        "il_ADI": "ARDAHAN",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "253_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 253,
+        "ilce_ADI": "GÖLE",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 75,
+        "il_ADI": "ARDAHAN",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "277_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 277,
+        "ilce_ADI": "HANAK",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 75,
+        "il_ADI": "ARDAHAN",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "472_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 472,
+        "ilce_ADI": "POSOF",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 75,
+        "il_ADI": "ARDAHAN",
+        "secim_DETAY_ID": 0
+    }
+]

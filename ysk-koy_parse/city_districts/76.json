@@ -1,0 +1,54 @@
+[
+    {
+        "id": "41_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 41,
+        "ilce_ADI": "ARALIK",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 76,
+        "il_ADI": "IĞDIR",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "295_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 295,
+        "ilce_ADI": "IĞDIR MERKEZ",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 76,
+        "il_ADI": "IĞDIR",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "903_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 903,
+        "ilce_ADI": "KARAKOYUNLU",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 76,
+        "il_ADI": "IĞDIR",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "585_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 585,
+        "ilce_ADI": "TUZLUCA",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 76,
+        "il_ADI": "IĞDIR",
+        "secim_DETAY_ID": 0
+    }
+]

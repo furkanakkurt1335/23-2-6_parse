@@ -1,0 +1,80 @@
+[
+    {
+        "id": "69_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 69,
+        "ilce_ADI": "BANAZ",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 64,
+        "il_ADI": "UŞAK",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "221_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 221,
+        "ilce_ADI": "EŞME",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 64,
+        "il_ADI": "UŞAK",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "331_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 331,
+        "ilce_ADI": "KARAHALLI",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 64,
+        "il_ADI": "UŞAK",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "522_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 522,
+        "ilce_ADI": "SİVASLI",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 64,
+        "il_ADI": "UŞAK",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "590_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 590,
+        "ilce_ADI": "ULUBEY",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 64,
+        "il_ADI": "UŞAK",
+        "secim_DETAY_ID": 0
+    },
+    {
+        "id": "597_0_0",
+        "birim_ID": 0,
+        "ilce_ID": 597,
+        "ilce_ADI": "UŞAK MERKEZ",
+        "belde_ID": 0,
+        "secim_CEVRESI_ID": 141202,
+        "yerlesim_YERI_TURU": 0,
+        "secilecek_ADAY_SAYISI": 0,
+        "il_ID": 64,
+        "il_ADI": "UŞAK",
+        "secim_DETAY_ID": 0
+    }
+]

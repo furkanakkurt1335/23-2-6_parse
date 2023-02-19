@@ -1,0 +1,161 @@
+commit 9f8131862332a170813dd1371da3afeab40b25a5
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Tue Feb 14 11:34:10 2023 +0300
+
+    add diyarbakir cungus to phones.csv
+
+commit 5c7f12cfa1c9d5fbb6dbdad8c103d4cc719fae1a
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Tue Feb 14 11:17:13 2023 +0300
+
+    add phones.csv (all merged together)
+
+commit 012653d07c4f0b2613b7dc51e7dfbcc978d86b0e
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Tue Feb 14 11:10:34 2023 +0300
+
+    do same with urfa
+
+commit daaee43b0156373b3b5b94a4ffed80a229353ac3
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Tue Feb 14 11:09:55 2023 +0300
+
+    do same with osmaniye
+
+commit 996788b688ed3047ed4e5c8ee47a3e6bd8e15dea
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Tue Feb 14 11:09:30 2023 +0300
+
+    do same with maras
+
+commit 29a5077ad08774941bf47160208fc79911b16d51
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Tue Feb 14 10:53:53 2023 +0300
+
+    do same with malatya
+
+commit c30c948cac902c6ddbbcbc955ce07a3f761b88af
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Tue Feb 14 10:52:26 2023 +0300
+
+    do same with kilis
+
+commit f6cd6b9fc95ae182d086ad6aaa586371df2866cf
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Tue Feb 14 10:51:56 2023 +0300
+
+    do same with hatay
+
+commit 2dfb8f5078faef780db47d3db82569aedd9a5c0b
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Tue Feb 14 10:51:31 2023 +0300
+
+    do same with gaziantep_yavuzeli
+
+commit 19a9ce36cb32893f1e1a4c8db19b0f6334ed4eb1
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Tue Feb 14 10:51:05 2023 +0300
+
+    do same with gaziantep_sehitkamil
+
+commit c27d03000b5bc50150c012df31345b7bd0302de0
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Tue Feb 14 10:50:39 2023 +0300
+
+    do same with gaziantep_sahinbey
+
+commit 4339d6c3f0ac9ad1b6f9888697531b8c8f9a0046
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Tue Feb 14 10:50:05 2023 +0300
+
+    do same with gaziantep_oguzeli
+
+commit 74fe09cbfb23508159a7a17b2cd4dc02d772c385
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Tue Feb 14 10:49:28 2023 +0300
+
+    do same with gaziantep_nurdagi
+
+commit 939c2d270efaf81c2ad75fe8af77f7cf6a4ea6d8
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Tue Feb 14 10:48:51 2023 +0300
+
+    do same with gaziantep_nizip
+
+commit 05babd9eb34d65cc6952e397b9ac866fb4ef292b
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Tue Feb 14 10:48:06 2023 +0300
+
+    do same with adana
+
+commit b233a2f1b5690f160f45435093f9b03ce38323b9
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Tue Feb 14 10:47:34 2023 +0300
+
+    do same with gaziantep_araban
+
+commit 81e735a5cd4b2e9cd5d29be4fdaa1f05ad9329e9
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Tue Feb 14 10:46:06 2023 +0300
+
+    do same with cermik_list
+
+commit d2f773f53a00067ad8b029760c8217400708a2b8
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Tue Feb 14 10:43:43 2023 +0300
+
+    do same with adiyaman-sincik
+
+commit 94632b164eb9ffdb020418805acd3803eabaeffc
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Tue Feb 14 10:43:07 2023 +0300
+
+    do same with adiyaman-kahta
+
+commit 0ff2b18ffd3e5c0fd6a1a4a9fdb4745aecb6abbd
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Tue Feb 14 10:41:56 2023 +0300
+
+    update adiyaman-celikhan phone csv format with source
+
+commit d2da0b33eac4a08f7bf91d1d675f91daccbb473f
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Tue Feb 14 10:37:57 2023 +0300
+
+    update adiyaman-bulurum csv format
+
+commit 2d01b5bfe92d4d1b0d4e4670d8e214ca062e05a5
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Mon Feb 13 10:54:34 2023 +0300
+
+    add scripts
+
+commit f985aeaa4698b9abc4c80e70ac14ad10ada233a7
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Sun Feb 12 23:39:48 2023 +0300
+
+    add phone csv's
+
+commit 6c7c4c2900bf0d4f2cc4751ce01698b78479269b
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Sun Feb 12 23:39:06 2023 +0300
+
+    update data
+
+commit 483e092f21fa409c8c71e9df8cda7812556f1d56
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Sun Feb 12 18:32:38 2023 +0300
+
+    update data with more matching phones and distances
+
+commit f75651cee06e8a603d92e62e34d4b8064fda696e
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Sun Feb 12 18:04:16 2023 +0300
+
+    add data
+
+commit 1bc5cbde3b0f29da39636bf4687117a661ab9c4a
+Author: Furkan Akkurt <71407287+furkanakkurt1335@users.noreply.github.com>
+Date:   Sun Feb 12 18:03:56 2023 +0300
+
+    add 2 scripts
