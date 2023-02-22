@@ -318,6 +318,11 @@
         "name": "Türk Eczacılar Birliği Afet Eczanesi"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.7189309",
+            "lng": "37.1171331"
+        },
         "extended_data":
         {
             "Adres": "KARAALİ MAHALLESİ TÜRBEDAR SOKAK NO 6/A      KİLİS-MERKEZ",
@@ -399,6 +404,11 @@
         "name": "EMRE ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.0421861",
+            "lng": "37.3307097"
+        },
         "extended_data":
         {
             "Adres": "DENİZ MAHALLESİ 40 NOLU CADDE NO:18 (ÜÇLER HALI SAHA-M.ALİ ÖZKARA ASM YANI)    -ŞAHİNBEY",
@@ -509,6 +519,11 @@
         "name": "KARADAĞ ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.0089678",
+            "lng": "37.8007815"
+        },
         "extended_data":
         {
             "Adres": "ÖZLEM ECZANESİ HÜRRİYET MAHALLESİ İNÖNÜ CADDESİ NO:9/A -YAVUZELİ GAZİANTEP",
@@ -517,6 +532,11 @@
         "name": "ÖZLEM ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.0251884",
+            "lng": "36.6311091"
+        },
         "extended_data":
         {
             "Adres": "HACI ALİ ÖZTÜRK MAHALLESİ HATAY CADDESİ NO:3/C -İSLAHİYE GAZİANTEP",
@@ -525,6 +545,11 @@
         "name": "SELİM ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.0099361",
+            "lng": "37.7916419"
+        },
         "extended_data":
         {
             "Adres": "YEŞİLOVA MAHALLESİ DR. ASIM GÜZELBEY CADDESİ NO:25/A -ARABAN GAZİANTEP",
@@ -562,6 +587,11 @@
         "name": "BAYRAM ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.6795169",
+            "lng": "37.886821"
+        },
         "extended_data":
         {
             "Adres": "Ali Erdemoğlu Mah. Ali Erdemoğlu Bulv. Devlet Hastanesi Karşısı No:25/C Besni / Adıyaman",
@@ -600,6 +630,11 @@
         "name": "FATİH ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.6836628",
+            "lng": "38.0451291"
+        },
         "extended_data":
         {
             "Adres": "Menderes Mahallesi 11.Sokak No:4 Sambayat Besni  Adıyaman",
@@ -611,6 +646,11 @@
         "name": "AYKUT ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "38.0290259",
+            "lng": "39.0342196"
+        },
         "extended_data":
         {
             "Adres": "Merkez Mahallesi, Mustafa Yücel Özbilgin Caddesi,No:43 (Hükümet Konağı Karşısı) Gerger / Adıyaman",
@@ -633,6 +673,11 @@
         "name": "KARATAŞ ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.7981973",
+            "lng": "38.6056713"
+        },
         "extended_data":
         {
             "Adres": "YAVUZ SELİM MAHALLESİ,5085.SOKAK,NO:19,KAHTA DEVLET HASTANESİ OTOPARK KARŞISI,KAHTA/ADIYAMAN",
@@ -644,6 +689,11 @@
         "name": "AKEL ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.7983535",
+            "lng": "38.6064382"
+        },
         "extended_data":
         {
             "Adres": "Yavuz Selim Mah. Divane Mejo Caddesi Devlet Hastanesi Karşısı No:50/B Kahta / Adıyaman",
@@ -698,6 +748,11 @@
         "name": "HAYAT ECZANESİ (KAHTA/ADIYAMAN)"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.7980266",
+            "lng": "38.6056139"
+        },
         "extended_data":
         {
             "Adres": "YAVUZ SELİM MAHALLESİ,HASTANE CADDESİ 5085.SOKAK NO:33/B KAHTA/ADIYAMAN",
@@ -709,6 +764,11 @@
         "name": "DAMLA ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.7833458",
+            "lng": "38.6240976"
+        },
         "extended_data":
         {
             "Adres": "Fatih Mahallesi Adeviye Bulvarı 1 Nolu Sağlık Ocağı Karşısı No:27/D Kahta / Adıyaman",
@@ -720,6 +780,11 @@
         "name": "DENİZ ECZANESİ(KAHTA/ADIYAMAN)"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.798345",
+            "lng": "38.6065338"
+        },
         "extended_data":
         {
             "Adres": "YAVUZ SELİM MAHALLESİ,DİVANE MEJO CADDESİ NO:50/C KAHTA/ADIYAMAN",
@@ -763,6 +828,11 @@
         "name": "SAĞLIK ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.797573",
+            "lng": "38.6054001"
+        },
         "extended_data":
         {
             "Adres": "avuz Selim Mahallesi 5085. Sokak Kahta Devlet Hastanesi karşısı No:29/B Kahta / Adıyaman",
@@ -790,6 +860,11 @@
         "name": "TURANLI ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.7978471",
+            "lng": "38.6055119"
+        },
         "extended_data":
         {
             "Adres": "Girne Mahallesi 6025. Sokak No:54 Kahta / Adıyaman",
@@ -801,6 +876,11 @@
         "name": "BAKIR ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.7974393",
+            "lng": "38.6055394"
+        },
         "extended_data":
         {
             "Adres": "Yavuz Selim Mahallesi 5085. Sokak Devlet Hastanesi Karşısı No:15 A Kahta / Adıyaman",
@@ -876,6 +956,11 @@
         "name": "KAHTA ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.5820839",
+            "lng": "38.4795728"
+        },
         "extended_data":
         {
             "Adres": " Yavuz Selim Mahallesi,Fevzi Çakmak Caddesi No:63 Samsat / Adıyaman",
@@ -930,6 +1015,11 @@
         "name": "YAMAN ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.7821455",
+            "lng": "38.7472968"
+        },
         "extended_data":
         {
             "Adres": "Göçeri Mh, Adıyaman Akıncılar Yolu Pk:02420, 02450 Göçeri/Kâhta/Adıyaman",
@@ -941,6 +1031,11 @@
         "name": "YAYLAGÜL ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.7804862",
+            "lng": "38.6133704"
+        },
         "extended_data":
         {
             "Adres": "Bayraktar Mahallesi 3026. Sokak 2 Nolu ASM karşısı No:16/A Kahta / Adıyaman",
@@ -952,6 +1047,11 @@
         "name": "KARANFİL ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.7676633",
+            "lng": "38.3212152"
+        },
         "extended_data":
         {
             "Adres": "Yunus Emre Mah. 29148. Sokak 400 Yataklı Araştırma Hastanesi Karşısı No:16E ADIYAMAN",
@@ -979,6 +1079,11 @@
         "name": "HAYAT ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.7664986",
+            "lng": "38.3222084"
+        },
         "extended_data":
         {
             "Adres": "Yunus Emre Mah. Şifa Cad. NO:24/B Merkez Adıyaman"
@@ -1001,6 +1106,11 @@
         "name": "Yaşar Eczanesi"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.9148779",
+            "lng": "40.2247626"
+        },
         "extended_data":
         {
             "Adres": "LİSE CAD. VALİLİK ARKASI NÜFUS MÜD. YANI GAP APT ALTI NO:38/A Yenişehir",
@@ -1036,6 +1146,11 @@
         "name": "Mervenur Eczaanesi"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.9142988",
+            "lng": "40.1677298"
+        },
         "extended_data":
         {
             "Adres": "BAĞCILAR MAH. QAMİŞLO BLV. KOM. NEVROZ PARK SİTESİ ALTI NO:45-E NEVROZ PARKIN 100 M AŞAĞISI KEYFİ DİYAR LOKANTASI KARŞISI DİYARBAKIR",
@@ -1056,6 +1171,11 @@
         "name": "Gülistan Eczanesi"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.9315363",
+            "lng": "40.1620375"
+        },
         "extended_data":
         {
             "Adres": "KAPLAN CİTY PARK DÜĞÜN SALONU KARŞISI, GAZİLER SON DURAK MEVKİ, AYŞENUR ZARAKOLU CADDESİ KAYAPINAR DİYARBAKIR",
@@ -1066,6 +1186,11 @@
         "name": "Yıldırım Eczanesi"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.9371441",
+            "lng": "40.1714726"
+        },
         "extended_data":
         {
             "Adres": "Talaytepe mah 4007. Sok 17/BA ( eğitim araştırmadan Memur-Sen Toki’ye giderken ilk kavşaktan sola dönüp düz ilerleyince maliye konutları 1. Etap 2. Kısım karşısı) DİYARBAKIR",
@@ -1106,6 +1231,11 @@
         "name": "Ulusoy Eczanesi"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.9073526",
+            "lng": "40.166916"
+        },
         "extended_data":
         {
             "Adres": "NEWROZ PARK ARKASI KEYFİ DİYAR LOKANTASINDAN SAĞA DÖNEN YOLUN SONUNDA KARACADAĞ İMAM HATİP LİSESİ YANI MOLLA GÜRANİ CADDESİ NO:13 CC BAĞLAR",
@@ -1116,6 +1246,11 @@
         "name": "Havalimanı Eczanesi"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.9531757",
+            "lng": "40.1734778"
+        },
         "extended_data":
         {
             "Adres": "DİCLEKENT BULVARI 200. SOK. ESKİ PERŞEMBE PAZARI HACI LEVENT TATLICISI SOKAĞI METROPOL 3 SİTESİ SAĞLIK OCAĞI KARŞISI DİYARBAKIR",
@@ -1211,6 +1346,11 @@
         "name": "Yeşilçınar Ecznaesi"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.9186216",
+            "lng": "40.1979613"
+        },
         "extended_data":
         {
             "Adres": "Mezarlık Caddesi DİYARBAKIR",
@@ -1235,6 +1375,11 @@
         "name": "Habibe Eczanesi"
     },
     {
+        "coordinates":
+        {
+            "lat": "38.1547174",
+            "lng": "40.9682922"
+        },
         "extended_data":
         {
             "Adres": "Yenişehir Esenlik Cad No: 9, D:c, 21640 Silvan/Diyarbakır",
@@ -1674,6 +1819,11 @@
         "name": "SÜRÜCÜ ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "39.9860998",
+            "lng": "32.8811952"
+        },
         "extended_data":
         {
             "ADRES": "KARACURUN MAHALLESİ İNÖNÜ CADDESİ NO:69/B ",
@@ -1737,6 +1887,11 @@
         "name": "YILDIZER ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.2003484",
+            "lng": "36.5771849"
+        },
         "extended_data":
         {
             "Adres": "BAHÇELİEVLER MAHALLESİ DEVLET BAHÇELİ BULVARI 15/B OSMANİYE/BAHÇE",
@@ -1746,6 +1901,11 @@
         "name": "KONUK"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.2446578",
+            "lng": "36.4541692"
+        },
         "extended_data":
         {
             "Adres": "YEŞİLOVA MAH. AYDINLAR CAD. NO:38/B 2 nolu sağlık ocağıkarşısı OSMANİYE /DÜZİÇİ",
@@ -1764,6 +1924,11 @@
         "name": "GEBENLILER ECZANESI"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.3697332",
+            "lng": "36.0977907"
+        },
         "extended_data":
         {
             "Adres": "SAVRUN MAH. ATATÜRK CAD. NO:134/D KADIRLI/OSMANIYE",
@@ -1782,6 +1947,11 @@
         "name": "KAYIKLIK ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.0730538",
+            "lng": "36.2499202"
+        },
         "extended_data":
         {
             "Adres": "YEDIOCAK MAH. ATATÜRK CD.NO:311 MERKEZ/OSMANIYE",
@@ -1791,6 +1961,11 @@
         "name": "KOBANER ECZANESI"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.3161892",
+            "lng": "27.7867857"
+        },
         "extended_data":
         {
             "Adres": "ADNAN MENDERES MAH.19538 SOK.NO:6/A",
@@ -1809,6 +1984,11 @@
         "name": "ELİF'İN ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.4366904",
+            "lng": "35.9823417"
+        },
         "extended_data":
         {
             "ADRES": "M. Kemal Mah. 7 Üçgüllük, İskenderun, Hatay ",
@@ -1829,6 +2009,11 @@
         "name": "SELÇUK ECZANESİ(BEKBELE)"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.5881883",
+            "lng": "36.1693115"
+        },
         "extended_data":
         {
             "ADRES": "Savaş, Şht. Oğuz Yener Cd. No:29, 31200 İskenderun/Hatay",
@@ -1849,6 +2034,11 @@
         "name": "ZEYNEP ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.8257269",
+            "lng": "36.245729"
+        },
         "extended_data":
         {
             "ADRES": "Denizciler Mahallesi,Atatürk Cd. no 17/b, 31200 İskenderun/Hatay",
@@ -1859,6 +2049,11 @@
         "name": "YUNUS ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.5820831",
+            "lng": "36.172787"
+        },
         "extended_data":
         {
             "ADRES": "Dumlupınar, Ulucami Cd. No:117/B, 31200 İskenderun/Hatay",
@@ -1869,6 +2064,11 @@
         "name": "ÇAREM ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.5823449",
+            "lng": "36.1728635"
+        },
         "extended_data":
         {
             "ADRES": "Dumlupınar, Ulucami Cd. No:106/A, 31200 İskenderun/Hatay",
@@ -1879,6 +2079,11 @@
         "name": "TURGUT ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.5650204",
+            "lng": "36.1581181"
+        },
         "extended_data":
         {
             "ADRES": "Numune, 572. Sk. Pk:31230, 31230 İskenderun/Hatay",
@@ -1889,6 +2094,11 @@
         "name": "DİLAN ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.5651804",
+            "lng": "36.1582713"
+        },
         "extended_data":
         {
             "ADRES": "Numune Mahallesi, 572 Sokak No:75/1-12 İskenderun / Hatay",
@@ -1899,6 +2109,11 @@
         "name": "OKTAYER ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.5648088",
+            "lng": "36.1584887"
+        },
         "extended_data":
         {
             "ADRES": "Numune, Gelişim Hastanesi Karşısı, Dr. Sadık Ahmet Cd. No:204/A, 31230 İskenderun/Hatay",
@@ -1909,6 +2124,11 @@
         "name": "GÖĞEBAKAN ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.5652339",
+            "lng": "36.1587178"
+        },
         "extended_data":
         {
             "ADRES": "Numune, Dr. Sadık Ahmet Cd., 31230 İskenderun/Hatay",
@@ -1939,6 +2159,11 @@
         "name": "SONGÜL ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.5523885",
+            "lng": "36.1115114"
+        },
         "extended_data":
         {
             "ADRES": " Karaağaç mah. Atatürk cad. No:450/D, 31290 Arsuz/Hatay",
@@ -1949,6 +2174,11 @@
         "name": "MAVİ ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.5699849",
+            "lng": "36.1599041"
+        },
         "extended_data":
         {
             "ADRES": "Numune, GELİŞİM HASTANESİ KARŞI ARASI, 572. Sk. no:75, 31230 İskenderun/Hatay",
@@ -1959,6 +2189,11 @@
         "name": "HASAN EKŞİ ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.3128578",
+            "lng": "36.1911229"
+        },
         "extended_data":
         {
             "ADRES": "İsmet İnönü,  PALMİYE HASTANESİNİN KARŞISI,., 31230 İskenderun/Hatay",
@@ -1969,6 +2204,11 @@
         "name": "UMUT ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.5564016",
+            "lng": "36.1574265"
+        },
         "extended_data":
         {
             "ADRES": " İsmet İnönü, 706. Sk. No:57, 31230, 31230 İskenderun/Hatay",
@@ -1999,6 +2239,11 @@
         "name": "AKATAN ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.5698147",
+            "lng": "36.1642104"
+        },
         "extended_data":
         {
             "ADRES": " Dumlupınar, Ulucami Cd. No:106/A, 31200 İskenderun/Hatay",
@@ -2009,6 +2254,11 @@
         "name": "GÜLÇİN TURGUT ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.5552143",
+            "lng": "36.1551659"
+        },
         "extended_data":
         {
             "ADRES": "İsmet İnönü, 704. Sk. No:50, 31230 İskenderun/Hatay",
@@ -2019,6 +2269,11 @@
         "name": "YAHYA KURTULAN ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.8257269",
+            "lng": "36.245729"
+        },
         "extended_data":
         {
             "ADRES": "Denizciler, Atatürk Cd. no 17/b, 31200 İskenderun/Hatay",
@@ -2029,6 +2284,11 @@
         "name": "YUNUS ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.5791163",
+            "lng": "36.139672"
+        },
         "extended_data":
         {
             "ADRES": "Karaağaç Konarlı Mahallesi,Uğur Mumcu 2 Caddesi, No:337C, 31290 Arsuz/Hatay",
@@ -2039,6 +2299,11 @@
         "name": "EMRE ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.5547481",
+            "lng": "36.1296408"
+        },
         "extended_data":
         {
             "ADRES": "Denizciler, Atatürk Cad. No:16/A, 31215 Nardüzü/İskenderun/Hatay",
@@ -2049,6 +2314,11 @@
         "name": "NARDÜZÜ ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.6159863",
+            "lng": "36.2197939"
+        },
         "extended_data":
         {
             "ADRES": "Bekbele,Mimar Sinan Caddesi, 31200 İskenderun/Hatay",
@@ -2059,6 +2329,11 @@
         "name": "BEKBELE ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.5564365",
+            "lng": "36.1578361"
+        },
         "extended_data":
         {
             "ADRES": "İsmet İnönü, 720. Sk. No: 11, 31500 İskenderun/Hatay",
@@ -2069,6 +2344,11 @@
         "name": "BÜLENT ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "41.0370056",
+            "lng": "29.0627085"
+        },
         "extended_data":
         {
             "ADRES": "Cumhuriyet Mahallesi, Şehit Onbaşı Enver Caddesi No:3/A İskenderun / Hatay (10 Nolu Aile Sağlığı Merkezi Yanı Millet Parkı Karşı Sokağı)",
@@ -2079,6 +2359,11 @@
         "name": "ESRA ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.5875488",
+            "lng": "36.1625966"
+        },
         "extended_data":
         {
             "ADRES": "Cumhuriyet Mahallesi, Şehit Onbaşı Enver Durmaz Caddesi, 142 Sokak No:4/1 İskenderun / Hatay",
@@ -2089,6 +2374,11 @@
         "name": "SEVEROĞLU ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.525937",
+            "lng": "36.1099437"
+        },
         "extended_data":
         {
             "ADRES": "Mustafa Kemal Mahallesi, 550.Sokak, Naz Apt. No:7/2 İskenderun / Hatay",
@@ -2099,6 +2389,11 @@
         "name": "OZAN ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.6401234",
+            "lng": "36.2150218"
+        },
         "extended_data":
         {
             "ADRES": "Denizciler, Atatürk Cd. No:13, 31300 İskenderun/Hatay",
@@ -2109,6 +2404,11 @@
         "name": "DENİZCİLER ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.5823449",
+            "lng": "36.1728635"
+        },
         "extended_data":
         {
             "ADRES": "Dumlupınar Mahallesi, Ulucami Caddesi, 264 Sokak No:2/B İskenderun / Hatay",
@@ -2119,6 +2419,11 @@
         "name": "TURGUT ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.5877809",
+            "lng": "36.1714733"
+        },
         "extended_data":
         {
             "ADRES": "Ulucami Caddesi, No:30/B İskenderun / Hatay",
@@ -2138,6 +2443,11 @@
         "name": "SONGÜL ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.7134417",
+            "lng": "36.2255881"
+        },
         "extended_data":
         {
             "ADRES": "Karayılan, Utku Acun Blv. No:14, 31217 İskenderun/Hatay",
@@ -2147,6 +2457,11 @@
         "name": "CEREN ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.5723739",
+            "lng": "36.1736061"
+        },
         "extended_data":
         {
             "ADRES": "Esentepe Mah. 344 Sk İskenderun, Hatay ",
@@ -2157,6 +2472,11 @@
         "name": "BARIŞ ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.5875586",
+            "lng": "36.1602775"
+        },
         "extended_data":
         {
             "ADRES": "Pirireıs Mahallesi, Yavuz Sultan Selim Caddesi, No:68 Isk İskenderun / Hatay",
@@ -2217,6 +2537,11 @@
         "name": "PİSEN ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.8232518",
+            "lng": "36.2202062"
+        },
         "extended_data":
         {
             "ADRES": "Özerli Mah. Özsoy Sok. No:36 Dörtyol",
@@ -2227,6 +2552,11 @@
         "name": "ŞİFA ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.3628109",
+            "lng": "36.4511515"
+        },
         "extended_data":
         {
             "ADRES": "YAVUZ CAD. NO :44 / Gökçeoğlu Mh, Şht. Mehmet Kurşungeçirmez Blv. Pk:31520, 31520 Kumlu/Hatay",
@@ -2237,6 +2567,11 @@
         "name": "GÜNGÖR ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "41.6509148",
+            "lng": "26.5939467"
+        },
         "extended_data":
         {
             "ADRES": "Yıldırım Beyazıt Mah. Nuh Sk. No:30/1.",
@@ -2248,6 +2583,11 @@
         "name": "AY ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.7558721",
+            "lng": "36.2219445"
+        },
         "extended_data":
         {
             "ADRES": "Kürtül Mahallesi, Atatürk Caddesi, Serin Sokak No:4/A Payas / Hatay",
@@ -2259,6 +2599,11 @@
         "name": "KARABULAK ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.8279716",
+            "lng": "36.2125701"
+        },
         "extended_data":
         {
             "ADRES": "Numuneevler Mahallesi, İstasyon Caddesi, Hastane Altı 1 Nolu Sokak No:4/C-D Dörtyol",
@@ -2270,6 +2615,11 @@
         "name": "MANCAK ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.3628109",
+            "lng": "36.4511515"
+        },
         "extended_data":
         {
             "ADRES": "Yavuz Caddesi, No:44 Kumlu / Hatay",
@@ -2281,6 +2631,11 @@
         "name": "GÜNGÖR ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.8275792",
+            "lng": "36.2141493"
+        },
         "extended_data":
         {
             "ADRES": "Numuneevler Mahallesi, Hastane Üstü 1 Nolu Sokak No:13 Dörtyol",
@@ -2291,6 +2646,11 @@
         "name": "YAŞAM ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "35.9007745",
+            "lng": "36.0652414"
+        },
         "extended_data":
         {
             "ADRES": "Kurtuluş Mahallesi, Atatürk Caddesi, No:102/A Yayladağı / Hatay",
@@ -2301,6 +2661,11 @@
         "name": "YAYLADAĞI ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.8288335",
+            "lng": "36.2135271"
+        },
         "extended_data":
         {
             "ADRES": "Sabanakın Uçar Bulvarı No:64/C Dörtyol / Hatay\n",
@@ -2321,6 +2686,11 @@
         "name": "TÜRKOĞLU ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.8285833",
+            "lng": "36.2126096"
+        },
         "extended_data":
         {
             "ADRES": "Numuneevler Mahallesi, Ali Adıkutlu Caddesi, No:72/H Dörtyol / Hatay",
@@ -2331,6 +2701,11 @@
         "name": "TÜRKER ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.8369154",
+            "lng": "36.2247123"
+        },
         "extended_data":
         {
             "ADRES": "Sanayı Mahallesi, Çaylı Caddesi Garaj Altı 1. Sokak Dörtyol / Hatay",
@@ -2361,6 +2736,11 @@
         "name": "TEKİN ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.8355558",
+            "lng": "36.2280557"
+        },
         "extended_data":
         {
             "ADRES": "Numuneevler Mahallesi, M.Doğanay Öçgüder Caddesi No:53/5 Dörtyol / Hatay",
@@ -2371,6 +2751,11 @@
         "name": "ŞİMŞEK ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.8232518",
+            "lng": "36.2202062"
+        },
         "extended_data":
         {
             "ADRES": "Özerli Mahallesi, Özsoy Sokak No:36 Dörtyol / Hatay\n",
@@ -2401,6 +2786,11 @@
         "name": "OKAN EREN ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.8375319",
+            "lng": "36.2275105"
+        },
         "extended_data":
         {
             "ADRES": "İnönü Caddesi, No:22 Dörtyol / Hatay\n",
@@ -2421,6 +2811,11 @@
         "name": "NEHİR ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.8421131",
+            "lng": "36.2246154"
+        },
         "extended_data":
         {
             "ADRES": "Sanayi Mahallesi, Arı Caddesi No:49/C Dörtyol / Hatay\n",
@@ -2431,6 +2826,11 @@
         "name": "MURAT ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.2011138",
+            "lng": "36.1577452"
+        },
         "extended_data":
         {
             "ADRES": "Kışlalar Mahallesi, Atatürk Caddesi, No:92/A Dörtyol / Hatay\n",
@@ -2441,6 +2841,11 @@
         "name": "MERKEZ ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.8340748",
+            "lng": "36.2299284"
+        },
         "extended_data":
         {
             "ADRES": "Kışlalar Mahallesi, Talay Sokak No:4 Dörtyol / Hatay\n",
@@ -2451,6 +2856,11 @@
         "name": "LİMON ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.8378474",
+            "lng": "36.2224518"
+        },
         "extended_data":
         {
             "ADRES": "Sanayi Mahallesi, Özel Caddesi Zemin Kat No:4/F Dörtyol / Hatay",
@@ -2461,6 +2871,11 @@
         "name": "KARAYİĞİT ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.8499835",
+            "lng": "36.2326017"
+        },
         "extended_data":
         {
             "ADRES": "Yeşil Mahallesi, 100.Yıl Caddesi, 505 Nolu Sokak, No:25/Z/1 Dörtyol / Hatay",
@@ -2481,6 +2896,11 @@
         "name": "ERDEM ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.8369399",
+            "lng": "36.2280348"
+        },
         "extended_data":
         {
             "ADRES": "Kışlalar Mahallesi, Atatürk Ortaokulu Üstü, 2 Nolu Aile Sağlığı Merkezi Karşısı Dörtyol / Hatay",
@@ -2501,6 +2921,11 @@
         "name": "AYKIN ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.5881883",
+            "lng": "36.1693115"
+        },
         "extended_data":
         {
             "ADRES": "Mareşal Çakmak Caddesi No:21/3 İskenderun / Hatay",
@@ -2511,6 +2936,11 @@
         "name": "İSKENDERUN ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.5001151",
+            "lng": "36.353525"
+        },
         "extended_data":
         {
             "ADRES": "Bahçelievler Mahallesi, I. Ertan Yülek Bulvarı No:1 Erzin/Hatay",
@@ -2521,6 +2951,11 @@
         "name": "FATİH ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.9558482",
+            "lng": "36.1994113"
+        },
         "extended_data":
         {
             "ADRES": "Şükrü Paşa, Şükrüpaşa 1 Cd. No:13, 31960 Erzin/Hatay",
@@ -2531,6 +2966,11 @@
         "name": "GÖKÇE ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.363335",
+            "lng": "36.450755"
+        },
         "extended_data":
         {
             "ADRES": "Gökçeoğlu Mahallesi, Şehit Mehmet Kurşun Geçmez Bulvarı No:36/C Kumlu / Hatay",
@@ -2541,6 +2981,11 @@
         "name": "ABALI ECZANESİ-KUMLU"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.7567685",
+            "lng": "36.2173114"
+        },
         "extended_data":
         {
             "ADRES": "Yıldırım Beyazıt Mahallesi, Mevlana Sokak No:7 Payas / Hatay\n",
@@ -2551,6 +2996,11 @@
         "name": "ÖZMEN ECZANESİ-PAYAS"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.7560596",
+            "lng": "36.2166084"
+        },
         "extended_data":
         {
             "ADRES": "Yıldırım Beyazıt Mahallesi, Özkul Çolak Caddesi No:153/A Payas / Hatay",
@@ -2561,6 +3011,11 @@
         "name": "PAYAS ECZANESİ - PAYAS"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.7561856",
+            "lng": "36.2220363"
+        },
         "extended_data":
         {
             "ADRES": "Kürtül, Serin Sk. No:6/C, 31900 Payas/Hatay",
@@ -2571,6 +3026,11 @@
         "name": "AYKUT ECZANESİ-PAYAS"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.7562605",
+            "lng": "36.2183274"
+        },
         "extended_data":
         {
             "ADRES": "İstiklal, Atatürk Cd. No:22, 31900 Payas/Dörtyol/Hatay",
@@ -2581,6 +3041,11 @@
         "name": "AKYOL ECZANESİ-PAYAS"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.756489",
+            "lng": "36.2218466"
+        },
         "extended_data":
         {
             "ADRES": "Atatürk Caddesi, Serin Sokak No:13 Payas / Hatay",
@@ -2591,6 +3056,11 @@
         "name": "AÇIKGÖZ ECZANESİ-PAYAS"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.7562441",
+            "lng": "36.2021894"
+        },
         "extended_data":
         {
             "ADRES": "Karacami, İnönü Cd. 86/B, 31900 Payas/Hatay",
@@ -2601,6 +3071,11 @@
         "name": "KIRAL ECZANESİ-PAYAS"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.2314912",
+            "lng": "36.164805"
+        },
         "extended_data":
         {
             "ADRES": "Kışlalar Mahallesi, Hanifi Boso Caddesi No:11/A Dörtyol / Hatay",
@@ -2611,6 +3086,11 @@
         "name": "ÇINAR ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.828656",
+            "lng": "36.2128546"
+        },
         "extended_data":
         {
             "ADRES": "Numuneevler Mahallesi, Şaban Akın Uçar Caddesi, No:72/D Dörtyol / Hatay",
@@ -2621,6 +3101,11 @@
         "name": "DURU ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.8279716",
+            "lng": "36.2125701"
+        },
         "extended_data":
         {
             "ADRES": "Numuneevler Mahallesi, İstasyon Caddesi, Hastane Altı 1 Nolu Sokak No:4/C-D Dörtyol",
@@ -2631,6 +3116,11 @@
         "name": "MANCAK ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.582596",
+            "lng": "36.1747882"
+        },
         "extended_data":
         {
             "ADRES": "Sanayı Mahallesi, Çaylı Caddesi, No:52 Dörtyol / Hatay\n",
@@ -2641,6 +3131,11 @@
         "name": "HAYAT ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.8423107",
+            "lng": "36.2245939"
+        },
         "extended_data":
         {
             "ADRES": "Sanayı Mahallesi, Arı Caddesi No:49/B Dörtyol / Hatay",
@@ -2651,6 +3146,11 @@
         "name": "AKKOYUNLU ECZANESİ - DÖRTYOL"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.8276883",
+            "lng": "36.212694"
+        },
         "extended_data":
         {
             "ADRES": "Numuneevler Mahallesi, S.Akın Uçar Caddesi, Hastane Altı Sokak No:10 Dörtyol / Hatay",
@@ -2661,6 +3161,11 @@
         "name": "BOZDOĞAN ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.8227039",
+            "lng": "36.2203922"
+        },
         "extended_data":
         {
             "ADRES": "Özerli Mahallesi, Fakıoğlu Sokak No:59/B Dörtyol / Hatay\n",
@@ -2681,6 +3186,11 @@
         "name": "CANSU ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.8277761",
+            "lng": "36.2126899"
+        },
         "extended_data":
         {
             "ADRES": "Numune Evler Mahallesi, Ezgı Sokak No:2/A Dörtyol / Hatay\n",
@@ -2691,6 +3201,11 @@
         "name": "ELİF ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.8280681",
+            "lng": "36.2125217"
+        },
         "extended_data":
         {
             "ADRES": "Numuneevler Mahallesi, İstasyon Caddesi, Hastane Altı L Nolu Sokak No:4 Dörtyol / Hatay",
@@ -2701,6 +3216,11 @@
         "name": "CAN ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.8285878",
+            "lng": "36.2127339"
+        },
         "extended_data":
         {
             "ADRES": "Numuneevler Mahallesi, Şabanakın Uçar Caddesi, No:72/F Dörtyol / Hatay\n",
@@ -2711,6 +3231,11 @@
         "name": "MANGA ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.8380544",
+            "lng": "36.2252073"
+        },
         "extended_data":
         {
             "ADRES": "Sanayi Mahallesi, Garaj Altı 1 Nolu Sokak No:17/B Dörtyol / Hatay",
@@ -2721,6 +3246,11 @@
         "name": "HİNTOĞLU ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.8376634",
+            "lng": "36.2252581"
+        },
         "extended_data":
         {
             "ADRES": "Numuneevler Mahallesi, Çaylı Caddesi, Garaaltı 1 Nolu Sokak No:7 Dörtyol / Hatay",
@@ -2731,6 +3261,11 @@
         "name": "İKİZ ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.8372989",
+            "lng": "36.2275258"
+        },
         "extended_data":
         {
             "ADRES": "İnönü Caddesi, No:28 Dörtyol / Hatay\n",
@@ -2751,6 +3286,11 @@
         "name": "GEDİK ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.2359965",
+            "lng": "36.1660938"
+        },
         "extended_data":
         {
             "ADRES": "Sarımazı Mahallesi, Şehit Mahmut Açıl Caddesi, Kasapbaşı Apt No:2 Belen / Hatay",
@@ -2761,6 +3301,11 @@
         "name": "DAMLA ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.6395866",
+            "lng": "36.2157269"
+        },
         "extended_data":
         {
             "ADRES": "Muhlısalı Mahallesi, Marasel Çakmak Caddesi, No:41/D Belen / Hatay",
@@ -2782,6 +3327,11 @@
         "name": "ÇETİN ECZANESİ - BELEN"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.8232518",
+            "lng": "36.2202062"
+        },
         "extended_data":
         {
             "ADRES": "Bakras Mahallesi, Fevzi Çakmak Caddesi, No:28 Belen / Hatay\n",
@@ -2824,6 +3374,11 @@
         "name": "AYDIN ECZANESİ - YAYLADAĞI"
     },
     {
+        "coordinates":
+        {
+            "lat": "35.9006206",
+            "lng": "36.0656233"
+        },
         "extended_data":
         {
             "ADRES": "Kurtuluş Mahallesi, Atatürk Caddesi No:53 Yayladağı / Hatay\n",
@@ -2868,6 +3423,11 @@
         "name": "CİSRİ ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.2590532",
+            "lng": "36.5692321"
+        },
         "extended_data":
         {
             "ADRES": "Bağlar Mahallesi, Mahmut Ekmen Caddesi, No:7/B Reyhanlı/Hatay",
@@ -2879,6 +3439,11 @@
         "name": "GÜL ECZANESİ - REYHANLI"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.4902729",
+            "lng": "36.3675295"
+        },
         "extended_data":
         {
             "ADRES": "Yeni Bağlar Mahallesi, Mahmut Ekmen Caddesi S.Görmez Apt. No:5/2 Reyhanlı / Hatay",
@@ -2934,6 +3499,11 @@
         "name": "KARADENİZ ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.582596",
+            "lng": "36.1747882"
+        },
         "extended_data":
         {
             "ADRES": "Yeni Mahalle, Albay Rüştü Kanatlı Caddesi No:25/B Reyhanlı / Hatay",
@@ -2967,6 +3537,11 @@
         "name": "MURAT TİFTİKÇİ ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.2556539",
+            "lng": "36.5764281"
+        },
         "extended_data":
         {
             "ADRES": "Bahçelievler Mahallesi, 1033 Sokak No:1/11 Reyhanlı / Hatay",
@@ -2978,6 +3553,11 @@
         "name": "SELAM ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.8232518",
+            "lng": "36.2202062"
+        },
         "extended_data":
         {
             "ADRES": "Tayfur Sökmen Caddesi, No:4 Reyhanlı / Hatay",
@@ -3011,6 +3591,11 @@
         "name": "CÜNEDİOĞLU ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.5727996",
+            "lng": "36.1948113"
+        },
         "extended_data":
         {
             "ADRES": "Cumhuriyet Mahallesi, Cumhuriyet Caddesi No:40/D Reyhanlı / Hatay",
@@ -3066,6 +3651,11 @@
         "name": "VATAN ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.8275792",
+            "lng": "36.2141493"
+        },
         "extended_data":
         {
             "ADRES": "Yeni Mahallesi, Azerbaycan Caddesi No:51/B Reyhanlı / Hatay",
@@ -3077,6 +3667,11 @@
         "name": "YAŞAM ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "41.837395112645346",
+            "lng": "-71.35063853885445"
+        },
         "extended_data":
         {
             "ADRES": "SANAYİ MAH.ÇAYLI CAD.NO:28",
@@ -3137,6 +3732,11 @@
         "name": "EMNİYET ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "39.9704228",
+            "lng": "32.799135"
+        },
         "extended_data":
         {
             "Adres": "ŞEHİT FEVZİ MAHALLESİ 16.SOKAK",
@@ -3207,6 +3807,11 @@
         "name": "MELİKE ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "39.7790239",
+            "lng": "30.5145589"
+        },
         "extended_data":
         {
             "Adres": "DOĞU MAHALLESİ CUMHURİYET MEYDANI CÖMERT İŞ HANI NO:1",
@@ -3457,6 +4062,11 @@
         "name": "MAHİN ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.0202589",
+            "lng": "35.3415753"
+        },
         "extended_data":
         {
             "Adres": "ATATÜRK CADDESİ SAAT KULESİ KARŞISI NO:69/A ",
@@ -3507,6 +4117,11 @@
         "name": "YAŞAM ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.6722487",
+            "lng": "28.3103807"
+        },
         "extended_data":
         {
             "Adres": "BAŞAHARIK MAHALLESİ 22.SOKAK NO:3",
@@ -3587,6 +4202,11 @@
         "name": "NANE LİMON ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "40.99271",
+            "lng": "28.781688"
+        },
         "extended_data":
         {
             "Adres": "MÜCELLİ SAĞLIK OCAĞI KARŞISI CENGİZ TOPEL CADDESİ",
@@ -3607,6 +4227,11 @@
         "name": "TARIK ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.0392567",
+            "lng": "35.288074"
+        },
         "extended_data":
         {
             "Adres": "İSTASYON CADDESİ ",
@@ -3657,6 +4282,11 @@
         "name": "ZEKİ SARAÇ ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.9848739",
+            "lng": "38.4210202"
+        },
         "extended_data":
         {
             "Adres": "B.GAZİ DEVLET HASTANESİ ACİL -MİLLET BAHÇESİ ARASI GÜNDOĞDU CADDESİ KAPALI YÜZME HAVUZ KARŞISI- ZAFER MAHALLESİ",
@@ -3677,6 +4307,11 @@
         "name": "ÇARE ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.7757912",
+            "lng": "35.7933311"
+        },
         "extended_data":
         {
             "Adres": "ŞEYBAYRAM MAHALLESİ HASANBEY CADDESİ NO:162/A ",
@@ -3707,6 +4342,11 @@
         "name": "MERT ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.0162627",
+            "lng": "35.2606936"
+        },
         "extended_data":
         {
             "Adres": "İPEK CADDESİ FIRTA MAHALLESİ VENÜS SOKAK (20 MAYIS VAKIF LİSESİ CİVARI) NO:36/A",
@@ -3747,6 +4387,11 @@
         "name": "BASRİ ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.0126851",
+            "lng": "35.8143551"
+        },
         "extended_data":
         {
             "Adres": "TURGUT ÖZAL MAHALLESİ GÜLÜMSER CADDESİ HATİPLER SOKAK NO:1/A",
@@ -3797,6 +4442,11 @@
         "name": "CENGİZTOPEL ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.0440466",
+            "lng": "35.8141756"
+        },
         "extended_data":
         {
             "Adres": "ARABOSMAN KAVŞAĞI İLYAS MAHALLESİ EMİRGAN CADDESİ NO:10/A ",
@@ -3887,6 +4537,11 @@
         "name": "BANAZI ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "39.7984291",
+            "lng": "32.8000148"
+        },
         "extended_data":
         {
             "Adres": "HASTANE CADDESİ MÜJDE HASTANESİ KARŞISI NO:11 ",
@@ -3907,6 +4562,11 @@
         "name": "YENİ ÇARE ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.7478902",
+            "lng": "39.3084924"
+        },
         "extended_data":
         {
             "Adres": "YAKINKENT BELEDİYE İŞ MERKEZİ NO:63",
@@ -3957,6 +4617,11 @@
         "name": "IRMAK ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "41.0135625",
+            "lng": "28.7870929"
+        },
         "extended_data":
         {
             "Adres": "ÇAVUŞOĞLU MAHALLESİ BOZTEPE CADDESİ KARAKOL SOKAK NO:1 ",
@@ -3987,6 +4652,11 @@
         "name": "ÖMÜR ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.7667945",
+            "lng": "38.2706645"
+        },
         "extended_data":
         {
             "Adres": "KÜLTÜR MAHALLESİ KIŞLA CADDESİ NO:25/A",
@@ -4037,6 +4707,11 @@
         "name": "SİBEL ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "36.5474294",
+            "lng": "32.0073384"
+        },
         "extended_data":
         {
             "Adres": "ALACAKAPI MAHALLESİ BENZİNLİK CADDESİ",
@@ -4127,6 +4802,11 @@
         "name": "DOĞA ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.5940658",
+            "lng": "36.9218811"
+        },
         "extended_data":
         {
             "Adres": "HAYRULLAH MAH.KUDDUSİ BABA BUL.NO:95/A ONİKİŞUBAT/KAHRAMANMARAŞ",
@@ -4137,6 +4817,11 @@
         "name": "ÇINAR ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.583821",
+            "lng": "36.9224543"
+        },
         "extended_data":
         {
             "Adres": "Yusuflar, 77021. Sk. No:33, 46040 Kahramanmaraş Merkez/Kahramanmaraş",
@@ -4147,6 +4832,11 @@
         "name": "AKSOY ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.5938322",
+            "lng": "36.8828802"
+        },
         "extended_data":
         {
             "Adres": "Mimar Sinan, Aladdin Özdenören Cd. no:13, 46050 Onikişubat/Kahramanmaraş",
@@ -4157,6 +4847,11 @@
         "name": "HÜDAYİOĞLU ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.5961404",
+            "lng": "36.9030757"
+        },
         "extended_data":
         {
             "Adres": "Saçaklızade, 56016/1. Sk. NO:1 D:2C, 46050 Onikişubat/Kahramanmaraş",
@@ -4167,6 +4862,11 @@
         "name": "PAKSOY ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.5864757",
+            "lng": "36.8994048"
+        },
         "extended_data":
         {
             "Adres": "Yunus Emre, Necip Fazıl Kısakürek Blv. No:61, 46050 Merkez/Kahramanmaraş",
@@ -4177,6 +4877,11 @@
         "name": "YATILI BÖLGE ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.5812195",
+            "lng": "36.9102899"
+        },
         "extended_data":
         {
             "Adres": "Abdülhamid Han Mh. Ahmet Uncu Cd. Pk:46050 Merkez/kahramanmaraş, Abdülhamid Han, 46050 Onikişubat/Kahramanmaraş",
@@ -4187,6 +4892,11 @@
         "name": "HACETTEPE ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.5698957",
+            "lng": "36.948323"
+        },
         "extended_data":
         {
             "Adres": "Yavuz Selim, 46080 Dulkadiroğlu/Kahramanmaraş, Türkiye",
@@ -4197,6 +4907,11 @@
         "name": "TUĞRUL ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.3854898",
+            "lng": "36.8469025"
+        },
         "extended_data":
         {
             "Adres": "Gaziler Mh. İstiklal Cd. Pk:46800 Türkoğlu/kahramanmaraş, Gaziler, 46800 Türkoğlu/Kahramanmaraş",
@@ -4207,6 +4922,11 @@
         "name": "KÜMPERLİ ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.3865701",
+            "lng": "36.8476946"
+        },
         "extended_data":
         {
             "Adres": "CUMHURİYET MAH. İSTİKLAL CAD. 24/B TÜRKOĞLU",
@@ -4217,6 +4937,11 @@
         "name": "AYSEL ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.5942097",
+            "lng": "36.9224063"
+        },
         "extended_data":
         {
             "Adres": "Yürükselim, 75023. Sk. No:5/A, 46050 Kahramanmaraş Merkez/Kahramanmaraş  ",
@@ -4237,6 +4962,11 @@
         "name": "GÖKTUĞ ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.5840306",
+            "lng": "36.8672928"
+        },
         "extended_data":
         {
             "Adres": "HAYDARBEY MAH.KARASU BUL.TAÇ SİTESİ A BLOK NO:5 12 ŞUBAT/KAHRAMANMARAŞ",
@@ -4247,6 +4977,11 @@
         "name": "NAR ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.5923299",
+            "lng": "36.9242768"
+        },
         "extended_data":
         {
             "Adres": "Yürükselim, 75008. Sk. No:46, 46050 Kahramanmaraş Merkez/Kahramanmaraş       ",
@@ -4287,6 +5022,11 @@
         "name": "KOÇAK ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.59466",
+            "lng": "36.9239978"
+        },
         "extended_data":
         {
             "Adres": "Yürük Selim Mahallesi, Gazi Mustafa Kuşçu Caddesi 75023. Sokak No:1, 46050 ",
@@ -4297,6 +5037,11 @@
         "name": "MEHTAP ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.5942443",
+            "lng": "36.9226008"
+        },
         "extended_data":
         {
             "Adres": "Yürükselim, 75023. Sk. No:5/C, 46050 Onikişubat/Kahramanmaraş",
@@ -4307,6 +5052,11 @@
         "name": "TUNA ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.589012",
+            "lng": "36.8349595"
+        },
         "extended_data":
         {
             "Adres": "Maarif Mh, Turgut Özal Blv. No:93/N, 46050 Onikişubat/Kahramanmaraş",
@@ -4357,6 +5107,11 @@
         "name": "ADNAN ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "38.2051495",
+            "lng": "37.1571983"
+        },
         "extended_data":
         {
             "Adres": "Fatih Mh, İstiklal Cd. Pk:46300, 46300 Elbistan/Kahramanmaraş",
@@ -4367,6 +5122,11 @@
         "name": "CEYHAN ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "38.2054056",
+            "lng": "37.1572262"
+        },
         "extended_data":
         {
             "Adres": "Fatih Mh. İstiklal Cd. Pk:46300 Elbistan/kahramanmaraş, Karaelbistan, 46300 Elbistan/Kahramanmaraş",
@@ -4417,6 +5177,11 @@
         "name": "ÇAĞLAYAN ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.5787746",
+            "lng": "36.9391549"
+        },
         "extended_data":
         {
             "Adres": "Şeyh Adil, Şeyh Adil Mh.Rafet efendi cad.sakarya asm yani. Hoca ahmet yesevi lisesi civarı, Merkez, Rafet Efendi Cd. Pk:46100, 46100 Dulkadiroğlu/Kahramanmaraş",
@@ -4437,6 +5202,11 @@
         "name": "NİL ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.5790798",
+            "lng": "36.9388299"
+        },
         "extended_data":
         {
             "Adres": "Şeyh Adil Mh, 67023. Sk., 46100 Merkez/Dulkadiroğlu/Kahramanmaraş",
@@ -4447,6 +5217,11 @@
         "name": "ASLANBEY ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.5848847",
+            "lng": "36.9497365"
+        },
         "extended_data":
         {
             "Adres": "aslanbey mah şereferoğlu cad 60/A aslanbey mah şereferoğlu cad no60/A, Aslan Bey, Şeref Eroğlu Cd. 60/A, 46030 Dulkadiroğlu/Kahramanmaraş",
@@ -4477,6 +5252,11 @@
         "name": "AYLİN TATLI ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.5777959",
+            "lng": "36.9570827"
+        },
         "extended_data":
         {
             "Adres": "Şeyh Şamil, 68037. Sk., 46080 Pk:46100 Merkez/Kahramanmaraş",
@@ -4487,6 +5267,11 @@
         "name": "KEVSER ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.5794589",
+            "lng": "36.8561834"
+        },
         "extended_data":
         {
             "Adres": "Haydar Bey, 46050 Onikişubat/Kahramanmaraş",
@@ -4507,6 +5292,11 @@
         "name": "FARAH HATİPOĞLU ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.5814874",
+            "lng": "36.8699208"
+        },
         "extended_data":
         {
             "Adres": "22 gün Mh, Genç Osman Cd. 38/A, 46050 12 ŞUBAT/Onikişubat/Kahramanmaraş",
@@ -4517,6 +5307,11 @@
         "name": "EDA ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.5994907",
+            "lng": "36.8552906"
+        },
         "extended_data":
         {
             "Adres": "İstiklal, 37017. Sk. No:11, 46050 Kahramanmaraş Merkez/Kahramanmaraş",
@@ -4527,6 +5322,11 @@
         "name": "EFE ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.5808752",
+            "lng": "36.8745687"
+        },
         "extended_data":
         {
             "Adres": "Şehit Abdullah Çavuş, Mh, Başkonuş Cd No:21, 46050 Merkez/Kahramanmaraş",
@@ -4577,6 +5377,11 @@
         "name": "ÇOLAKOĞLU ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.5972285",
+            "lng": "36.8873213"
+        },
         "extended_data":
         {
             "Adres": "Hürriyet, 34049. Sk No:2, 46100 Onikişubat/Kahramanmaraş",
@@ -4627,6 +5432,11 @@
         "name": "ÇAĞRI ECZANESİ"
     },
     {
+        "coordinates":
+        {
+            "lat": "37.5706156",
+            "lng": "36.9597146"
+        },
         "extended_data":
         {
             "Adres": "Yavuz Selim, 73045. Sk. No:34, 46080 Dulkadiroğlu/Kahramanmaraş",
