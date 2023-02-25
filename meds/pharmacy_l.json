@@ -13,8 +13,8 @@
     {
         "name": "Türk Eczacıları Birliği Afet Eczanesi",
         "coordinates": {
-            "lat": "36.8832071",
-            "lng": "37.5941834"
+            "lat": 36.8832071,
+            "lng": 37.5941834
         },
         "extended_data": {
             "Adres": "NECİP FAZIL ŞEHİR HASTANESİ KADIN DOĞUM VE ÇOCUK HASTALIKLARI EK HİZMET BİNASI ONİKİŞUBAT KAHRAMANMARAŞ"
@@ -46,8 +46,8 @@
     {
         "name": "Türk Eczacıları Birliği Afet Eczanesi",
         "coordinates": {
-            "lat": "37.1567626",
-            "lng": "38.2037765"
+            "lat": 37.1567626,
+            "lng": 38.2037765
         },
         "extended_data": {
             "Adres": "ELBİSTAN DEVLET HASTANESİ KARŞISI KAHRAMANMARAŞ"
@@ -57,8 +57,8 @@
     {
         "name": "Türk Eczacıları Birliği Afet Eczanesi",
         "coordinates": {
-            "lat": "36.15891",
-            "lng": "36.2010597"
+            "lat": 36.15891,
+            "lng": 36.2010597
         },
         "extended_data": {
             "Adres": "HATAY İL SAĞLIĞI MÜDÜRLÜĞÜ YANI "
@@ -68,8 +68,8 @@
     {
         "name": "Türk Eczacıları Birliği Afet Eczanesi",
         "coordinates": {
-            "lat": "36.3361623",
-            "lng": "36.4881733"
+            "lat": 36.3361623,
+            "lng": 36.4881733
         },
         "extended_data": {
             "Adres": "KIRIKHAN DEVLET HASTANESİ YANI KIRIKHAN HATAY"
@@ -79,8 +79,8 @@
     {
         "name": "Türk Eczacıları Birliği Afet Eczanesi",
         "coordinates": {
-            "lat": "36.7351046",
-            "lng": "37.1838361"
+            "lat": 36.7351046,
+            "lng": 37.1838361
         },
         "extended_data": {
             "Adres": "NURDAĞI STADYUMU NURDAĞI GAZİANTEP"
@@ -90,8 +90,8 @@
     {
         "name": "Türk Eczacıları Birliği Afet Eczanesi",
         "coordinates": {
-            "lat": "38.2815681",
-            "lng": "38.3496121"
+            "lat": 38.2815681,
+            "lng": 38.3496121
         },
         "extended_data": {
             "Adres": "MALATYA EĞİTİM ARAŞTIRMA DEVLET HASTANESİ YANI MALATYA MERKEZ"
@@ -101,8 +101,8 @@
     {
         "name": "Türk Eczacıları Birliği Afet Eczanesi",
         "coordinates": {
-            "lat": "38.3344873",
-            "lng": "38.3470381"
+            "lat": 38.3344873,
+            "lng": 38.3470381
         },
         "extended_data": {
             "Adres": "BATTALGAZİ DEVLET HASTANESİ BAHÇESİ MALATYA MERKEZ"
@@ -123,8 +123,8 @@
     {
         "name": "Türk Eczacıları Birliği Afet Eczanesi",
         "coordinates": {
-            "lat": "38.272893",
-            "lng": "37.7627199"
+            "lat": 38.272893,
+            "lng": 37.7627199
         },
         "extended_data": {
             "Adres": "ADIYAMAN 1 NOLU ASM YANI ADIYAMAN MERKEZ"
@@ -134,8 +134,8 @@
     {
         "name": "Türk Eczacıları Birliği Afet Eczanesi",
         "coordinates": {
-            "lat": "38.3226799",
-            "lng": "37.7671517"
+            "lat": 38.3226799,
+            "lng": 37.7671517
         },
         "extended_data": {
             "Adres": "ADIYAMAN EĞİTİM VE ARAŞTIRMA HASTANESİ POLİKLİNİK GİRİŞİ ADIYAMAN MERKEZ"
@@ -156,8 +156,8 @@
     {
         "name": "Türk Eczacıları Birliği Afet Eczanesi",
         "coordinates": {
-            "lat": "37.6602973",
-            "lng": "37.7903616"
+            "lat": 37.6602973,
+            "lng": 37.7903616
         },
         "extended_data": {
             "Adres": "GÖLBAŞI DEVLET HASTANESİ GÖLBAŞI ADIYAMAN"
@@ -167,8 +167,8 @@
     {
         "name": "Türk Eczacıları Birliği Afet Eczanesi",
         "coordinates": {
-            "lat": "38.7811752",
-            "lng": "37.1551398"
+            "lat": 38.7811752,
+            "lng": 37.1551398
         },
         "extended_data": {
             "Adres": "ŞANLIURFA MÜZESİ OTOPARKI ŞANLIURFA MERKEZ"
@@ -189,16 +189,16 @@
     {
         "name": "Türk Eczacıları Birliği Afet Eczanesi",
         "coordinates": {
-            "lat": "36.1582392",
-            "lng": "36.5760828"
+            "lat": 36.1582392,
+            "lng": 36.5760828
         },
         "address": ""
     },
     {
         "name": "Türk Eczacılar Birliği Afet Eczanesi",
         "coordinates": {
-            "lat": "38.2760298",
-            "lng": "38.3364679"
+            "lat": 38.2760298,
+            "lng": 38.3364679
         },
         "extended_data": {
             "Adres": "FAHRİ KAYAHAN NİKAH DAİRESİ YANI MALATYA"
@@ -208,8 +208,8 @@
     {
         "name": "Türk Eczacıları Birliği Afet Eczanesi",
         "coordinates": {
-            "lat": "38.2433296",
-            "lng": "37.7443209"
+            "lat": 38.2433296,
+            "lng": 37.7443209
         },
         "extended_data": {
             "Adres": "EĞRİÇAYIR PARKI ATLETİZM PİSTİ ADIYAMAN MERKEZ"
@@ -219,8 +219,8 @@
     {
         "name": "Türk Eczacılar Birliği Afet Eczanesi",
         "coordinates": {
-            "lat": "38.7925319",
-            "lng": "37.2249392"
+            "lat": 38.7925319,
+            "lng": 37.2249392
         },
         "extended_data": {
             "Adres": "KARAKÖPRÜ FUAR MERKEZİ BAHÇESİ ŞANLIURFA MERKEZ "
@@ -230,16 +230,16 @@
     {
         "name": "Türk Eczacıları Birliği Afet Eczanesi",
         "coordinates": {
-            "lat": "36.6287218",
-            "lng": "37.0444317"
+            "lat": 36.6287218,
+            "lng": 37.0444317
         },
         "address": ""
     },
     {
         "name": "Türk Eczacılar Birliği Afet Eczanesi",
         "coordinates": {
-            "lat": "36.1457526",
-            "lng": "36.1955526"
+            "lat": 36.1457526,
+            "lng": 36.1955526
         },
         "extended_data": {
             "Adres": "Defne Kaymakamlık Bahçesi"
@@ -249,8 +249,8 @@
     {
         "name": "Türk Eczacılar Birliği Afet Eczanesi",
         "coordinates": {
-            "lat": "35.9744182",
-            "lng": "36.0949857"
+            "lat": 35.9744182,
+            "lng": 36.0949857
         },
         "extended_data": {
             "Adres": "Samandağ Meydan"
@@ -260,8 +260,8 @@
     {
         "name": "Türk Eczacılar Birliği Afet Eczanesi",
         "coordinates": {
-            "lat": "36.8460453",
-            "lng": "37.3847748"
+            "lat": 36.8460453,
+            "lng": 37.3847748
         },
         "extended_data": {
             "Adres": "Türkoğlu Millet Meydanı"
@@ -271,8 +271,8 @@
     {
         "name": "Türk Eczacılar Birliği Afet Eczanesi",
         "coordinates": {
-            "lat": "37.3223903",
-            "lng": "37.5025295"
+            "lat": 37.3223903,
+            "lng": 37.5025295
         },
         "extended_data": {
             "Adres": "Pazarcık Devlet Hastanesi"
@@ -282,16 +282,16 @@
     {
         "name": "Hatay Eğitim Araştırma Hastanesi Eczanesi",
         "coordinates": {
-            "lat": "36.2229874",
-            "lng": "36.2691804"
+            "lat": 36.2229874,
+            "lng": 36.2691804
         },
         "address": ""
     },
     {
         "name": "Türk Eczacılar Birliği Afet Eczanesi",
         "coordinates": {
-            "lat": "36.8459541",
-            "lng": "37.3847876"
+            "lat": 36.8459541,
+            "lng": 37.3847876
         },
         "extended_data": {
             "Adres": "Türkoğlu Millet Meydanı 2"
@@ -301,8 +301,8 @@
     {
         "name": "Türk Eczacılar Birliği Afet Eczanesi",
         "coordinates": {
-            "lat": "36.1226613",
-            "lng": "36.1992953"
+            "lat": 36.1226613,
+            "lng": 36.1992953
         },
         "extended_data": {
             "Adres": "Çadırkent, Muammer Aksoy Caddesi Defne"
@@ -312,8 +312,8 @@
     {
         "name": "Türk Eczacılar Birliği Afet Eczanesi",
         "coordinates": {
-            "lat": "37.8953089",
-            "lng": "38.0684601"
+            "lat": 37.8953089,
+            "lng": 38.0684601
         },
         "extended_data": {
             "Adres": "Yeni Devlet Hastanesi Karşısı Doğanşehir"
@@ -335,8 +335,8 @@
     {
         "name": "DEVA ECZANESİ",
         "coordinates": {
-            "lat": "37.386061",
-            "lng": "37.0604199"
+            "lat": 37.386061,
+            "lng": 37.0604199
         },
         "extended_data": {
             "Adres": "ALABEY MAHALLESİ BELEDİYE CADDESİ NO:4/1 ŞİREHAN OTEL ÇAPRAZI -ŞAHİNBEY GAZİANTEP",
@@ -347,8 +347,8 @@
     {
         "name": "BABİ ŞİFA ECZANESİ",
         "coordinates": {
-            "lat": "37.3629834",
-            "lng": "37.0360754"
+            "lat": 37.3629834,
+            "lng": 37.0360754
         },
         "extended_data": {
             "Adres": "GÜNEŞ MAHALLESİ 1 NOLU CADDE NO:196 GÜNEŞ SOSYAL TESİSİ CİVARI -ŞAHİNBEY",
@@ -371,8 +371,8 @@
     {
         "name": "MERVE ECZANESİ",
         "coordinates": {
-            "lat": "37.3482629",
-            "lng": "37.0578699"
+            "lat": 37.3482629,
+            "lng": 37.0578699
         },
         "extended_data": {
             "Adres": "ORDU CADDESİ TÜRK TELEKOM İL MÜDÜRLÜĞÜYANI İL JANDARMA KOMTANLIĞI KARŞISI -ŞAHİNBEY GAZİANTEP",
@@ -383,8 +383,8 @@
     {
         "name": "MEHMET CAN ECZANESİ",
         "coordinates": {
-            "lat": "37.3303114",
-            "lng": "37.0257396"
+            "lat": 37.3303114,
+            "lng": 37.0257396
         },
         "extended_data": {
             "Adres": "DEFA LİFE HASTANESİ ACİL KAPISI KARŞISI GÜNEYKENT MAHALLESİ 102208 NOLU CADDE NO:7/A -ŞAHİNBEY ",
@@ -395,8 +395,8 @@
     {
         "name": "EMRE ECZANESİ",
         "coordinates": {
-            "lat": "37.3524434",
-            "lng": "37.0312231"
+            "lat": 37.3524434,
+            "lng": 37.0312231
         },
         "extended_data": {
             "Adres": "ERTUĞRUL GAZİ MAHALLESİ 189012 NOLU CADDE NO:10/A (DOĞUSER SERAMİK KARŞI SOKAĞI, GETİR SOKAĞI) -ŞAHİNBEY GAZİANTEP",
@@ -431,8 +431,8 @@
     {
         "name": "GENCO ECZANESİ",
         "coordinates": {
-            "lat": "37.3310364",
-            "lng": "37.0665419"
+            "lat": 37.3310364,
+            "lng": 37.0665419
         },
         "extended_data": {
             "Adres": "OSMANGAZİ MAHALLESİ 56073 NOLU CADDE NO:9/D (İBRAHİMLİ METRO MARKET ARKASI) -ŞEHİTKAMİL",
@@ -443,8 +443,8 @@
     {
         "name": "ÖZBAYDAR ECZANESİ",
         "coordinates": {
-            "lat": "37.3621829",
-            "lng": "37.0660016"
+            "lat": 37.3621829,
+            "lng": 37.0660016
         },
         "extended_data": {
             "Adres": "FEVZİ ÇAKMAK BULVARI NO:38/C (25 ARALIK DEVLET HASTANESİ ACİL KARŞISI) -ŞEHİTKAMİL GAZİANTEP",
@@ -455,8 +455,8 @@
     {
         "name": "ŞEYMA ECZANESİ",
         "coordinates": {
-            "lat": "37.4057344",
-            "lng": "37.0622765"
+            "lat": 37.4057344,
+            "lng": 37.0622765
         },
         "extended_data": {
             "Adres": "29 EKİM MAHALLESİ 81053 NOLU SOKAK NO:30/B (141 NOLU TAZİYE EVİ KARŞISI) -ŞEHİTKAMİL GAZİANTEP",
@@ -467,8 +467,8 @@
     {
         "name": "DORUK ECZANESİ",
         "coordinates": {
-            "lat": "37.3873923",
-            "lng": "37.082113"
+            "lat": 37.3873923,
+            "lng": 37.082113
         },
         "extended_data": {
             "Adres": "HASIRCIOĞLU MAHALLESİ TEKEL CADDESİ 13NOLU SOKAK NO:40/A (HASIRCIOĞLU TIP MERKEZİ KARŞISI) -ŞEHİTKAMİL GAZİANTEP",
@@ -491,8 +491,8 @@
     {
         "name": "ERDOĞAN ECZANESİ",
         "coordinates": {
-            "lat": "37.4265884",
-            "lng": "37.08781"
+            "lat": 37.4265884,
+            "lng": 37.08781
         },
         "extended_data": {
             "Adres": "ATAKENT MAHALLESİ 02024 NOLU SOKAK NO:4/A (GAZİKENT ÖZEL BOSSAN HASTANESİ ACİL KARŞISI) -ŞEHİTKAMİL GAZİANTEP",
@@ -503,8 +503,8 @@
     {
         "name": "GÜNAY ECZANESİ",
         "coordinates": {
-            "lat": "37.7936105",
-            "lng": "37.0097109"
+            "lat": 37.7936105,
+            "lng": 37.0097109
         },
         "extended_data": {
             "Adres": "ATATÜRK BULVARI NO:44/B -NİZİP GAZİANTEP",
@@ -563,8 +563,8 @@
     {
         "name": "KARANFİL ECZANESİ",
         "coordinates": {
-            "lat": "36.735314",
-            "lng": "37.1848141"
+            "lat": 36.735314,
+            "lng": 37.1848141
         },
         "extended_data": {
             "Adres": "BAHÇELİEVLER MAHALLESİ HİLMİ KUTLUBAY CADDESİ NO:19/1 -NURDAĞI GAZİANTEP",
@@ -575,8 +575,8 @@
     {
         "name": "BAYRAM ECZANESİ",
         "coordinates": {
-            "lat": "38.619212",
-            "lng": "38.025612"
+            "lat": 38.619212,
+            "lng": 38.025612
         },
         "extended_data": {
             "MESAİ Mİ NÖBET Mİ": "MESAİ 18.00'E KADAR AÇIK",
@@ -620,8 +620,8 @@
     {
         "name": "FATİH ECZANESİ",
         "coordinates": {
-            "lat": "37.8495609",
-            "lng": "37.6889645"
+            "lat": 37.8495609,
+            "lng": 37.6889645
         },
         "extended_data": {
             "MESAİ Mİ NÖBET Mİ": "MESAİ 17.30'A KADAR AÇIK",
@@ -710,8 +710,8 @@
     {
         "name": "BÜŞRA ECZANESİ",
         "coordinates": {
-            "lat": "38.6069244",
-            "lng": "37.7982965"
+            "lat": 38.6069244,
+            "lng": 37.7982965
         },
         "extended_data": {
             "MESAİ Mİ NÖBET Mİ": "MESAİ  17.30'A KADAR AÇIK",
@@ -740,8 +740,8 @@
     {
         "name": "HAYAT ECZANESİ (KAHTA/ADIYAMAN)",
         "coordinates": {
-            "lat": "38.6067805",
-            "lng": "37.7983178"
+            "lat": 38.6067805,
+            "lng": 37.7983178
         },
         "extended_data": {
             "MESAİ Mİ NÖBET Mİ": "MESAİ 17.30'A KADAR AÇIK",
@@ -800,8 +800,8 @@
     {
         "name": "AKSA ECZANESİ",
         "coordinates": {
-            "lat": "38.6241769",
-            "lng": "37.7834742"
+            "lat": 38.6241769,
+            "lng": 37.7834742
         },
         "extended_data": {
             "MESAİ Mİ NÖBET Mİ": "MESAİ",
@@ -815,8 +815,8 @@
     {
         "name": "SAĞLIK ECZANESİ",
         "coordinates": {
-            "lat": "38.6068597",
-            "lng": "37.7983122"
+            "lat": 38.6068597,
+            "lng": 37.7983122
         },
         "extended_data": {
             "MESAİ Mİ NÖBET Mİ": "MESAİ",
@@ -845,8 +845,8 @@
     {
         "name": "TURANLI ECZANESİ",
         "coordinates": {
-            "lat": "38.6073305",
-            "lng": "37.7980208"
+            "lat": 38.6073305,
+            "lng": 37.7980208
         },
         "extended_data": {
             "MESAİ Mİ NÖBET Mİ": "MESAİ",
@@ -890,8 +890,8 @@
     {
         "name": "LOKMAN ECZANESİ",
         "coordinates": {
-            "lat": "38.6058164",
-            "lng": "37.7981437"
+            "lat": 38.6058164,
+            "lng": 37.7981437
         },
         "extended_data": {
             "MESAİ Mİ NÖBET Mİ": "MESAİ SAATLERİ DIŞINDA DA AÇIK",
@@ -905,8 +905,8 @@
     {
         "name": "HACETTEPE ECZANESİ(KAHTA)",
         "coordinates": {
-            "lat": "38.6058236",
-            "lng": "37.798193"
+            "lat": 38.6058236,
+            "lng": 37.798193
         },
         "extended_data": {
             "MESAİ Mİ NÖBET Mİ": "20.00'YE KADAR AÇIK",
@@ -979,8 +979,8 @@
     {
         "name": "SARAY ECZANESİ",
         "coordinates": {
-            "lat": "38.6074723",
-            "lng": "37.7980149"
+            "lat": 38.6074723,
+            "lng": 37.7980149
         },
         "extended_data": {
             "MESAİ Mİ NÖBET Mİ": "MESAİ(17.30'a kadar)",
@@ -1009,8 +1009,8 @@
     {
         "name": "YAMAN ECZANESİ",
         "coordinates": {
-            "lat": "38.6235686",
-            "lng": "37.7829975"
+            "lat": 38.6235686,
+            "lng": 37.7829975
         },
         "extended_data": {
             "MESAİ Mİ NÖBET Mİ": "MESAİ(17.30'a kadar)",
@@ -1069,8 +1069,8 @@
     {
         "name": "HAYAT ECZANESİ",
         "coordinates": {
-            "lat": "37.8694619",
-            "lng": "37.687031"
+            "lat": 37.8694619,
+            "lng": 37.687031
         },
         "extended_data": {
             "MESAİ Mİ NÖBET Mİ": "MESAİ",
@@ -1095,8 +1095,8 @@
     {
         "name": "Yaşar Eczanesi",
         "coordinates": {
-            "lat": "40.2376067",
-            "lng": "37.9161258"
+            "lat": 40.2376067,
+            "lng": 37.9161258
         },
         "extended_data": {
             "Adres": "Ali Gaffar Okan Lisesi karşısı (Bower Hastanesi Çaprazı) Cumhuriyet garajı yanı Sur DİYARBAKIR",
@@ -1123,8 +1123,8 @@
     {
         "name": "Mesut Eczanesi",
         "coordinates": {
-            "lat": "40.2018965",
-            "lng": "37.9173851"
+            "lat": 40.2018965,
+            "lng": 37.9173851
         },
         "extended_data": {
             "Adres": "ENTO CAD. HACI SÜLEYMAN AYDIN SİT. ALTI C BLOK NO:83/B KURUÇEŞME ZİRAAT BANKASI BİTİŞİĞİ BAĞLAR DİYARBAKIR",
@@ -1207,8 +1207,8 @@
     {
         "name": "Çevre Eczanesi",
         "coordinates": {
-            "lat": "40.2025462",
-            "lng": "37.9289622"
+            "lat": 40.2025462,
+            "lng": 37.9289622
         },
         "extended_data": {
             "Adres": "HATBOYU CAD.GÜNEYDOĞU YAPI KOOP.1.KISIM NO:1 ÇARŞAMBA PAZARININ BAŞI HATBOYU HACI BABA PASTANESİ KARŞISI BAĞLAR DİYARBAKIR",
@@ -1221,8 +1221,8 @@
     {
         "name": "Ulusoy Eczanesi",
         "coordinates": {
-            "lat": "40.2025513",
-            "lng": "37.9169935"
+            "lat": 40.2025513,
+            "lng": 37.9169935
         },
         "extended_data": {
             "Adres": "BAĞLAR SENTO CAD. KURUÇEŞME NO:79 ZİRAAT BANKASININ 50 M İLERİSİ DİYARBAKIR",
@@ -1263,8 +1263,8 @@
     {
         "name": "Kaya Eczanesi",
         "coordinates": {
-            "lat": "40.2369864",
-            "lng": "37.9151867"
+            "lat": 40.2369864,
+            "lng": 37.9151867
         },
         "extended_data": {
             "Adres": "Gazi Yaşargil Eğitim Ve Araştırma Hastanesi karşısı DİYARBAKIR",
@@ -1319,8 +1319,8 @@
     {
         "name": "Doruk Eczanesi",
         "coordinates": {
-            "lat": "40.6704974",
-            "lng": "37.8456632"
+            "lat": 40.6704974,
+            "lng": 37.8456632
         },
         "extended_data": {
             "Adres": "Akpınar Mah. 15. Cad. No:73G DİYARBAKIR",
@@ -1333,8 +1333,8 @@
     {
         "name": "Hacettepe Eczanesi",
         "coordinates": {
-            "lat": "39.4502474",
-            "lng": "38.1282855"
+            "lat": 39.4502474,
+            "lng": 38.1282855
         },
         "extended_data": {
             "Adres": "Çukur mahallesi kumludere sokak no 8a Çermik devlet hastanesi karşısı çermik DİYARBAKIR",
@@ -1374,8 +1374,8 @@
     {
         "name": "Habibe Eczanesi",
         "coordinates": {
-            "lat": "39.7822096",
-            "lng": "38.2629497"
+            "lat": 39.7822096,
+            "lng": 38.2629497
         },
         "extended_data": {
             "Adres": "Ergani devlet hastanesi karşısı Kıralan Dink mevkisi Adnan Menderes mahallesi no 12:b ERGANİ DİYARBAKIR",
@@ -1467,8 +1467,8 @@
     {
         "name": "YENİ ECZANESİ",
         "coordinates": {
-            "lat": "35.3253447",
-            "lng": "36.9990727"
+            "lat": 35.3253447,
+            "lng": 36.9990727
         },
         "extended_data": {
             "Adres": "ATATÜRK CAD. VALİYOLU KAVŞAĞI KUVEYT TÜRK BANK. ARKASI MAKİ KARŞISI ADANA",
@@ -1798,8 +1798,8 @@
     {
         "name": "MİHRAP ECZANESİ",
         "coordinates": {
-            "lat": "36.2179599",
-            "lng": "38.2538102"
+            "lat": 36.2179599,
+            "lng": 38.2538102
         },
         "extended_data": {
             "Adres": "İSTİKLAL MH.GİRNE CD.NO:111/A SAĞLIK OCAĞI YANI ADANA",
@@ -1837,8 +1837,8 @@
     {
         "name": "SİNAN ECZANESİ",
         "coordinates": {
-            "lat": "38.7867494",
-            "lng": "37.1594225"
+            "lat": 38.7867494,
+            "lng": 37.1594225
         },
         "extended_data": {
             "TEL NO": "(0414) 315 15 25",
@@ -6036,8 +6036,8 @@
     {
         "name": "DEVA ECZANESİ",
         "coordinates": {
-            "lat": "36.9273982",
-            "lng": "37.5799648"
+            "lat": 36.9273982,
+            "lng": 37.5799648
         },
         "extended_data": {
             "Adres": "FATİH MAH.HALK CAD.NO:3/A AİLE SAĞLIĞI MERKEZİ YANI KAHRAMANMARAŞ",
