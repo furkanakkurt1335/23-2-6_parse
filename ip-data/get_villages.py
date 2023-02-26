@@ -86,8 +86,8 @@ for sheet_name in sheet_l:
         else:
             prev_district = district
         village = df[sheet_name][key_d['village']][i]
-        if not is_village(city, district, village):
-            continue
+        # if not is_village(city, district, village):
+        #     continue
         if not key_d['authority']:
             authority = ''
         else:
